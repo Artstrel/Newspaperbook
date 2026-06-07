@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="100%" height="100%">
+  <defs>
+    <style>
+      .border-box { fill: none; stroke: #1a1a1a; stroke-width: 2; }
+      .label-bg-weak { fill: #d32f2f; }
+      .label-bg-good { fill: #388e3c; }
+      .label-text { fill: #ffffff; font-family: 'Arial Black', Gadget, sans-serif; font-size: 14px; font-weight: bold; text-anchor: middle; }
+      .section-header-weak { fill: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 28px; font-weight: bold; }
+      .section-header-good { fill: #4a4a4a; font-family: 'Georgia', serif; font-size: 26px; letter-spacing: 2px; }
+      .headline { fill: #000000; font-family: 'Arial Black', Gadget, sans-serif; font-size: 27px; font-weight: 900; }
+      .rule-weak { stroke: #000000; stroke-width: 1.5; }
+      .rule-good { stroke: #000000; stroke-width: 4; }
+      .column-placeholder { fill: #e0e0e0; }
+    </style>
+  </defs>
+
+  <g id="layout-1" data-type="layout-variant" data-quality="weak">
+    <rect x="20" y="40" width="540" height="320" class="border-box" />
+    <path d="M 20 40 L 90 40 L 90 75 L 20 75 Z" class="label-bg-weak" />
+    <text x="55" y="62" class="label-text">WEAK</text>
+
+    <text x="150" y="105" class="section-header-weak" data-type="section-header">Living &amp; Life</text>
+    <line x1="50" y1="125" x2="530" y2="125" class="rule-weak" />
+
+    <text x="50" y="165" class="headline" data-type="headline">Oat bran: the silent killer?</text>
+
+    <g data-type="grid-columns">
+      <rect x="50" y="190" width="105" height="145" class="column-placeholder" data-type="column" data-index="1" />
+      <rect x="170" y="190" width="105" height="145" class="column-placeholder" data-type="column" data-index="2" />
+      <rect x="290" y="190" width="105" height="145" class="column-placeholder" data-type="column" data-index="3" />
+      <rect x="410" y="190" width="105" height="145" class="column-placeholder" data-type="column" data-index="4" />
+    </g>
+  </g>
+
+  <g id="layout-2" data-type="layout-variant" data-quality="good">
+    <rect x="640" y="40" width="540" height="320" class="border-box" />
+    <path d="M 640 40 L 710 40 L 710 75 L 640 75 Z" class="label-bg-good" />
+    <text x="675" y="62" class="label-text">GOOD</text>
+
+    <text x="735" y="98" class="section-header-good" data-type="section-header">LIVELY LIVING</text>
+    <line x1="670" y1="115" x2="1150" y2="115" class="rule-good" />
+
+    <text x="670" y="155" class="headline" data-type="headline">Oat bran: the silent killer?</text>
+
+    <g data-type="grid-columns">
+      <rect x="670" y="180" width="84" height="155" class="column-placeholder" data-type="column" data-index="1" />
+      <rect x="766" y="180" width="84" height="155" class="column-placeholder" data-type="column" data-index="2" />
+      <rect x="862" y="180" width="84" height="155" class="column-placeholder" data-type="column" data-index="3" />
+      <rect x="958" y="180" width="84" height="155" class="column-placeholder" data-type="column" data-index="4" />
+      <rect x="1054" y="180" width="84" height="155" class="column-placeholder" data-type="column" data-index="5" />
+    </g>
+  </g>
+</svg>

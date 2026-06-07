@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1200 800" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g id="layout-4" transform="matrix(1,0,0,1,0,140)">
+        <rect x="50" y="50" width="520" height="420" style="fill:none;stroke:rgb(17,17,17);stroke-width:2px;"/>
+        <g transform="matrix(0.968266,0,0,0.968266,2.430437,2.896939)">
+            <g transform="matrix(1,0,0,1,75,110)">
+                <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:26px;fill:rgb(17,17,17);">Uvumvmvmvmmu</text>
+            </g>
+            <g transform="matrix(1,0,0,1,75,145)">
+                <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:26px;fill:rgb(17,17,17);">ummmv vmuy</text>
+            </g>
+        </g>
+        <g>
+            <rect x="75" y="180" width="100" height="260" style="fill:rgb(221,221,221);"/>
+            <rect x="190" y="180" width="100" height="260" style="fill:rgb(221,221,221);"/>
+            <rect x="305" y="80" width="100" height="360" style="fill:rgb(221,221,221);"/>
+            <rect x="420" y="80" width="100" height="360" style="fill:rgb(221,221,221);"/>
+        </g>
+        <g>
+            <rect x="40" y="210" width="95" height="45" style="fill:rgb(192,57,43);"/>
+            <g transform="matrix(1,0,0,1,53,241)">
+                <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:18px;fill:white;">O<tspan x="14.181px 27.36px 38.887px " y="0px 0px 0px ">KAY</tspan></text>
+            </g>
+        </g>
+    </g>
+    <g id="layout-5" transform="matrix(1,0,0,1,0,140)">
+        <rect x="630" y="50" width="520" height="420" style="fill:none;stroke:rgb(17,17,17);stroke-width:2px;"/>
+        <g transform="matrix(0.887113,0,0,0.887113,73.978393,-0.981961)">
+            <g transform="matrix(1,0,0,1,655,110)">
+                <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:26px;fill:rgb(17,17,17);">Uvumvvy</text>
+            </g>
+            <g transform="matrix(1,0,0,1,655,145)">
+                <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:26px;fill:rgb(17,17,17);">vumuyvu</text>
+            </g>
+            <g transform="matrix(1,0,0,1,655,180)">
+                <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:26px;fill:rgb(17,17,17);">uvyuvuy</text>
+            </g>
+            <g transform="matrix(1,0,0,1,655,215)">
+                <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:26px;fill:rgb(17,17,17);">umumnv</text>
+            </g>
+        </g>
+        <g>
+            <rect x="620" y="250" width="95" height="45" style="fill:rgb(192,57,43);"/>
+            <g transform="matrix(1,0,0,1,633,281)">
+                <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:18px;fill:white;">O<tspan x="14.181px 27.36px 38.887px " y="0px 0px 0px ">KAY</tspan></text>
+            </g>
+        </g>
+        <g>
+            <rect x="770" y="80" width="100" height="360" style="fill:rgb(221,221,221);"/>
+            <rect x="885" y="80" width="100" height="360" style="fill:rgb(221,221,221);"/>
+            <rect x="1000" y="80" width="100" height="360" style="fill:rgb(221,221,221);"/>
+        </g>
+    </g>
+</svg>

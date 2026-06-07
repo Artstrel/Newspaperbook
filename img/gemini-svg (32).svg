@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1200 4000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g id="layout-a">
+        <rect x="50" y="50" width="1100" height="1200" style="fill:white;stroke:black;stroke-width:2px;"/>
+        <g transform="matrix(1,0,0,1,45,-50)">
+            <circle cx="1100" cy="100" r="25"/>
+            <g transform="matrix(1,0,0,1,1100,109)">
+                <text x="-8.666px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:24px;fill:white;">A</text>
+            </g>
+        </g>
+        <g transform="matrix(0.779687,0,0,1,17.625,17.5)">
+            <rect x="80" y="100" width="620" height="35" style="fill-rule:nonzero;"/>
+            <rect x="80" y="150" width="640" height="35" style="fill-rule:nonzero;"/>
+        </g>
+        <g>
+            <rect x="80" y="240" width="230" height="900" style="fill:rgb(211,211,211);"/>
+            <rect x="350" y="240" width="230" height="900" style="fill:rgb(211,211,211);"/>
+            <rect x="620" y="620" width="230" height="520" style="fill:rgb(211,211,211);"/>
+            <g transform="matrix(1,0,0,1.136111,0,-155.166667)">
+                <rect x="890" y="240" width="230" height="900" style="fill:rgb(211,211,211);"/>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1.098152,0,7.684758)">
+            <rect x="620" y="100" width="230" height="380" style="fill:white;stroke:black;stroke-width:3px;"/>
+            <path d="M620,100L850,480" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+            <path d="M620,480L850,100" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+            <rect x="620" y="495" width="230" height="8"/>
+            <rect x="620" y="510" width="230" height="8"/>
+            <rect x="620" y="525" width="230" height="8"/>
+        </g>
+    </g>
+    <g id="layout-b" transform="matrix(1,0,0,1,0,1350)">
+        <rect x="50" y="50" width="1100" height="1200" style="fill:white;stroke:black;stroke-width:2px;"/>
+        <g transform="matrix(1,0,0,1,45,-53)">
+            <circle cx="1100" cy="100" r="25"/>
+            <g transform="matrix(1,0,0,1,1100,109)">
+                <text x="-8.666px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:24px;fill:white;">B</text>
+            </g>
+        </g>
+        <g>
+            <rect x="80" y="100" width="1030" height="40" style="fill-rule:nonzero;"/>
+        </g>
+        <g>
+            <rect x="80" y="180" width="500" height="400" style="fill:white;stroke:black;stroke-width:3px;"/>
+            <path d="M80,180L580,580" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+            <path d="M80,580L580,180" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+            <rect x="80" y="595" width="500" height="15"/>
+        </g>
+        <g>
+            <rect x="80" y="640" width="230" height="500" style="fill:rgb(211,211,211);"/>
+            <rect x="350" y="640" width="230" height="500" style="fill:rgb(211,211,211);"/>
+            <rect x="620" y="180" width="230" height="960" style="fill:rgb(211,211,211);"/>
+            <rect x="890" y="180" width="230" height="960" style="fill:rgb(211,211,211);"/>
+        </g>
+    </g>
+    <g id="layout-c" transform="matrix(1,0,0,1,0,2700)">
+        <rect x="50" y="50" width="1100" height="1200" style="fill:white;stroke:black;stroke-width:2px;"/>
+        <g transform="matrix(1,0,0,1,50,-50)">
+            <circle cx="1100" cy="100" r="25"/>
+            <g transform="matrix(1,0,0,1,1100,109)">
+                <text x="-8.666px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:24px;fill:white;">C</text>
+            </g>
+        </g>
+        <g>
+            <rect x="80" y="100" width="550" height="920" style="fill:white;stroke:black;stroke-width:3px;"/>
+            <path d="M80,100L630,1020" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+            <path d="M80,1020L630,100" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2px;"/>
+            <rect x="80" y="1035" width="550" height="18"/>
+        </g>
+        <g>
+            <rect x="670" y="100" width="440" height="35" style="fill-rule:nonzero;"/>
+            <rect x="670" y="150" width="440" height="35" style="fill-rule:nonzero;"/>
+        </g>
+        <g>
+            <rect x="670" y="240" width="200" height="420" style="fill:rgb(211,211,211);"/>
+            <rect x="910" y="240" width="200" height="420" style="fill:rgb(211,211,211);"/>
+            <rect x="670" y="695" width="440" height="20" style="fill-rule:nonzero;"/>
+            <rect x="670" y="740" width="200" height="400" style="fill:rgb(211,211,211);"/>
+            <rect x="910" y="740" width="200" height="400" style="fill:rgb(211,211,211);"/>
+        </g>
+        <rect x="80" y="1080" width="550" height="60" style="fill:rgb(211,211,211);"/>
+    </g>
+</svg>

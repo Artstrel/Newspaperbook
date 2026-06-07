@@ -1,0 +1,154 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1600" width="100%" height="100%">
+  <defs>
+    <style>
+      .layout-bg { fill: #ffffff; stroke: #000000; stroke-width: 2; }
+      .story-box { fill: none; stroke: #000000; stroke-width: 3; }
+      .image-placeholder { fill: #ffffff; stroke: #000000; stroke-width: 2; }
+      .image-cross { stroke: #000000; stroke-width: 1.5; }
+      .image-border-thick { stroke: #000000; stroke-width: 4; fill: none; }
+      .headline { fill: #000000; font-family: sans-serif; font-weight: 900; text-anchor: start; }
+      .text-column { fill: #e0e0e0; stroke: none; }
+      .flow-arrow { fill: #8b9680; stroke: #5d6655; stroke-width: 1; }
+    </style>
+  </defs>
+
+  <g id="layout-1" data-type="layout"><rect x="0" y="0" width="1" height="1" fill="none" opacity="0"/></g>
+  <g id="layout-2" data-type="layout"><rect x="0" y="0" width="1" height="1" fill="none" opacity="0"/></g>
+  <g id="layout-3" data-type="layout"><rect x="0" y="0" width="1" height="1" fill="none" opacity="0"/></g>
+  <g id="layout-4" data-type="layout"><rect x="0" y="0" width="1" height="1" fill="none" opacity="0"/></g>
+  <g id="layout-5" data-type="layout"><rect x="0" y="0" width="1" height="1" fill="none" opacity="0"/></g>
+  <g id="layout-6" data-type="layout"><rect x="0" y="0" width="1" height="1" fill="none" opacity="0"/></g>
+
+  <g id="layout-7" data-type="layout" data-variant="simple-story-left-text">
+    <rect x="50" y="50" width="450" height="350" class="layout-bg" />
+    
+    <g data-type="headline-group">
+      <text x="75" y="85" font-size="14" class="headline">Umuyuv</text>
+      <text x="75" y="102" font-size="14" class="headline">vuvuw</text>
+      <text x="75" y="119" font-size="14" class="headline">umvuyu</text>
+    </g>
+
+    <g data-type="columns">
+      <rect x="75" y="135" width="60" height="240" class="text-column" />
+    </g>
+
+    <g data-type="image" data-importance="primary" class="image-container">
+      <rect x="150" y="75" width="165" height="300" class="image-placeholder" />
+      <line x1="150" y1="75" x2="315" y2="375" class="image-cross" />
+      <line x1="315" y1="75" x2="150" y2="375" class="image-cross" />
+      <line x1="150" y1="382" x2="315" y2="382" class="image-border-thick" />
+    </g>
+
+    <path d="M 465,170 C 495,170 495,185 515,185 L 515,170 L 550,195 L 515,220 L 515,205 C 495,205 495,200 465,170 Z" class="flow-arrow" />
+  </g>
+
+  <g id="layout-8" data-type="layout" data-variant="simple-story-right-text">
+    <rect x="560" y="50" width="500" height="350" class="layout-bg" />
+    
+    <g data-type="image" data-importance="primary" class="image-container">
+      <rect x="660" y="75" width="165" height="300" class="image-placeholder" />
+      <line x1="660" y1="75" x2="825" y2="375" class="image-cross" />
+      <line x1="825" y1="75" x2="660" y2="375" class="image-cross" />
+      <line x1="660" y1="382" x2="825" y2="382" class="image-border-thick" />
+    </g>
+
+    <g data-type="headline-group">
+      <text x="840" y="90" font-size="14" class="headline">Ummmmuy</text>
+      <text x="840" y="108" font-size="14" class="headline">umu ummmv</text>
+    </g>
+
+    <g data-type="image" data-importance="secondary" class="image-container">
+      <rect x="915" y="125" width="80" height="110" class="image-placeholder" />
+      <line x1="915" y1="125" x2="995" y2="235" class="image-cross" />
+      <line x1="995" y1="125" x2="915" y2="235" class="image-cross" />
+      <line x1="915" y1="242" x2="995" y2="242" class="image-border-thick" />
+    </g>
+
+    <g data-type="columns">
+      <rect x="840" y="125" width="60" height="250" class="text-column" />
+      <rect x="915" y="255" width="80" height="120" class="text-column" />
+    </g>
+  </g>
+
+  <g id="layout-9" data-type="layout" data-variant="story-separation-ambiguous">
+    <rect x="50" y="520" width="500" height="350" class="layout-bg" />
+    
+    <g data-type="story-package" data-id="pkg-left">
+      <g data-type="headline-group">
+        <text x="75" y="555" font-size="14" class="headline">Umuyuv</text>
+        <text x="75" y="572" font-size="14" class="headline">vuvuw</text>
+        <text x="75" y="589" font-size="14" class="headline">umvuyu</text>
+      </g>
+      <g data-type="columns">
+        <rect x="75" y="605" width="60" height="240" class="text-column" />
+      </g>
+    </g>
+
+    <g data-type="image" data-importance="primary" class="image-container">
+      <rect x="150" y="540" width="165" height="300" class="image-placeholder" />
+      <line x1="150" y1="540" x2="315" y2="840" class="image-cross" />
+      <line x1="315" y1="540" x2="150" y2="840" class="image-cross" />
+      <line x1="150" y1="847" x2="315" y2="847" class="image-border-thick" />
+    </g>
+
+    <g data-type="story-package" data-id="pkg-right">
+      <g data-type="headline-group">
+        <text x="330" y="555" font-size="14" class="headline">Uvumvuyuvuy</text>
+        <text x="330" y="573" font-size="14" class="headline">vumuyummu</text>
+      </g>
+      <g data-type="image" data-importance="secondary" class="image-container">
+        <rect x="400" y="590" width="80" height="110" class="image-placeholder" />
+        <line x1="400" y1="590" x2="480" y2="700" class="image-cross" />
+        <line x1="480" y1="590" x2="400" y2="700" class="image-cross" />
+        <line x1="400" y1="707" x2="480" y2="707" class="image-border-thick" />
+      </g>
+      <g data-type="columns">
+        <rect x="330" y="590" width="55" height="255" class="text-column" />
+        <rect x="400" y="720" width="80" height="125" class="text-column" />
+      </g>
+    </g>
+
+    <path d="M 465,640 C 495,640 495,655 515,655 L 515,640 L 550,665 L 515,690 L 515,675 C 495,675 495,670 465,640 Z" class="flow-arrow" />
+  </g>
+
+  <g id="layout-10" data-type="layout" data-variant="story-separation-boxed">
+    <rect x="560" y="520" width="500" height="350" class="layout-bg" />
+    
+    <g data-type="story-package" data-id="pkg-left-unboxed">
+      <g data-type="headline-group">
+        <text x="585" y="555" font-size="14" class="headline">Umuyuv</text>
+        <text x="585" y="572" font-size="14" class="headline">vuvuw</text>
+        <text x="585" y="589" font-size="14" class="headline">umvuyu</text>
+      </g>
+      <g data-type="columns">
+        <rect x="585" y="605" width="60" height="240" class="text-column" />
+      </g>
+    </g>
+
+    <g data-type="image" data-importance="primary" class="image-container">
+      <rect x="660" y="540" width="165" height="300" class="image-placeholder" />
+      <line x1="660" y1="540" x2="825" y2="840" class="image-cross" />
+      <line x1="825" y1="540" x2="660" y2="840" class="image-cross" />
+      <line x1="660" y1="847" x2="825" y2="847" class="image-border-thick" />
+    </g>
+
+    <g data-type="story-package" data-id="pkg-right-boxed" data-modifiers="boxed">
+      <rect x="835" y="535" width="165" height="320" class="story-box" />
+      
+      <g data-type="headline-group">
+        <text x="845" y="555" font-size="14" class="headline">Uvumvuyuvuy</text>
+        <text x="845" y="573" font-size="14" class="headline">vumuyummu</text>
+      </g>
+      <g data-type="image" data-importance="secondary" class="image-container">
+        <rect x="910" y="590" width="80" height="110" class="image-placeholder" />
+        <line x1="910" y1="590" x2="990" y2="700" class="image-cross" />
+        <line x1="990" y1="590" x2="910" y2="700" class="image-cross" />
+        <line x1="910" y1="707" x2="990" y2="707" class="image-border-thick" />
+      </g>
+      <g data-type="columns">
+        <rect x="845" y="590" width="55" height="255" class="text-column" />
+        <rect x="910" y="720" width="80" height="125" class="text-column" />
+      </g>
+    </g>
+  </g>
+</svg>

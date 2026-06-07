@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1200 405" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g id="layout-1">
+        <rect x="50" y="50" width="1100" height="300" style="fill:white;stroke:black;stroke-width:2px;"/>
+        <g>
+            <g transform="matrix(1.076981,0,0,1.076981,69.867387,143.247075)">
+                <text x="0px" y="0px" style="font-family:'Impact', sans-serif;font-stretch:condensed;font-size:42px;">President Obama meets</text>
+            </g>
+            <g transform="matrix(1.076981,0,0,1.076981,69.867387,194.942184)">
+                <text x="0px" y="0px" style="font-family:'Impact', sans-serif;font-stretch:condensed;font-size:42px;">Medvedev in Washington</text>
+            </g>
+            <g transform="matrix(1,0,0,1,70,260)">
+                <text x="0px" y="0px" style="font-family:'Georgia', serif;font-size:16px;">By Robin Fox /</text>
+                <text x="110.516px" y="0px" style="font-family:'Helvetica-BoldOblique', 'Helvetica';font-weight:700;font-style:italic;font-size:16px;">The T<tspan x="152.898px 157.344px " y="0px 0px ">im</tspan>es</text>
+            </g>
+            <rect x="70" y="280" width="220" height="50" style="fill:rgb(224,224,224);"/>
+            <rect x="310" y="280" width="220" height="50" style="fill:rgb(224,224,224);"/>
+        </g>
+        <g>
+            <g transform="matrix(1.088322,0,0,1.088322,579.989132,142.872663)">
+                <text x="0px" y="0px" style="font-family:'Impact', sans-serif;font-stretch:condensed;font-size:42px;">Frisbee title-holder</text>
+            </g>
+            <g transform="matrix(1.088322,0,0,1.088322,579.989132,194.888926)">
+                <text x="0px" y="0px" style="font-family:'Impact', sans-serif;font-stretch:condensed;font-size:42px;">to challenge record</text>
+            </g>
+            <g transform="matrix(1,0,0,1,580,260)">
+                <text x="0px" y="0px" style="font-family:'Georgia', serif;font-size:16px;">By John Hamlin /</text>
+                <text x="130.859px" y="0px" style="font-family:'Helvetica-BoldOblique', 'Helvetica';font-weight:700;font-style:italic;font-size:16px;">The T<tspan x="173.242px 177.688px " y="0px 0px ">im</tspan>es</text>
+            </g>
+            <rect x="580" y="280" width="220" height="50" style="fill:rgb(224,224,224);"/>
+            <rect x="820" y="280" width="220" height="50" style="fill:rgb(224,224,224);"/>
+        </g>
+    </g>
+</svg>

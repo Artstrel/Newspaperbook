@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1600" width="100%" height="100%">
+  <style>
+    .layout-bg { fill: #ffffff; stroke: #000000; stroke-width: 2; }
+    .text-block { fill: #e0e0e0; }
+    .text-line { fill: #000000; font-family: monospace; font-size: 14px; font-weight: bold; }
+    .image-box { fill: none; stroke: #000000; stroke-width: 2; }
+    .image-cross { stroke: #000000; stroke-width: 1.5; }
+    .caption-bar { fill: #000000; }
+    .border-box { fill: none; stroke: #000000; stroke-width: 3; }
+    .arrow-path { fill: #7a8b7a; }
+  </style>
+
+  <g id="layout-1" data-type="layout-confusion" transform="translate(50, 100)">
+    <rect class="layout-bg" x="0" y="0" width="450" height="350" />
+    
+    <g data-type="sidebar-left">
+      <rect class="text-block" x="20" y="110" width="50" height="210" />
+      <text class="text-line" x="20" y="40">Uммuy</text>
+      <text class="text-line" x="20" y="60">vшмvuy</text>
+      <text class="text-line" x="20" y="80">uмuмyuv</text>
+    </g>
+
+    <g data-type="image-container">
+      <rect class="image-box" x="100" y="40" width="250" height="250" />
+      <line class="image-cross" x1="100" y1="40" x2="350" y2="290" />
+      <line class="image-cross" x1="350" y1="40" x2="100" y2="290" />
+    </g>
+
+    <rect class="caption-bar" x="100" y="305" width="250" height="8" data-type="caption" />
+
+    <g data-type="sidebar-right">
+      <rect class="text-block" x="380" y="110" width="50" height="210" />
+      <text class="text-line" x="380" y="40">Uммuy</text>
+      <text class="text-line" x="380" y="60">vшмvuy</text>
+      <text class="text-line" x="380" y="80">uмuмyuv</text>
+    </g>
+  </g>
+
+  <path class="arrow-path" d="M 530,220 C 560,220 560,260 600,260 L 590,245 L 630,265 L 590,285 L 600,270 C 550,270 540,220 530,220 Z" />
+
+  <g id="layout-2" data-type="layout-clarity" transform="translate(680, 100)">
+    <rect class="layout-bg" x="0" y="0" width="450" height="350" />
+    
+    <g data-type="sidebar-left">
+      <rect class="text-block" x="20" y="110" width="50" height="210" />
+      <text class="text-line" x="20" y="40">Uммuy</text>
+      <text class="text-line" x="20" y="60">vшмvuy</text>
+      <text class="text-line" x="20" y="80">uмuмyuv</text>
+    </g>
+
+    <g data-type="story-package">
+      <rect class="border-box" x="90" y="25" width="340" height="300" />
+
+      <g data-type="image-container">
+        <rect class="image-box" x="105" y="40" width="250" height="250" />
+        <line class="image-cross" x1="105" y1="40" x2="355" y2="290" />
+        <line class="image-cross" x1="355" y1="40" x2="105" y2="290" />
+      </g>
+
+      <rect class="caption-bar" x="105" y="305" width="250" height="8" data-type="caption" />
+
+      <g data-type="sidebar-right">
+        <rect class="text-block" x="375" y="110" width="45" height="200" />
+        <text class="text-line" x="375" y="55">Uммuy</text>
+        <text class="text-line" x="375" y="75">vшмvuy</text>
+        <text class="text-line" x="375" y="95">uмuмyuv</text>
+      </g>
+    </g>
+  </g>
+
+  <g id="layout-3" data-type="empty-placeholder" transform="translate(50, 500)"></g>
+  <g id="layout-4" data-type="empty-placeholder" transform="translate(680, 500)"></g>
+  <g id="layout-5" data-type="empty-placeholder" transform="translate(50, 850)"></g>
+  <g id="layout-6" data-type="empty-placeholder" transform="translate(680, 850)"></g>
+  <g id="layout-7" data-type="empty-placeholder" transform="translate(50, 1200)"></g>
+  <g id="layout-8" data-type="empty-placeholder" transform="translate(680, 1200)"></g>
+  <g id="layout-9" data-type="empty-placeholder" transform="translate(50, 1550)"></g>
+  <g id="layout-10" data-type="empty-placeholder" transform="translate(680, 1550)"></g>
+</svg>

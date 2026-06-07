@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1600" width="100%" height="100%">
+  <defs>
+    <style>
+      .outer-border { fill: none; stroke: #111111; stroke-width: 2; }
+      .headline { fill: #111111; font-family: sans-serif; font-weight: 900; text-anchor: middle; }
+      .badge-bg { fill: #b84335; }
+      .badge-text { fill: #ffffff; font-family: sans-serif; font-weight: bold; text-anchor: middle; }
+      .text-column { fill: #dddddd; }
+      .image-placeholder { fill: none; stroke: #111111; stroke-width: 2; }
+      .image-diagonal { stroke: #111111; stroke-width: 1.5; }
+      .caption-lines { stroke: #111111; stroke-width: 2; }
+    </style>
+  </defs>
+
+  <g id="layout-10" data-type="layout-single-column-interrupted">
+    <rect x="450" y="50" width="300" height="1500" class="outer-border" data-type="container" />
+
+    <g data-type="headline-group">
+      <text x="600" y="130" font-size="44" class="headline" data-type="headline">Uvuvumu</text>
+      <text x="600" y="190" font-size="44" class="headline" data-type="headline">vummuuy</text>
+    </g>
+
+    <g data-type="image-container">
+      <rect x="495" y="240" width="210" height="250" class="image-placeholder" data-type="image" />
+      <line x1="495" y1="240" x2="705" y2="490" class="image-diagonal" />
+      <line x1="495" y1="490" x2="705" y2="240" class="image-diagonal" />
+      <line x1="495" y1="510" x2="705" y2="510" class="caption-lines" />
+      <line x1="495" y1="525" x2="705" y2="525" class="caption-lines" />
+    </g>
+
+    <g data-type="badge" class="badge-group">
+      <rect x="480" y="280" width="135" height="65" class="badge-bg" data-type="badge-background" />
+      <text x="547" y="323" font-size="24" class="badge-text" data-type="badge-label" letter-spacing="1">WEAK</text>
+    </g>
+
+    <rect x="495" y="560" width="210" height="920" class="text-column" data-type="column" data-column-index="1" />
+  </g>
+</svg>

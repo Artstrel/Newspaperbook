@@ -1,0 +1,40 @@
+backend:
+  name: github
+  repo: your-username/your-repo-name # TODO: Укажите ваш репозиторий, например username/newspaper-site
+  branch: main # Ветка по умолчанию
+  # Используйте netlify-identity если настроен, или PKCE
+  # open_authoring: true 
+
+local_backend: true # Позволяет тестировать локально через 'npx decap-server'
+
+media_folder: "img"
+public_folder: "img"
+
+collections:
+  - name: "chapters"
+    label: "Главы (Chapters)"
+    folder: "_chapters"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Название (Title)", name: "title", widget: "string"}
+      - {label: "Краткое название (Index Title)", name: "indexTitle", widget: "string"}
+      - label: "Статьи в главе"
+        name: "articles"
+        widget: "list"
+        # Сохраняем просто массив строк (slug-ов статей)
+        field: {label: "Статья", name: "article", widget: "relation", collection: "articles", value_field: "{{slug}}", search_fields: ["plainTitle", "title"], display_fields: ["plainTitle"]}
+
+  - name: "articles"
+    label: "Статьи (Articles)"
+    folder: "_articles"
+    nested:
+      depth: 3
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Заголовок с HTML (Title)", name: "title", widget: "string"}
+      - {label: "Обычный заголовок (Plain Title)", name: "plainTitle", widget: "string"}
+      - {label: "Картинка", name: "image", widget: "image", required: false}
+      - {label: "Глава", name: "chapterId", widget: "relation", collection: "chapters", value_field: "{{slug}}", search_fields: ["title"], display_fields: ["title"]}
+      - {label: "Текст (Content)", name: "body", widget: "markdown", required: false}

@@ -1,0 +1,164 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1600" width="100%" height="100%">
+  <style>
+    .grid-bg { fill: #ffffff; stroke: #b5b5b5; stroke-width: 1; }
+    .grid-line { stroke: #cccccc; stroke-width: 1; stroke-dasharray: 2,2; }
+    .gutter-line { stroke: #888888; stroke-width: 1; stroke-dasharray: 1,2; }
+    .border-main { fill: none; stroke: #222222; stroke-width: 1.5; }
+    .text-block { fill: #e2e2e2; }
+    .headline { font-family: "Times New Roman", Times, serif; font-weight: 900; fill: #000000; }
+    .text-mock { font-family: "Courier New", Courier, monospace; font-weight: bold; fill: #000000; letter-spacing: -0.5px; }
+    .image-placeholder { fill: none; stroke: #000000; stroke-width: 1.5; }
+    .image-cross { stroke: #000000; stroke-width: 1; fill: none; }
+    .caption-bar { fill: #000000; }
+    .step-num { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-weight: bold; font-size: 20px; fill: #000000; }
+    .step-text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 15px; fill: #000000; }
+    .step-text-bold { font-weight: bold; }
+  </style>
+
+  <g id="layout-1" transform="translate(40, 40)" data-type="layout-diagram" data-status="empty-grid">
+    <g transform="translate(0, 0)">
+      <text x="0" y="20" class="step-num">1. Suppose you're</text>
+      <text x="0" y="42" class="step-num">dummying a</text>
+      <text x="0" y="64" class="step-num">6-inch story with</text>
+      <text x="0" y="86" class="step-num">a mug.<tspan class="step-text"> You need</tspan></text>
+      <text x="0" y="108" class="step-text">to fill this space</text>
+      <text x="0" y="126" class="step-text">that's 3 columns</text>
+      <text x="0" y="144" class="step-text">wide, 5 inches</text>
+      <text x="0" y="162" class="step-text">deep. What's your</text>
+      <text x="0" y="180" class="step-text">best option?</text>
+    </g>
+
+    <g transform="translate(380, 0)">
+      <rect width="300" height="300" class="grid-bg"/>
+      <line x1="0" y1="60" x2="300" y2="60" class="grid-line"/>
+      <line x1="0" y1="120" x2="300" y2="120" class="grid-line"/>
+      <line x1="0" y1="180" x2="300" y2="180" class="grid-line"/>
+      <line x1="0" y1="240" x2="300" y2="240" class="grid-line"/>
+      <line x1="96" y1="0" x2="96" y2="300" class="gutter-line"/>
+      <line x1="104" y1="0" x2="104" y2="300" class="gutter-line"/>
+      <line x1="196" y1="0" x2="196" y2="300" class="gutter-line"/>
+      <line x1="204" y1="0" x2="204" y2="300" class="gutter-line"/>
+      <rect width="300" height="300" class="border-main"/>
+    </g>
+  </g>
+
+  <g id="layout-2" transform="translate(40, 390)" data-type="layout-diagram" data-status="inefficient">
+    <g transform="translate(0, 0)">
+      <text x="0" y="20" class="step-text"><tspan class="step-text-bold">2.</tspan> With a 1-column</text>
+      <text x="0" y="40" class="step-text">mug, the story fits</text>
+      <text x="0" y="60" class="step-text">in 2 legs, leaving</text>
+      <text x="0" y="80" class="step-text">a column empty.</text>
+      <text x="0" y="100" class="step-text">(A 2-line headline</text>
+      <text x="0" y="120" class="step-text">would force text</text>
+      <text x="0" y="140" class="step-text">into that third</text>
+      <text x="0" y="160" class="step-text">leg but wouldn't</text>
+      <text x="0" y="180" class="step-text">fill it.)</text>
+    </g>
+
+    <g transform="translate(380, 0)">
+      <rect width="300" height="300" class="grid-bg"/>
+      <line x1="0" y1="60" x2="300" y2="60" class="grid-line"/>
+      <line x1="0" y1="120" x2="300" y2="120" class="grid-line"/>
+      <line x1="0" y1="180" x2="300" y2="180" class="grid-line"/>
+      <line x1="0" y1="240" x2="300" y2="240" class="grid-line"/>
+      <line x1="96" y1="0" x2="96" y2="300" class="gutter-line"/>
+      <line x1="104" y1="0" x2="104" y2="300" class="gutter-line"/>
+      <line x1="196" y1="0" x2="196" y2="300" class="gutter-line"/>
+      <line x1="204" y1="0" x2="204" y2="300" class="gutter-line"/>
+      
+      <text x="10" y="24" font-size="19" class="text-mock" data-type="headline">UvUMMMUy uMMI</text>
+      <rect x="0" y="36" width="96" height="264" class="text-block" data-type="column"/>
+      <rect x="104" y="150" width="92" height="150" class="text-block" data-type="column"/>
+      
+      <g data-type="image-container" data-role="mugshot">
+        <rect x="104" y="36" width="92" height="104" class="image-placeholder"/>
+        <line x1="104" y1="36" x2="196" y2="140" class="image-cross"/>
+        <line x1="196" y1="36" x2="104" y2="140" class="image-cross"/>
+        <rect x="104" y="140" width="92" height="4" class="caption-bar"/>
+      </g>
+      <rect width="300" height="300" class="border-main"/>
+    </g>
+  </g>
+
+  <g id="layout-3" transform="translate(40, 740)" data-type="layout-diagram" data-status="wasteful">
+    <g transform="translate(0, 0)">
+      <text x="0" y="20" class="step-text"><tspan class="step-text-bold">3.</tspan> You could try</text>
+      <text x="0" y="40" class="step-text">running the mug</text>
+      <text x="0" y="60" class="step-text">2 columns wide,</text>
+      <text x="0" y="80" class="step-text">but it wastes way</text>
+      <text x="0" y="100" class="step-text">too much space.</text>
+      <text x="0" y="120" class="step-text">Only 3½ inches</text>
+      <text x="0" y="140" class="step-text">of text will fit into</text>
+      <text x="0" y="160" class="step-text">that left-hand</text>
+      <text x="0" y="180" class="step-text">column.</text>
+    </g>
+
+    <g transform="translate(380, 0)">
+      <rect width="300" height="300" class="grid-bg"/>
+      <line x1="0" y1="60" x2="300" y2="60" class="grid-line"/>
+      <line x1="0" y1="120" x2="300" y2="120" class="grid-line"/>
+      <line x1="0" y1="180" x2="300" y2="180" class="grid-line"/>
+      <line x1="0" y1="240" x2="300" y2="240" class="grid-line"/>
+      <line x1="96" y1="0" x2="96" y2="300" class="gutter-line"/>
+      <line x1="104" y1="0" x2="104" y2="300" class="gutter-line"/>
+      <line x1="196" y1="0" x2="196" y2="300" class="gutter-line"/>
+      <line x1="204" y1="0" x2="204" y2="300" class="gutter-line"/>
+
+      <g data-type="headline-group">
+        <text x="6" y="20" font-size="14" class="text-mock">UvUMMUV</text>
+        <text x="6" y="34" font-size="14" class="text-mock">UMUMUI</text>
+        <text x="6" y="48" font-size="14" class="text-mock">UMUMMUV</text>
+      </g>
+      <rect x="0" y="56" width="96" height="244" class="text-block" data-type="column"/>
+
+      <g data-type="image-container" data-role="double-mug">
+        <rect x="104" y="10" width="196" height="276" class="image-placeholder"/>
+        <line x1="104" y1="10" x2="300" y2="286" class="image-cross"/>
+        <line x1="300" y1="10" x2="104" y2="286" class="image-cross"/>
+        <rect x="104" y="286" width="196" height="6" class="caption-bar"/>
+      </g>
+      <rect width="300" height="300" class="border-main"/>
+    </g>
+  </g>
+
+  <g id="layout-4" transform="translate(40, 1090)" data-type="layout-diagram" data-status="good-balanced">
+    <g transform="translate(0, 0)">
+      <text x="0" y="20" class="step-text"><tspan class="step-text-bold">4.</tspan> The solution?</text>
+      <text x="0" y="40" class="step-text">Running 2 bastard</text>
+      <text x="0" y="60" class="step-text">legs in place of</text>
+      <text x="0" y="80" class="step-text">the usual 3. The</text>
+      <text x="0" y="100" class="step-text">text is 4 inches</text>
+      <text x="0" y="120" class="step-text">deep, but it's half-</text>
+      <text x="0" y="140" class="step-text">again as wide as</text>
+      <text x="0" y="160" class="step-text">a 1-column leg—</text>
+      <text x="0" y="180" class="step-text">so it fits.</text>
+    </g>
+
+    <g transform="translate(380, 0)">
+      <rect width="300" height="300" class="grid-bg"/>
+      <line x1="96" y1="0" x2="96" y2="300" class="gutter-line"/>
+      <line x1="104" y1="0" x2="104" y2="300" class="gutter-line"/>
+      <line x1="196" y1="0" x2="196" y2="300" class="gutter-line"/>
+      <line x1="204" y1="0" x2="204" y2="300" class="gutter-line"/>
+
+      <line x1="146" y1="0" x2="146" y2="300" stroke="#444444" stroke-width="1.5" stroke-dasharray="3,3"/>
+
+      <g data-type="headline-group">
+        <text x="6" y="20" font-size="14" class="text-mock">UvUMMUV UMU</text>
+        <text x="6" y="34" font-size="14" class="text-mock">VUMMUI UMUMI</text>
+      </g>
+      
+      <rect x="0" y="42" width="140" height="258" class="text-block" data-type="bastard-column"/>
+
+      <g data-type="image-container" data-role="bastard-mug">
+        <rect x="152" y="10" width="148" height="276" class="image-placeholder"/>
+        <line x1="152" y1="10" x2="300" y2="286" class="image-cross"/>
+        <line x1="300" y1="10" x2="152" y2="286" class="image-cross"/>
+        <rect x="152" y="286" width="148" height="6" class="caption-bar"/>
+      </g>
+      <rect width="300" height="300" class="border-main"/>
+    </g>
+  </g>
+
+  <g id="layout-5" transform="translate(1190,0)" display="none" data-type="placeholder"/><g id="layout-6" transform="translate(1190,0)" display="none" data-type="placeholder"/><g id="layout-7" transform="translate(1190,0)" display="none" data-type="placeholder"/><g id="layout-8" transform="translate(1190,0)" display="none" data-type="placeholder"/><g id="layout-9" transform="translate(1190,0)" display="none" data-type="placeholder"/><g id="layout-10" transform="translate(1190,0)" display="none" data-type="placeholder"/>
+</svg>

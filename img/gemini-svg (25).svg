@@ -1,0 +1,158 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1600" width="100%" height="100%">
+  <defs>
+    <style>
+      .layout-bg { fill: #ffffff; stroke: #000000; stroke-width: 2; }
+      .image-placeholder { fill: #ffffff; stroke: #000000; stroke-width: 2; }
+      .image-cross { stroke: #000000; stroke-width: 1.5; }
+      .image-border-thick { stroke: #000000; stroke-width: 4; fill: none; }
+      .headline { fill: #000000; font-family: sans-serif; font-weight: 900; text-anchor: start; }
+      .text-column { fill: #e0e0e0; stroke: none; }
+      .caption-line { fill: #000000; stroke: none; }
+    </style>
+  </defs>
+
+  <g id="layout-1" data-type="layout"><rect x="0" y="0" width="1" height="1" fill="none" opacity="0"/></g>
+  <g id="layout-2" data-type="layout"><rect x="0" y="0" width="1" height="1" fill="none" opacity="0"/></g>
+  <g id="layout-3" data-type="layout"><rect x="0" y="0" width="1" height="1" fill="none" opacity="0"/></g>
+  <g id="layout-4" data-type="layout"><rect x="0" y="0" width="1" height="1" fill="none" opacity="0"/></g>
+  <g id="layout-5" data-type="layout"><rect x="0" y="0" width="1" height="1" fill="none" opacity="0"/></g>
+  <g id="layout-6" data-type="layout"><rect x="0" y="0" width="1" height="1" fill="none" opacity="0"/></g>
+
+  <g id="layout-7" data-type="layout" data-variant="risky-choice">
+    <rect x="50" y="50" width="500" height="650" class="layout-bg" />
+    
+    <g data-type="headline-group">
+      <text x="75" y="105" font-size="24" class="headline">UMMMMMMUUUY UV YUV</text>
+    </g>
+
+    <g data-type="image" data-importance="primary" class="image-container">
+      <rect x="75" y="130" width="230" height="470" class="image-placeholder" />
+      <line x1="75" y1="130" x2="305" y2="600" class="image-cross" />
+      <line x1="305" y1="130" x2="75" y2="600" class="image-cross" />
+      <line x1="75" y1="607" x2="305" y2="607" class="image-border-thick" />
+    </g>
+
+    <g data-type="subhead-group">
+      <text x="325" y="130" font-size="9" class="headline">UMMMUI UMU UMMM UY</text>
+      <text x="325" y="142" font-size="9" class="headline">UMUMUUMY UMUMUUUY</text>
+      <text x="325" y="154" font-size="9" class="headline">UMUY UMUU UMMUY UMMY</text>
+    </g>
+
+    <g data-type="columns" data-position="right-upper">
+      <rect x="325" y="170" width="190" height="150" class="text-column" />
+    </g>
+
+    <g data-type="image" data-importance="secondary" class="image-container">
+      <rect x="325" y="340" width="190" height="260" class="image-placeholder" />
+      <line x1="325" y1="340" x2="515" y2="600" class="image-cross" />
+      <line x1="515" y1="340" x2="325" y2="600" class="image-cross" />
+      <line x1="325" y1="607" x2="515" y2="607" class="image-border-thick" />
+    </g>
+  </g>
+
+  <g id="layout-8" data-type="layout" data-variant="verticals-three-stacks">
+    <rect x="650" y="50" width="500" height="650" class="layout-bg" />
+    
+    <g data-type="image" data-importance="primary" class="image-container">
+      <rect x="675" y="110" width="190" height="450" class="image-placeholder" />
+      <line x1="675" y1="110" x2="865" y2="560" class="image-cross" />
+      <line x1="865" y1="110" x2="675" y2="560" class="image-cross" />
+      <line x1="675" y1="567" x2="865" y2="567" class="image-border-thick" />
+    </g>
+
+    <g data-type="center-vertical-stack">
+      <g data-type="headline-group">
+        <text x="885" y="130" font-size="18" class="headline">UYUV</text>
+        <text x="885" y="152" font-size="18" class="headline">UMUV</text>
+        <text x="885" y="174" font-size="18" class="headline">VUYU</text>
+      </g>
+      <g data-type="subhead-group">
+        <text x="885" y="195" font-size="9" class="headline">UMMMY UMU UMM</text>
+        <text x="885" y="207" font-size="9" class="headline">VU UMY UMMUM</text>
+        <text x="885" y="219" font-size="9" class="headline">VUM UMMMMMM</text>
+        <text x="885" y="231" font-size="9" class="headline">VUMY UMY UMI</text>
+      </g>
+      <g data-type="image" data-importance="secondary" class="image-container">
+        <rect x="885" y="420" width="75" height="140" class="image-placeholder" />
+        <line x1="885" y1="420" x2="960" y2="560" class="image-cross" />
+        <line x1="960" y1="420" x2="885" y2="560" class="image-cross" />
+        <line x1="885" y1="567" x2="960" y2="567" class="image-border-thick" />
+      </g>
+    </g>
+
+    <g data-type="columns">
+      <rect x="980" y="110" width="145" height="450" class="text-column" />
+    </g>
+  </g>
+
+  <g id="layout-9" data-type="layout" data-variant="contrast-centered-secondary">
+    <rect x="50" y="750" width="500" height="650" class="layout-bg" />
+    
+    <g data-type="headline-group">
+      <text x="75" y="805" font-size="22" class="headline">UVUMMUM</text>
+    </g>
+    <g data-type="subhead-group">
+      <text x="75" y="825" font-size="9" class="headline">UMMMY UMY UMMM UY UMMMMMMM</text>
+      <text x="75" y="837" font-size="9" class="headline">UMM UMMY UMY UMM UY</text>
+    </g>
+
+    <g data-type="image" data-importance="secondary" class="image-container">
+      <rect x="135" y="855" width="85" height="130" class="image-placeholder" />
+      <line x1="135" y1="855" x2="220" y2="985" class="image-cross" />
+      <line x1="220" y1="855" x2="135" y2="985" class="image-cross" />
+      <line x1="135" y1="992" x2="220" y2="992" class="image-border-thick" />
+    </g>
+
+    <g data-type="columns" data-section="left-wrap">
+      <rect x="75" y="855" width="45" height="385" class="text-column" />
+      <rect x="135" y="1005" width="85" height="235" class="text-column" />
+      <rect x="235" y="855" width="50" height="385" class="text-column" />
+    </g>
+
+    <g data-type="image" data-importance="primary" class="image-container">
+      <rect x="305" y="810" width="220" height="380" class="image-placeholder" />
+      <line x1="305" y1="810" x2="525" y2="1190" class="image-cross" />
+      <line x1="525" y1="810" x2="305" y2="1190" class="image-cross" />
+      <line x1="305" y1="1197" x2="525" y2="1197" class="image-border-thick" />
+    </g>
+  </g>
+
+  <g id="layout-10" data-type="layout" data-variant="mortising-inset-upper-left">
+    <rect x="650" y="750" width="500" height="650" class="layout-bg" />
+    
+    <g data-type="image" data-importance="primary" class="image-container">
+      <rect x="750" y="810" width="210" height="425" class="image-placeholder" />
+      <line x1="750" y1="810" x2="960" y2="1235" class="image-cross" />
+      <line x1="960" y1="810" x2="750" y2="1235" class="image-cross" />
+    </g>
+
+    <g data-type="image" data-importance="secondary" data-modifiers="mortised" class="image-container">
+      <rect x="690" y="775" width="80" height="150" class="image-placeholder" />
+      <line x1="690" y1="775" x2="770" y2="925" class="image-cross" />
+      <line x1="770" y1="775" x2="690" y2="925" class="image-cross" />
+    </g>
+
+    <g data-type="captions" data-position="under-mortise-left">
+      <rect x="690" y="935" width="45" height="8" class="caption-line" />
+      <rect x="690" y="947" width="45" height="8" class="caption-line" />
+      <rect x="690" y="959" width="45" height="8" class="caption-line" />
+      <rect x="690" y="971" width="45" height="8" class="caption-line" />
+      <rect x="690" y="983" width="45" height="8" class="caption-line" />
+      <rect x="690" y="995" width="45" height="8" class="caption-line" />
+    </g>
+
+    <g data-type="headline-group">
+      <text x="785" y="800" font-size="20" class="headline">UVUMMMUYUYV</text>
+    </g>
+
+    <g data-type="subhead-group">
+      <text x="980" y="800" font-size="8" class="headline">UMMMY UMY UMMM UY</text>
+      <text x="980" y="812" font-size="8" class="headline">UMM UMMY UMY UMM UY</text>
+      <text x="980" y="824" font-size="8" class="headline">UMM UMMY UMY UMM UY</text>
+    </g>
+
+    <g data-type="columns">
+      <rect x="980" y="840" width="145" height="395" class="text-column" />
+    </g>
+  </g>
+</svg>

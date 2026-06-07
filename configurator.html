@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="uk">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>КОНФІГУРАТОР МАКЕТІВ - ДОВІДНИК ДИЗАЙНЕРА</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Cormorant+Infant:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Inter:wght@400;500;600;700&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/layout.css">
+  <link rel="stylesheet" href="css/article.css">
+  <link rel="stylesheet" href="css/configurator.css">
+</head>
+
+<body>
+  <div class="configurator-container">
+    <!-- Header -->
+    <header class="config-header">
+      <div class="header-left">
+        <a href="index.html" class="back-home-btn">&larr; Головна</a>
+        <h1>Конфігуратор макетів</h1>
+      </div>
+      <p class="header-desc">Інтерактивний інструмент проектування смуг на основі архітектурних ескізів газетної верстки</p>
+    </header>
+
+    <!-- Main Workspace -->
+    <div class="workspace">
+      <!-- Left Panel: Template Library -->
+      <section class="panel template-panel">
+        <h2 class="panel-title">1. Оберіть шаблон верстки</h2>
+        <div class="template-grid">
+          <!-- Template 1 -->
+          <div class="template-card active" data-template="lead">
+            <div class="card-preview wireframe-lead">
+              <div class="wf-title"></div>
+              <div class="wf-row">
+                <div class="wf-col wf-col-7">
+                  <div class="wf-line"></div>
+                  <div class="wf-line"></div>
+                  <div class="wf-line"></div>
+                </div>
+                <div class="wf-col wf-col-5 wf-img">X</div>
+              </div>
+            </div>
+            <div class="card-info">
+              <h3>Шпальта головної новини</h3>
+              <p>Асиметричний журнальний блок (2fr 3fr) з домінуючим візуалом справа.</p>
+            </div>
+          </div>
+
+          <!-- Template 2 -->
+          <div class="template-card" data-template="focus">
+            <div class="card-preview wireframe-focus">
+              <div class="wf-row">
+                <div class="wf-col wf-col-4 wf-quote">“</div>
+                <div class="wf-col wf-col-8">
+                  <div class="wf-title small"></div>
+                  <div class="wf-line"></div>
+                  <div class="wf-line"></div>
+                  <div class="wf-line"></div>
+                </div>
+              </div>
+            </div>
+            <div class="card-info">
+              <h3>Редакційний фокус</h3>
+              <p>Класичний макет (1fr 1fr) з виразною цитатою зліва та текстом справа.</p>
+            </div>
+          </div>
+
+          <!-- Template 3 -->
+          <div class="template-card" data-template="triptych">
+            <div class="card-preview wireframe-triptych">
+              <div class="wf-row">
+                <div class="wf-col wf-col-4 wf-img">X</div>
+                <div class="wf-col wf-col-4 wf-img">X</div>
+                <div class="wf-col wf-col-4 wf-img">X</div>
+              </div>
+            </div>
+            <div class="card-info">
+              <h3>Триптих-Галерея</h3>
+              <p>Три колонки рівної ширини (1fr 1fr 1fr), розроблені спеціально для фото або схем.</p>
+            </div>
+          </div>
+
+          <!-- Template 4 -->
+          <div class="template-card" data-template="minimal">
+            <div class="card-preview wireframe-minimal">
+              <div class="wf-row">
+                <div class="wf-col wf-col-8">
+                  <div class="wf-line"></div>
+                  <div class="wf-line"></div>
+                  <div class="wf-line"></div>
+                </div>
+                <div class="wf-col wf-col-4 wf-img tall">X</div>
+              </div>
+            </div>
+            <div class="card-info">
+              <h3>Сучасний мінімалізм</h3>
+              <p>Макет «сайдбар» (3fr 1fr) з довгим текстом зліва та вертикальною ілюстрацією справа.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Center Panel: Content Inputs -->
+      <section class="panel editor-panel">
+        <h2 class="panel-title">2. Налаштування вмісту</h2>
+        <div class="editor-fields">
+          <!-- Text fields -->
+          <div class="input-group">
+            <label for="input-title">Заголовок статті</label>
+            <input type="text" id="input-title" value="Масштабування сітки в сучасних медіа" />
+          </div>
+
+          <div class="input-group focus-only">
+            <label for="input-quote">Текст цитати</label>
+            <textarea id="input-quote" rows="3">Дизайн — це не просто те, як виглядає продукт. Дизайн — це те, як він працює, як розмовляє з читачем та скеровує його увагу.</textarea>
+          </div>
+
+          <div class="input-group focus-only">
+            <label for="input-author">Автор цитати</label>
+            <input type="text" id="input-author" value="Стів Джобс" />
+          </div>
+
+          <div class="input-group">
+            <label for="input-text">Основний текст</label>
+            <textarea id="input-text" rows="8">У порівнянні з газетами минулих років, сьогоднішні новинні смуги виглядають надзвичайно жваво та вишукано. Це зумовлено технологічними досягненнями у репродукції та глибшим розумінням психології читача. Модульна верстка створює міцне відчуття порядку та завершеності, допомагаючи тримати візуальний ритм статті.</textarea>
+          </div>
+
+          <!-- Image selector -->
+          <div class="input-group image-selection-group">
+            <label>Ілюстрація</label>
+            <div class="image-options">
+              <div class="image-opt active" data-img="img/newspaper_grid_1777876473624.png">
+                <img src="img/newspaper_grid_1777876473624.png" alt="Схема 1" />
+                <span>Сітка</span>
+              </div>
+              <div class="image-opt" data-img="img/newspaper_typography_1777876489185.png">
+                <img src="img/newspaper_typography_1777876489185.png" alt="Схема 2" />
+                <span>Типографіка</span>
+              </div>
+              <div class="image-opt" data-img="img/newspaper_whitespace_1777876504195.png">
+                <img src="img/newspaper_whitespace_1777876504195.png" alt="Схема 3" />
+                <span>Поля</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Right Panel: Live Preview -->
+      <section class="panel preview-panel">
+        <h2 class="panel-title">3. Інтерактивний перегляд</h2>
+        <div class="newspaper-preview-box">
+          <div class="preview-paper">
+            <div class="preview-header">
+              <span class="preview-date">25 ТРАВНЯ 2026</span>
+              <span class="preview-brand">ДОВІДНИК ДИЗАЙНЕРА</span>
+              <span class="preview-issue">ВИПУСК №1</span>
+            </div>
+            
+            <div class="preview-body article-content">
+              <h2 class="article-title-preview" id="preview-title">Масштабування сітки в сучасних медіа</h2>
+              
+              <!-- Dynamic Preview Area (Renders layout grids dynamically) -->
+              <div id="dynamic-layout-area">
+                <!-- Content injected by JS -->
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <!-- Code output / Export Panel -->
+    <section class="export-panel">
+      <div class="export-header">
+        <h2>Код вашого макету для Markdown</h2>
+        <button id="copy-code-btn" class="copy-btn">Копіювати в буфер</button>
+      </div>
+      <pre><code id="code-output"></code></pre>
+    </section>
+  </div>
+
+  <script src="js/configurator.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,146 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1600" width="100%" height="100%">
+  <defs>
+    <style>
+      .layout-bg { fill: #f0f0f0; stroke: #cccccc; stroke-width: 2; }
+      .badge-weak { fill: #d91414; }
+      .badge-good { fill: #008a1a; }
+      .badge-text { fill: #ffffff; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 24px; font-weight: bold; letter-spacing: 1px; }
+      .image-placeholder { fill: #ffffff; stroke: #000000; stroke-width: 4; }
+      .image-diagonal { stroke: #000000; stroke-width: 3; fill: none; }
+      .headline-text { font-family: 'Impact', 'Arial Black', sans-serif; font-size: 48px; fill: #000000; letter-spacing: -1px; }
+      .text-line { stroke: #7a7a7a; stroke-width: 4; stroke-linecap: round; }
+      .caption-line { stroke: #4a4a4a; stroke-width: 10; }
+    </style>
+  </defs>
+
+  <g id="layout-1" data-quality="weak" transform="translate(60, 100)">
+    <rect class="layout-bg" width="460" height="700" />
+    
+    <g data-type="image" id="l1-img-top">
+      <rect class="image-placeholder" x="30" y="60" width="400" height="340" />
+      <line class="image-diagonal" x1="30" y1="60" x2="430" y2="400" />
+      <line class="image-diagonal" x1="430" y1="60" x2="30" y2="400" />
+    </g>
+
+    <g data-type="image" id="l1-img-mid-left">
+      <rect class="image-placeholder" x="45" y="440" width="70" height="70" />
+      <line class="image-diagonal" x1="45" y1="440" x2="115" y2="510" />
+      <line class="image-diagonal" x1="115" y1="440" x2="45" y2="510" />
+    </g>
+
+    <g data-type="sidebar" id="l1-sidebar-mid">
+      <line class="text-line" x1="130" y1="445" x2="200" y2="445" />
+      <line class="text-line" x1="130" y1="457" x2="200" y2="457" />
+      <line class="text-line" x1="130" y1="469" x2="200" y2="469" />
+      <line class="text-line" x1="130" y1="481" x2="200" y2="481" />
+      <line class="text-line" x1="130" y1="493" x2="200" y2="493" />
+    </g>
+
+    <text class="headline-text" x="215" y="480" data-type="headline">UVUVUVUV</text>
+
+    <g data-type="image" id="l1-img-bot-left">
+      <rect class="image-placeholder" x="30" y="530" width="200" height="135" />
+      <line class="image-diagonal" x1="30" y1="530" x2="230" y2="665" />
+      <line class="image-diagonal" x1="230" y1="530" x2="30" y2="665" />
+    </g>
+
+    <g data-type="sidebar" id="l1-text-bot-center">
+      <line class="text-line" x1="245" y1="540" x2="315" y2="540" />
+      <line class="text-line" x1="245" y1="552" x2="315" y2="552" />
+      <line class="text-line" x1="245" y1="564" x2="315" y2="564" />
+      <line class="text-line" x1="245" y1="576" x2="315" y2="576" />
+    </g>
+
+    <g data-type="column" id="l1-col-right-1">
+      <line class="text-line" x1="330" y1="510" x2="430" y2="510" />
+      <line class="text-line" x1="330" y1="522" x2="430" y2="522" />
+      <line class="text-line" x1="330" y1="534" x2="430" y2="534" />
+      <line class="text-line" x1="330" y1="546" x2="430" y2="546" />
+      <line class="text-line" x1="330" y1="558" x2="430" y2="558" />
+      <line class="text-line" x1="330" y1="570" x2="430" y2="570" />
+      <line class="text-line" x1="330" y1="582" x2="430" y2="582" />
+      <line class="text-line" x1="330" y1="594" x2="430" y2="594" />
+      <line class="text-line" x1="330" y1="606" x2="430" y2="606" />
+      <line class="text-line" x1="330" y1="618" x2="430" y2="618" />
+      <line class="text-line" x1="330" y1="630" x2="430" y2="630" />
+      <line class="text-line" x1="330" y1="642" x2="430" y2="642" />
+      <line class="text-line" x1="330" y1="654" x2="430" y2="654" />
+    </g>
+
+    <g id="l1-badge">
+      <rect class="badge-weak" x="15" y="25" width="120" height="40" />
+      <text class="badge-text" x="30" y="53">WEAK</text>
+    </g>
+  </g>
+
+  <g id="layout-2" data-quality="good" transform="translate(640, 100)">
+    <rect class="layout-bg" width="460" height="700" />
+    
+    <g data-type="image" id="l2-img-top">
+      <rect class="image-placeholder" x="30" y="60" width="400" height="340" />
+      <line class="image-diagonal" x1="30" y1="60" x2="430" y2="400" />
+      <line class="image-diagonal" x1="430" y1="60" x2="30" y2="400" />
+      <line class="caption-line" x1="30" y1="410" x2="430" y2="410" data-type="caption" />
+    </g>
+
+    <g data-type="sidebar" id="l2-sidebar-mid">
+      <line class="text-line" x1="30" y1="445" x2="100" y2="445" />
+      <line class="text-line" x1="30" y1="457" x2="100" y2="457" />
+      <line class="text-line" x1="30" y1="469" x2="100" y2="469" />
+      <line class="text-line" x1="30" y1="481" x2="100" y2="481" />
+      <line class="text-line" x1="30" y1="493" x2="100" y2="493" />
+    </g>
+
+    <g data-type="image" id="l2-img-mid-center">
+      <rect class="image-placeholder" x="115" y="440" width="70" height="70" />
+      <line class="image-diagonal" x1="115" y1="440" x2="185" y2="510" />
+      <line class="image-diagonal" x1="185" y1="440" x2="115" y2="510" />
+    </g>
+
+    <text class="headline-text" x="200" y="480" data-type="headline">UVUVUVUV</text>
+
+    <g data-type="image" id="l2-img-bot-left">
+      <rect class="image-placeholder" x="30" y="530" width="200" height="135" />
+      <line class="image-diagonal" x1="30" y1="530" x2="230" y2="665" />
+      <line class="image-diagonal" x1="230" y1="530" x2="30" y2="665" />
+      <line class="caption-line" x1="30" y1="675" x2="200" y2="675" data-type="caption" />
+    </g>
+
+    <g data-type="column" id="l2-col-right-1">
+      <line class="text-line" x1="215" y1="510" x2="315" y2="510" />
+      <line class="text-line" x1="215" y1="522" x2="315" y2="522" />
+      <line class="text-line" x1="215" y1="534" x2="315" y2="534" />
+      <line class="text-line" x1="215" y1="546" x2="315" y2="546" />
+      <line class="text-line" x1="215" y1="558" x2="315" y2="558" />
+      <line class="text-line" x1="215" y1="570" x2="315" y2="570" />
+      <line class="text-line" x1="215" y1="582" x2="315" y2="582" />
+      <line class="text-line" x1="215" y1="594" x2="315" y2="594" />
+      <line class="text-line" x1="215" y1="606" x2="315" y2="606" />
+      <line class="text-line" x1="215" y1="618" x2="315" y2="618" />
+      <line class="text-line" x1="215" y1="630" x2="315" y2="630" />
+      <line class="text-line" x1="215" y1="642" x2="315" y2="642" />
+      <line class="text-line" x1="215" y1="654" x2="315" y2="654" />
+    </g>
+
+    <g data-type="column" id="l2-col-right-2">
+      <line class="text-line" x1="330" y1="510" x2="430" y2="510" />
+      <line class="text-line" x1="330" y1="522" x2="430" y2="522" />
+      <line class="text-line" x1="330" y1="534" x2="430" y2="534" />
+      <line class="text-line" x1="330" y1="546" x2="430" y2="546" />
+      <line class="text-line" x1="330" y1="558" x2="430" y2="558" />
+      <line class="text-line" x1="330" y1="570" x2="430" y2="570" />
+      <line class="text-line" x1="330" y1="582" x2="430" y2="582" />
+      <line class="text-line" x1="330" y1="594" x2="430" y2="594" />
+      <line class="text-line" x1="330" y1="606" x2="430" y2="606" />
+      <line class="text-line" x1="330" y1="618" x2="430" y2="618" />
+      <line class="text-line" x1="330" y1="630" x2="430" y2="630" />
+      <line class="text-line" x1="330" y1="642" x2="430" y2="642" />
+      <line class="text-line" x1="330" y1="654" x2="430" y2="654" />
+    </g>
+
+    <g id="l2-badge">
+      <rect class="badge-good" x="15" y="25" width="120" height="40" />
+      <text class="badge-text" x="30" y="53">GOOD</text>
+    </g>
+  </g>
+</svg>

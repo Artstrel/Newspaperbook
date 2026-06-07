@@ -1,0 +1,155 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3800 1600" width="100%" height="100%">
+  <defs>
+    <style>
+      .layout-bg { fill: #ffffff; stroke: #000000; stroke-width: 2; }
+      .grid-column { fill: #e5e5e5; }
+      .border-box { fill: none; stroke: #000000; stroke-width: 2; }
+      .headline-main { fill: #000000; font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 900; font-size: 34px; letter-spacing: -1px; }
+      .headline-sub { fill: #000000; font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 800; font-size: 26px; }
+      .text-sidebar { fill: #000000; font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 700; font-size: 14px; line-height: 1.3; }
+      .badge-good { fill: #d32f2f; }
+      .badge-weak { fill: #000000; }
+      .badge-text { fill: #ffffff; font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: bold; font-size: 22px; letter-spacing: 1px; }
+      .ad-block { fill: #737373; }
+      .ad-text { fill: #ffffff; font-family: Arial, sans-serif; font-size: 11px; font-weight: bold; }
+    </style>
+  </defs>
+
+  <g id="layout-1" transform="translate(50, 50)" data-type="layout-variant" data-status="good">
+    <rect class="layout-bg" width="1100" height="1500" />
+    
+    <g data-type="grid-structure">
+      <rect class="grid-column" x="70" y="190" width="220" height="230" data-type="column" />
+      <rect class="grid-column" x="320" y="190" width="220" height="230" data-type="column" />
+      <rect class="grid-column" x="570" y="190" width="220" height="230" data-type="column" />
+      <rect class="grid-column" x="820" y="190" width="220" height="230" data-type="column" />
+      
+      <rect class="grid-column" x="70" y="520" width="220" height="230" data-type="column" />
+      <rect class="grid-column" x="320" y="520" width="220" height="230" data-type="column" />
+      <rect class="grid-column" x="570" y="520" width="220" height="230" data-type="column" />
+      <rect class="grid-column" x="820" y="520" width="220" height="230" data-type="column" />
+      
+      <rect class="grid-column" x="70" y="830" width="220" height="230" data-type="column" />
+      <rect class="grid-column" x="320" y="830" width="220" height="230" data-type="column" />
+      <rect class="grid-column" x="570" y="830" width="220" height="230" data-type="column" />
+      <rect class="grid-column" x="820" y="830" width="220" height="230" data-type="column" />
+
+      <rect class="grid-column" x="70" y="1140" width="220" height="300" data-type="column" />
+      <rect class="grid-column" x="320" y="1140" width="220" height="300" data-type="column" />
+      <rect class="grid-column" x="570" y="1140" width="220" height="300" data-type="column" />
+      <rect class="grid-column" x="820" y="1140" width="220" height="300" data-type="column" />
+    </g>
+
+    <rect class="border-box" x="50" y="60" width="1000" height="380" data-type="container-box" />
+
+    <text class="headline-main" x="70" y="115" data-type="headline">Uıvıvıvııvıy ıvııvıvıvıuvuu</text>
+    <text class="headline-sub" x="70" y="495" data-type="subhead">Uıvıvıvıuу ıvııvıvıvııvıu</text>
+    <text class="headline-sub" x="70" y="805" data-type="subhead">Uıvıvıvıuу ıvııvıvıuу ıvıuv</text>
+    <text class="headline-sub" x="70" y="1115" data-type="subhead">Uıvıvıvıuу Vıvıvıvıuу ıvııvıv</text>
+
+    <g data-type="sidebar-text">
+      <text class="text-sidebar" x="820" y="490">Uıvıvıv</text>
+      <text class="text-sidebar" x="820" y="510">vııvıuу</text>
+      <text class="text-sidebar" x="820" y="530">ıvııvıv</text>
+      <text class="text-sidebar" x="820" y="550">ıvııvıuу</text>
+    </g>
+
+    <g data-type="status-badge">
+      <rect class="badge-good" x="15" y="110" width="120" height="60" />
+      <text class="badge-text" x="32" y="150">GOOD</text>
+    </g>
+  </g>
+
+  <g id="layout-2" transform="translate(1350, 50)" data-type="layout-variant" data-status="good">
+    <rect class="layout-bg" width="1100" height="1500" />
+    
+    <g data-type="grid-structure">
+      <rect class="grid-column" x="70" y="190" width="220" height="230" data-type="column" />
+      <rect class="grid-column" x="320" y="190" width="220" height="230" data-type="column" />
+      <rect class="grid-column" x="570" y="190" width="220" height="230" data-type="column" />
+      
+      <rect class="grid-column" x="70" y="520" width="220" height="230" data-type="column" />
+      <rect class="grid-column" x="320" y="520" width="220" height="230" data-type="column" />
+      <rect class="grid-column" x="570" y="520" width="220" height="230" data-type="column" />
+      
+      <rect class="grid-column" x="70" y="830" width="220" height="230" data-type="column" />
+      <rect class="grid-column" x="320" y="830" width="220" height="230" data-type="column" />
+      <rect class="grid-column" x="570" y="830" width="220" height="230" data-type="column" />
+
+      <rect class="grid-column" x="70" y="1210" width="220" height="210" data-type="column" />
+      <rect class="grid-column" x="320" y="1210" width="220" height="210" data-type="column" />
+      <rect class="grid-column" x="570" y="1210" width="220" height="210" data-type="column" />
+
+      <rect class="grid-column" x="820" y="270" width="210" height="1170" data-type="sidebar" />
+    </g>
+
+    <rect class="border-box" x="50" y="1080" width="770" height="360" data-type="container-box" />
+
+    <text class="headline-main" x="70" y="115" data-type="headline">Uıvıvıvıuуıvııvı uıуv</text>
+    <text class="headline-sub" x="70" y="495" data-type="subhead">Uıvıvıvıuу ıvııvıvıvı уu</text>
+    <text class="headline-sub" x="70" y="805" data-type="subhead">Uıvıvıvıuу ıvııvıvıvııvıuу</text>
+    <text class="headline-sub" x="70" y="1145" data-type="subhead">Uıvıvıvıuу Vıvıvıvıуu</text>
+
+    <line x1="230" y1="1170" x2="410" y2="1170" stroke="#000000" stroke-width="12" data-type="accent-line" />
+
+    <g data-type="sidebar-content">
+      <rect class="ad-block" x="820" y="65" width="45" height="45" />
+      <rect class="ad-block" x="875" y="75" width="115" height="20" />
+      <text class="ad-text" x="883" y="90">XXXXXX</text>
+      
+      <text class="text-sidebar" x="820" y="150">Uıvıvıvııvı</text>
+      <text class="text-sidebar" x="820" y="175">vııvıуıvııvı</text>
+      <text class="text-sidebar" x="820" y="200">ıvııvıvıvıу</text>
+      <text class="text-sidebar" x="820" y="225">ıvııvıvııvıv</text>
+    </g>
+
+    <g data-type="status-badge">
+      <rect class="badge-good" x="15" y="110" width="120" height="60" />
+      <text class="badge-text" x="32" y="150">GOOD</text>
+    </g>
+  </g>
+
+  <g id="layout-3" transform="translate(2650, 50)" data-type="layout-variant" data-status="weak">
+    <rect class="layout-bg" width="1100" height="1500" />
+    
+    <g data-type="grid-structure">
+      <rect class="grid-column" x="70" y="190" width="220" height="200" data-type="column" />
+      <rect class="grid-column" x="320" y="190" width="220" height="200" data-type="column" />
+      <rect class="grid-column" x="570" y="190" width="220" height="200" data-type="column" />
+      <rect class="grid-column" x="820" y="190" width="220" height="200" data-type="column" />
+      
+      <rect class="grid-column" x="70" y="520" width="220" height="230" data-type="column" />
+      <rect class="grid-column" x="320" y="520" width="220" height="230" data-type="column" />
+      <rect class="grid-column" x="570" y="520" width="220" height="230" data-type="column" />
+      <rect class="grid-column" x="820" y="520" width="220" height="230" data-type="column" />
+      
+      <rect class="grid-column" x="70" y="860" width="220" height="230" data-type="column" />
+      <rect class="grid-column" x="320" y="860" width="220" height="230" data-type="column" />
+      <rect class="grid-column" x="570" y="860" width="220" height="230" data-type="column" />
+      <rect class="grid-column" x="820" y="860" width="220" height="230" data-type="column" />
+
+      <rect class="grid-column" x="70" y="1190" width="220" height="250" data-type="column" />
+      <rect class="grid-column" x="320" y="1190" width="220" height="250" data-type="column" />
+      <rect class="grid-column" x="570" y="1190" width="220" height="250" data-type="column" />
+      <rect class="grid-column" x="820" y="1190" width="220" height="250" data-type="column" />
+    </g>
+
+    <rect class="border-box" x="50" y="420" width="1000" height="350" data-type="container-box" />
+
+    <text class="headline-main" x="70" y="115" data-type="headline">Uıvıvıvıuуıvııvıvıvııvıvıvı</text>
+    <text class="headline-sub" x="70" y="475" data-type="subhead">UıvıvıvıuуıvııvıvıuуVıvıvıvı</text>
+    <text class="headline-sub" x="70" y="825" data-type="subhead">Uıvıvıvıuуıvııvıvıuу ıvıuv</text>
+    <text class="headline-sub" x="70" y="1155" data-type="subhead">UıvıvıvıuуVıvıvıvıуuıvıvı</text>
+
+    <g data-type="sidebar-text">
+      <text class="text-sidebar" x="915" y="820">Uıvıvıv</text>
+      <text class="text-sidebar" x="915" y="840">vııvıvıv</text>
+      <text class="text-sidebar" x="915" y="860">ıvıııuу</text>
+    </g>
+
+    <g data-type="status-badge">
+      <rect class="badge-weak" x="15" y="110" width="135" height="60" />
+      <text class="badge-text" x="32" y="150">WEAK</text>
+    </g>
+  </g>
+</svg>

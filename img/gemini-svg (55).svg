@@ -1,0 +1,233 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" width="100%" height="100%">
+  <defs>
+    <style>
+      .layout-bg { fill: #f0f0f0; stroke: #cccccc; stroke-width: 1; }
+      .badge-weak { fill: #d91414; }
+      .badge-good { fill: #008a1a; }
+      .badge-text { fill: #ffffff; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: bold; letter-spacing: 1px; }
+      .image-placeholder { fill: #ffffff; stroke: #000000; stroke-width: 2; }
+      .image-diagonal { stroke: #000000; stroke-width: 1.5; fill: none; }
+      .headline-text { font-family: 'Impact', 'Arial Black', sans-serif; font-size: 28px; fill: #000000; letter-spacing: -0.5px; }
+      .text-line { stroke: #7a7a7a; stroke-width: 2; stroke-linecap: round; }
+      .caption-line { stroke: #555555; stroke-width: 4; }
+    </style>
+  </defs>
+
+  <g id="layout-1" data-quality="weak" transform="translate(40, 40)">
+    <rect class="layout-bg" width="320" height="480" />
+    
+    <g data-type="image" id="l1-img-top-left">
+      <rect class="image-placeholder" x="20" y="40" width="135" height="100" />
+      <line class="image-diagonal" x1="20" y1="40" x2="155" y2="140" />
+      <line class="image-diagonal" x1="155" y1="40" x2="20" y2="140" />
+      <line class="caption-line" x1="20" y1="147" x2="155" y2="147" />
+    </g>
+
+    <g data-type="image" id="l1-img-top-right">
+      <rect class="image-placeholder" x="165" y="40" width="135" height="100" />
+      <line class="image-diagonal" x1="165" y1="40" x2="300" y2="140" />
+      <line class="image-diagonal" x1="300" y1="40" x2="165" y2="140" />
+      <line class="caption-line" x1="165" y1="147" x2="300" y2="147" />
+    </g>
+
+    <g data-type="image" id="l1-img-mid-left">
+      <rect class="image-placeholder" x="20" y="170" width="135" height="100" />
+      <line class="image-diagonal" x1="20" y1="170" x2="155" y2="270" />
+      <line class="image-diagonal" x1="155" y1="170" x2="20" y2="270" />
+      <line class="caption-line" x1="20" y1="277" x2="155" y2="277" />
+    </g>
+
+    <g data-type="editorial-block" id="l1-text-mid-right">
+      <text class="headline-text" x="165" y="195">UVUVUVUV</text>
+      <g data-type="column" id="l1-col-1">
+        <line class="text-line" x1="165" y1="210" x2="225" y2="210" />
+        <line class="text-line" x1="165" y1="218" x2="225" y2="218" />
+        <line class="text-line" x1="165" y1="226" x2="225" y2="226" />
+        <line class="text-line" x1="165" y1="234" x2="225" y2="234" />
+        <line class="text-line" x1="165" y1="242" x2="225" y2="242" />
+        <line class="text-line" x1="165" y1="250" x2="225" y2="250" />
+        <line class="text-line" x1="165" y1="258" x2="225" y2="258" />
+      </g>
+      <g data-type="column" id="l1-col-2">
+        <line class="text-line" x1="240" y1="210" x2="300" y2="210" />
+        <line class="text-line" x1="240" y1="218" x2="300" y2="218" />
+        <line class="text-line" x1="240" y1="226" x2="300" y2="226" />
+        <line class="text-line" x1="240" y1="234" x2="300" y2="234" />
+        <line class="text-line" x1="240" y1="242" x2="300" y2="242" />
+        <line class="text-line" x1="240" y1="250" x2="300" y2="250" />
+        <line class="text-line" x1="240" y1="258" x2="300" y2="258" />
+      </g>
+    </g>
+
+    <g data-type="image" id="l1-img-bot-left">
+      <rect class="image-placeholder" x="20" y="300" width="135" height="130" />
+      <line class="image-diagonal" x1="20" y1="300" x2="155" y2="430" />
+      <line class="image-diagonal" x1="155" y1="300" x2="20" y2="430" />
+      <line class="caption-line" x1="20" y1="437" x2="155" y2="437" />
+    </g>
+
+    <g data-type="image" id="l1-img-bot-right">
+      <rect class="image-placeholder" x="165" y="300" width="135" height="130" />
+      <line class="image-diagonal" x1="165" y1="300" x2="300" y2="430" />
+      <line class="image-diagonal" x1="300" y1="300" x2="165" y2="430" />
+      <line class="caption-line" x1="165" y1="437" x2="300" y2="437" />
+    </g>
+
+    <g id="l1-badge">
+      <rect class="badge-weak" x="10" y="15" width="75" height="26" />
+      <text class="badge-text" x="20" y="33">WEAK</text>
+    </g>
+  </g>
+
+  <g id="layout-2" data-quality="good-dominant-top" transform="translate(420, 40)">
+    <rect class="layout-bg" width="320" height="480" />
+
+    <g data-type="image" id="l2-img-dominant">
+      <rect class="image-placeholder" x="20" y="40" width="230" height="170" />
+      <line class="image-diagonal" x1="20" y1="40" x2="250" y2="210" />
+      <line class="image-diagonal" x1="250" y1="40" x2="20" y2="210" />
+    </g>
+
+    <g data-type="sidebar" id="l2-sidebar-top">
+      <line class="text-line" x1="260" y1="45" x2="300" y2="45" />
+      <line class="text-line" x1="260" y1="53" x2="300" y2="53" />
+      <line class="text-line" x1="260" y1="61" x2="300" y2="61" />
+      <line class="text-line" x1="260" y1="69" x2="300" y2="69" />
+      <line class="text-line" x1="260" y1="77" x2="300" y2="77" />
+    </g>
+
+    <g data-type="image" id="l2-img-side">
+      <rect class="image-placeholder" x="260" y="90" width="40" height="120" />
+      <line class="image-diagonal" x1="260" y1="90" x2="300" y2="210" />
+      <line class="image-diagonal" x1="300" y1="90" x2="260" y2="210" />
+    </g>
+
+    <g data-type="sidebar" id="l2-sidebar-mid-left">
+      <line class="text-line" x1="20" y1="230" x2="45" y2="230" />
+      <line class="text-line" x1="20" y1="238" x2="45" y2="238" />
+      <line class="text-line" x1="20" y1="246" x2="45" y2="246" />
+      <line class="text-line" x1="20" y1="254" x2="45" y2="254" />
+      <line class="text-line" x1="20" y1="262" x2="45" y2="262" />
+    </g>
+
+    <g data-type="image" id="l2-img-center-small">
+      <rect class="image-placeholder" x="55" y="225" width="80" height="45" />
+      <line class="image-diagonal" x1="55" y1="225" x2="135" y2="270" />
+      <line class="image-diagonal" x1="135" y1="225" x2="55" y2="270" />
+    </g>
+
+    <g data-type="editorial-block" id="l2-text-mid-right">
+      <text class="headline-text" x="145" y="245">UVUVUVUV</text>
+      <g data-type="column" id="l2-col-1">
+        <line class="text-line" x1="145" y1="260" x2="215" y2="260" />
+        <line class="text-line" x1="145" y1="268" x2="215" y2="268" />
+        <line class="text-line" x1="145" y1="276" x2="215" y2="276" />
+        <line class="text-line" x1="145" y1="284" x2="215" y2="284" />
+        <line class="text-line" x1="145" y1="292" x2="215" y2="292" />
+        <line class="text-line" x1="145" y1="300" x2="215" y2="300" />
+        <line class="text-line" x1="145" y1="308" x2="215" y2="308" />
+        <line class="text-line" x1="145" y1="316" x2="215" y2="316" />
+        <line class="text-line" x1="145" y1="324" x2="215" y2="324" />
+        <line class="text-line" x1="145" y1="332" x2="215" y2="332" />
+      </g>
+      <g data-type="column" id="l2-col-2">
+        <line class="text-line" x1="230" y1="260" x2="300" y2="260" />
+        <line class="text-line" x1="230" y1="268" x2="300" y2="268" />
+        <line class="text-line" x1="230" y1="276" x2="300" y2="276" />
+        <line class="text-line" x1="230" y1="284" x2="300" y2="284" />
+        <line class="text-line" x1="230" y1="292" x2="300" y2="292" />
+        <line class="text-line" x1="230" y1="300" x2="300" y2="300" />
+        <line class="text-line" x1="230" y1="308" x2="300" y2="308" />
+        <line class="text-line" x1="230" y1="316" x2="300" y2="316" />
+        <line class="text-line" x1="230" y1="324" x2="300" y2="324" />
+        <line class="text-line" x1="230" y1="332" x2="300" y2="332" />
+      </g>
+    </g>
+
+    <g data-type="image" id="l2-img-bot-left">
+      <rect class="image-placeholder" x="20" y="290" width="115" height="150" />
+      <line class="image-diagonal" x1="20" y1="290" x2="135" y2="440" />
+      <line class="image-diagonal" x1="135" y1="290" x2="20" y2="440" />
+    </g>
+
+    <g data-type="image" id="l2-img-bot-right">
+      <rect class="image-placeholder" x="145" y="350" width="155" height="90" />
+      <line class="image-diagonal" x1="145" y1="350" x2="300" y2="440" />
+      <line class="image-diagonal" x1="300" y1="350" x2="145" y2="440" />
+    </g>
+
+    <g id="l2-badge">
+      <rect class="badge-good" x="10" y="15" width="75" height="26" />
+      <text class="badge-text" x="20" y="33">GOOD</text>
+    </g>
+  </g>
+
+  <g id="layout-3" data-quality="good-clean-modular" transform="translate(800, 40)">
+    <rect class="layout-bg" width="320" height="480" />
+
+    <g data-type="image" id="l3-img-top-large">
+      <rect class="image-placeholder" x="20" y="40" width="280" height="170" />
+      <line class="image-diagonal" x1="20" y1="40" x2="300" y2="210" />
+      <line class="image-diagonal" x1="300" y1="40" x2="20" y2="210" />
+    </g>
+
+    <g data-type="sidebar" id="l3-sidebar-mid-left">
+      <line class="text-line" x1="20" y1="230" x2="45" y2="230" />
+      <line class="text-line" x1="20" y1="238" x2="45" y2="238" />
+      <line class="text-line" x1="20" y1="246" x2="45" y2="246" />
+      <line class="text-line" x1="20" y1="254" x2="45" y2="254" />
+      <line class="text-line" x1="20" y1="262" x2="45" y2="262" />
+    </g>
+
+    <g data-type="image" id="l3-img-center-small">
+      <rect class="image-placeholder" x="55" y="225" width="80" height="45" />
+      <line class="image-diagonal" x1="55" y1="225" x2="135" y2="270" />
+      <line class="image-diagonal" x1="135" y1="225" x2="55" y2="270" />
+    </g>
+
+    <g data-type="editorial-block" id="l3-text-mid-right">
+      <text class="headline-text" x="145" y="245">UVUVUVUV</text>
+      <g data-type="column" id="l3-col-1">
+        <line class="text-line" x1="145" y1="260" x2="215" y2="260" />
+        <line class="text-line" x1="145" y1="268" x2="215" y2="268" />
+        <line class="text-line" x1="145" y1="276" x2="215" y2="276" />
+        <line class="text-line" x1="145" y1="284" x2="215" y2="284" />
+        <line class="text-line" x1="145" y1="292" x2="215" y2="292" />
+        <line class="text-line" x1="145" y1="300" x2="215" y2="300" />
+        <line class="text-line" x1="145" y1="308" x2="215" y2="308" />
+        <line class="text-line" x1="145" y1="316" x2="215" y2="316" />
+        <line class="text-line" x1="145" y1="324" x2="215" y2="324" />
+        <line class="text-line" x1="145" y1="332" x2="215" y2="332" />
+      </g>
+      <g data-type="column" id="l3-col-2">
+        <line class="text-line" x1="230" y1="260" x2="300" y2="260" />
+        <line class="text-line" x1="230" y1="268" x2="300" y2="268" />
+        <line class="text-line" x1="230" y1="276" x2="300" y2="276" />
+        <line class="text-line" x1="230" y1="284" x2="300" y2="284" />
+        <line class="text-line" x1="230" y1="292" x2="300" y2="292" />
+        <line class="text-line" x1="230" y1="300" x2="300" y2="300" />
+        <line class="text-line" x1="230" y1="308" x2="300" y2="308" />
+        <line class="text-line" x1="230" y1="316" x2="300" y2="316" />
+        <line class="text-line" x1="230" y1="324" x2="300" y2="324" />
+        <line class="text-line" x1="230" y1="332" x2="300" y2="332" />
+      </g>
+    </g>
+
+    <g data-type="image" id="l3-img-bot-left">
+      <rect class="image-placeholder" x="20" y="290" width="115" height="150" />
+      <line class="image-diagonal" x1="20" y1="290" x2="135" y2="440" />
+      <line class="image-diagonal" x1="135" y1="290" x2="20" y2="440" />
+    </g>
+
+    <g data-type="image" id="l3-img-bot-right">
+      <rect class="image-placeholder" x="145" y="350" width="155" height="90" />
+      <line class="image-diagonal" x1="145" y1="350" x2="300" y2="440" />
+      <line class="image-diagonal" x1="300" y1="350" x2="145" y2="440" />
+    </g>
+
+    <g id="l3-badge">
+      <rect class="badge-good" x="10" y="15" width="75" height="26" />
+      <text class="badge-text" x="20" y="33">GOOD</text>
+    </g>
+  </g>
+</svg>

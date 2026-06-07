@@ -1,0 +1,246 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1600" width="100%" height="100%">
+  <defs>
+    <style>
+      .bg { fill: #ffffff; }
+      .grid-line { stroke: #e5e5e5; stroke-width: 1; stroke-dasharray: 3,3; }
+      .border-line { stroke: #1a1a1a; stroke-width: 2; fill: none; }
+      .diagonal-line { stroke: #1a1a1a; stroke-width: 1.5; }
+      .photo-cross { stroke: #1a1a1a; stroke-width: 1.5; fill: none; }
+      
+      /* Блоки контента */
+      .ad-block { fill: #aaaaaa; stroke: #ffffff; stroke-width: 2; }
+      .text-column { fill: #f9f9f9; stroke: #e5e5e5; stroke-width: 1; }
+      .photo-block { fill: #ffffff; stroke: #1a1a1a; stroke-width: 1.5; }
+      .thick-line { stroke: #1a1a1a; stroke-width: 6; }
+      
+      /* Метки статуса (GOOD / WEAK) */
+      .badge-good { fill: #d32f2f; }
+      .badge-weak { fill: #000000; }
+      .badge-text { font-family: 'Helvetica Neue', Arial, sans-serif; font-size: 14px; font-weight: bold; fill: #ffffff; letter-spacing: 1px; }
+      
+      /* Типографика описаний */
+      .title-text { font-family: 'Georgia', serif; font-size: 18px; font-weight: bold; fill: #000000; }
+      .desc-text { font-family: 'Arial', sans-serif; font-size: 14px; fill: #222222; }
+      
+      /* Имитация текста (placeholder) в макетах */
+      .text-placeholder { font-family: 'Impact', 'Arial Black', sans-serif; font-size: 15px; fill: #000000; font-weight: 900; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="1600" class="bg" />
+
+  <g id="layout-1" data-type="layout" data-status="good">
+    <g data-type="grid">
+      <rect x="20" y="50" width="260" height="420" class="border-line" />
+      <line x1="85" y1="50" x2="85" y2="470" class="grid-line" />
+      <line x1="150" y1="50" x2="150" y2="470" class="grid-line" />
+      <line x1="215" y1="50" x2="215" y2="470" class="grid-line" />
+    </g>
+
+    <text x="30" y="75" class="text-placeholder">UMMMUY UMUMY</text>
+    <text x="30" y="185" class="text-placeholder">UMMMNMMMUM</text>
+    <text x="30" y="200" class="text-placeholder">UMMMMUMUMY</text>
+    <text x="30" y="390" class="text-placeholder">UmmmmM</text>
+    <text x="30" y="402" class="text-placeholder">WMMM</text>
+    <text x="30" y="414" class="text-placeholder">UMMMUMY</text>
+
+    <g data-type="image" class="photo-placeholder">
+      <rect x="85" y="85" width="90" height="55" class="photo-block" />
+      <line x1="85" y1="85" x2="175" y2="140" class="photo-cross" />
+      <line x1="175" y1="85" x2="85" y2="140" class="photo-cross" />
+      <line x1="85" y1="146" x2="175" y2="146" class="thick-line" />
+    </g>
+
+    <g data-type="editorial-content">
+      <rect x="20" y="85" width="65" height="85" class="text-column" />
+      <rect x="20" y="210" width="65" height="160" class="text-column" />
+      <rect x="85" y="155" width="65" height="55" class="text-column" />
+    </g>
+
+    <g data-type="advertising-blocks">
+      <g data-type="ad">
+        <rect x="175" y="50" width="105" height="120" class="ad-block" />
+        <line x1="175" y1="50" x2="280" y2="170" class="diagonal-line" />
+      </g>
+      <g data-type="ad">
+        <rect x="85" y="210" width="195" height="260" class="ad-block" />
+        <line x1="85" y1="210" x2="280" y2="470" class="diagonal-line" />
+      </g>
+      <g data-type="ad">
+        <rect x="20" y="420" width="65" height="50" class="ad-block" />
+        <line x1="20" y1="420" x2="85" y2="470" class="diagonal-line" />
+      </g>
+    </g>
+
+    <g data-type="status-badge">
+      <rect x="15" y="85" width="55" height="25" class="badge-good" />
+      <text x="42" y="102" class="badge-text" text-anchor="middle">GOOD</text>
+    </g>
+
+    <text x="20" y="500" class="title-text">Modular stories</text>
+    <text x="165" y="500" class="desc-text">As these ads</text>
+    <text x="20" y="522" class="desc-text">stairstep down the page, stories square</text>
+    <text x="20" y="544" class="desc-text">off alongside. You may need to cut some</text>
+    <text x="20" y="566" class="desc-text">text to create these modular shapes,</text>
+    <text x="20" y="588" class="desc-text">but the page will be more readable than</text>
+    <text x="20" y="610" class="desc-text">one full of doglegs.</text>
+  </g>
+
+  <g id="layout-2" data-type="layout" data-status="good" transform="translate(300, 0)">
+    <g data-type="grid">
+      <rect x="20" y="50" width="260" height="420" class="border-line" />
+      <line x1="85" y1="50" x2="85" y2="470" class="grid-line" />
+      <line x1="150" y1="50" x2="150" y2="470" class="grid-line" />
+      <line x1="215" y1="50" x2="215" y2="470" class="grid-line" />
+    </g>
+
+    <text x="30" y="75" class="text-placeholder">Ummmm</text>
+    <text x="30" y="90" class="text-placeholder">UMMMY</text>
+    <text x="240" y="115" class="text-placeholder" style="font-size:11px;">UMMMI</text>
+    <text x="240" y="127" class="text-placeholder" style="font-size:11px;">WMMM</text>
+    <text x="240" y="139" class="text-placeholder" style="font-size:11px;">UMMMI</text>
+    <text x="240" y="395" class="text-placeholder" style="font-size:11px;">UMMMI</text>
+    <text x="240" y="407" class="text-placeholder" style="font-size:11px;">WMMM</text>
+    <text x="240" y="419" class="text-placeholder" style="font-size:11px;">UMMMY</text>
+
+    <g data-type="editorial-content">
+      <rect x="85" y="50" width="65" height="50" class="text-column" />
+      <rect x="150" y="50" width="65" height="50" class="text-column" />
+      <rect x="215" y="50" width="65" height="50" class="text-column" />
+      <rect x="235" y="150" width="45" height="230" class="text-column" />
+    </g>
+
+    <g data-type="advertising-blocks">
+      <g data-type="ad">
+        <rect x="20" y="105" width="215" height="365" class="ad-block" />
+        <line x1="20" y1="105" x2="235" y2="470" class="diagonal-line" />
+      </g>
+    </g>
+
+    <g data-type="status-badge">
+      <rect x="15" y="75" width="55" height="35" class="badge-good" />
+      <text x="42" y="92" class="badge-text" text-anchor="middle">GOOD</text>
+      <text x="42" y="105" class="badge-text" text-anchor="middle" style="font-size:10px;">UMMMUN</text>
+    </g>
+
+    <text x="20" y="500" class="title-text">A good headline fit</text>
+    <text x="185" y="500" class="desc-text">With a banner</text>
+    <text x="20" y="522" class="desc-text">headline, that top story would</text>
+    <text x="20" y="544" class="desc-text">have looked too shallow. But with</text>
+    <text x="20" y="566" class="desc-text">a sidesaddle head, the elements</text>
+    <text x="20" y="588" class="desc-text">fit together better. Using bastard</text>
+    <text x="20" y="610" class="desc-text">measures is optional.</text>
+  </g>
+
+  <g id="layout-3" data-type="layout" data-status="good" transform="translate(600, 0)">
+    <g data-type="grid">
+      <rect x="20" y="50" width="260" height="420" class="border-line" />
+      <line x1="85" y1="50" x2="85" y2="470" class="grid-line" />
+      <line x1="150" y1="50" x2="150" y2="470" class="grid-line" />
+      <line x1="215" y1="50" x2="215" y2="470" class="grid-line" />
+    </g>
+
+    <text x="30" y="75" class="text-placeholder">UMMMUY UMUMY UMMMMUY</text>
+    <text x="85" y="160" class="text-placeholder" style="font-size:12px;">UMMMUY UMUMY</text>
+    <text x="85" y="172" class="text-placeholder" style="font-size:12px;">WMMMMI UMNY</text>
+    <text x="155" y="270" class="text-placeholder" style="font-size:12px;">Ummmm</text>
+    <text x="155" y="282" class="text-placeholder" style="font-size:12px;">WMMM</text>
+
+    <g data-type="editorial-content">
+      <rect x="20" y="85" width="65" height="135" class="text-column" />
+      <rect x="85" y="85" width="195" height="55" class="text-column" />
+      <rect x="85" y="185" width="65" height="205" class="text-column" />
+      <rect x="150" y="185" width="65" height="65" class="text-column" />
+    </g>
+
+    <g data-type="advertising-blocks">
+      <g data-type="ad">
+        <rect x="20" y="220" width="65" height="250" class="ad-block" />
+        <line x1="20" y1="220" x2="85" y2="470" class="diagonal-line" />
+      </g>
+      <g data-type="ad">
+        <rect x="85" y="390" width="195" height="80" class="ad-block" />
+        <line x1="85" y1="390" x2="280" y2="470" class="diagonal-line" />
+      </g>
+      <g data-type="ad">
+        <rect x="150" y="295" width="130" height="95" class="ad-block" />
+        <line x1="150" y1="295" x2="280" y2="390" class="diagonal-line" />
+      </g>
+      <g data-type="ad">
+        <rect x="150" y="140" width="130" height="115" class="ad-block" />
+        <line x1="150" y1="140" x2="280" y2="255" class="diagonal-line" />
+      </g>
+    </g>
+
+    <g data-type="status-badge">
+      <rect x="15" y="85" width="55" height="25" class="badge-good" />
+      <text x="42" y="102" class="badge-text" text-anchor="middle">GOOD</text>
+    </g>
+
+    <text x="20" y="500" class="title-text">Bit of doglegging</text>
+    <text x="175" y="500" class="desc-text">The more crowded</text>
+    <text x="20" y="522" class="desc-text">the page, the less necessary (and more</text>
+    <text x="20" y="544" class="desc-text">difficult) it is to add photos. Note how</text>
+    <text x="20" y="566" class="desc-text">this page plays up one dominant story—</text>
+    <text x="20" y="588" class="desc-text">and how slight doglegs around ads are</text>
+    <text x="20" y="610" class="desc-text">not a problem.</text>
+  </g>
+
+  <g id="layout-4" data-type="layout" data-status="weak" transform="translate(900, 0)">
+    <g data-type="grid">
+      <rect x="20" y="50" width="260" height="420" class="border-line" />
+      <line x1="85" y1="50" x2="85" y2="470" class="grid-line" />
+      <line x1="150" y1="50" x2="150" y2="470" class="grid-line" />
+      <line x1="215" y1="50" x2="215" y2="470" class="grid-line" />
+    </g>
+
+    <text x="30" y="75" class="text-placeholder">UMMMUY UMUMY</text>
+    <text x="30" y="90" class="text-placeholder">WMMMMI UMNMMN</text>
+    <text x="85" y="240" class="text-placeholder" style="font-size:11px;">UMMMUY UMUMY</text>
+    <text x="85" y="252" class="text-placeholder" style="font-size:11px;">WMMMMI UNNY</text>
+
+    <g data-type="image" class="photo-placeholder">
+      <rect x="175" y="50" width="105" height="115" class="photo-block" />
+      <line x1="175" y1="50" x2="280" y2="165" class="photo-cross" />
+      <line x1="280" y1="50" x2="175" y2="165" class="photo-cross" />
+      <line x1="175" y1="171" x2="280" y2="171" class="thick-line" />
+    </g>
+
+    <g data-type="editorial-content">
+      <rect x="20" y="105" width="155" height="115" class="text-column" />
+      <rect x="80" y="265" width="100" height="115" class="text-column" style="stroke-width:1.5; stroke:#000000;" />
+    </g>
+
+    <g data-type="advertising-blocks">
+      <g data-type="ad">
+        <rect x="20" y="220" width="60" height="160" class="ad-block" />
+        <line x1="20" y1="220" x2="80" y2="380" class="diagonal-line" />
+      </g>
+      <g data-type="ad">
+        <rect x="180" y="220" width="100" height="160" class="ad-block" />
+        <line x1="180" y1="220" x2="280" y2="380" class="diagonal-line" />
+      </g>
+      <g data-type="ad">
+        <rect x="20" y="380" width="260" height="90" class="ad-block" />
+        <line x1="20" y1="380" x2="280" y2="470" class="diagonal-line" />
+      </g>
+      <g data-type="ad">
+        <rect x="175" y="175" width="105" height="45" class="ad-block" />
+        <line x1="175" y1="175" x2="280" y2="220" class="diagonal-line" />
+      </g>
+    </g>
+
+    <g data-type="status-badge">
+      <rect x="15" y="85" width="55" height="25" class="badge-weak" />
+      <text x="42" y="102" class="badge-text" text-anchor="middle">WEAK</text>
+    </g>
+
+    <text x="20" y="500" class="title-text">Photos and ads</text>
+    <text x="150" y="500" class="desc-text">Two problems here:</text>
+    <text x="20" y="522" class="desc-text">That top photo sits on an ad and could</text>
+    <text x="20" y="544" class="desc-text">easily be mistaken for an ad itself. In the</text>
+    <text x="20" y="566" class="desc-text">middle of the page, that boxed story is</text>
+    <text x="20" y="588" class="desc-text">sandwiched between ads—and, like the</text>
+    <text x="20" y="610" class="desc-text">photo, seems to look like another ad.</text>
+  </g>
+</svg>

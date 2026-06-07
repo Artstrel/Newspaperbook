@@ -1,0 +1,167 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1600" width="100%" height="100%">
+  <defs>
+    <style>
+      .layout-bg { fill: #ffffff; stroke: #000000; stroke-width: 2; }
+      .image-placeholder { fill: #ffffff; stroke: #000000; stroke-width: 2; }
+      .image-cross { stroke: #000000; stroke-width: 1.5; }
+      .image-border-thick { stroke: #000000; stroke-width: 4; fill: none; }
+      .headline { fill: #000000; font-family: sans-serif; font-weight: 900; text-anchor: start; }
+      .text-column { fill: #e0e0e0; stroke: none; }
+      .tag-good { fill: #bf1e2e; }
+      .tag-okay { fill: #d97706; }
+      .tag-text { fill: #ffffff; font-family: sans-serif; font-weight: bold; font-size: 11px; text-anchor: middle; }
+      .flow-arrow { fill: #8b9680; stroke: #5d6655; stroke-width: 1; }
+      .caption-line { fill: #000000; stroke: none; }
+    </style>
+  </defs>
+
+  <g id="layout-1" data-type="layout"><rect x="0" y="0" width="1" height="1" fill="none" opacity="0"/></g>
+  <g id="layout-2" data-type="layout"><rect x="0" y="0" width="1" height="1" fill="none" opacity="0"/></g>
+  <g id="layout-3" data-type="layout"><rect x="0" y="0" width="1" height="1" fill="none" opacity="0"/></g>
+  <g id="layout-4" data-type="layout"><rect x="0" y="0" width="1" height="1" fill="none" opacity="0"/></g>
+  <g id="layout-5" data-type="layout"><rect x="0" y="0" width="1" height="1" fill="none" opacity="0"/></g>
+  <g id="layout-6" data-type="layout"><rect x="0" y="0" width="1" height="1" fill="none" opacity="0"/></g>
+
+  <g id="layout-7" data-type="layout" data-variant="vertical-options-a">
+    <rect x="50" y="50" width="450" height="350" class="layout-bg" />
+    
+    <g data-type="tag-status">
+      <rect x="50" y="65" width="55" height="22" class="tag-good" />
+      <text x="77.5" y="80" class="tag-text">GOOD</text>
+    </g>
+
+    <g data-type="image" data-importance="primary" class="image-container">
+      <rect x="75" y="75" width="165" height="300" class="image-placeholder" />
+      <line x1="75" y1="75" x2="240" y2="375" class="image-cross" />
+      <line x1="240" y1="75" x2="75" y2="375" class="image-cross" />
+      <line x1="75" y1="382" x2="240" y2="382" class="image-border-thick" />
+    </g>
+
+    <g data-type="headline-group">
+      <text x="255" y="90" font-size="14" class="headline">Uvummuv vuylmi</text>
+      <text x="255" y="108" font-size="14" class="headline">ummuv ummmmuy</text>
+    </g>
+
+    <g data-type="image" data-importance="secondary" class="image-container">
+      <rect x="315" y="125" width="110" height="170" class="image-placeholder" />
+      <line x1="315" y1="125" x2="425" y2="295" class="image-cross" />
+      <line x1="425" y1="125" x2="315" y2="295" class="image-cross" />
+      <line x1="315" y1="302" x2="425" y2="302" class="image-border-thick" />
+    </g>
+
+    <g data-type="columns">
+      <rect x="255" y="125" width="45" height="250" class="text-column" />
+      <rect x="315" y="315" width="45" height="60" class="text-column" />
+      <rect x="380" y="315" width="45" height="60" class="text-column" />
+    </g>
+
+    <path d="M 330,410 C 330,440 350,445 370,445 L 370,430 L 405,455 L 370,480 L 370,465 C 350,465 330,460 330,410 Z" class="flow-arrow" />
+  </g>
+
+  <g id="layout-8" data-type="layout" data-variant="vertical-options-b">
+    <rect x="50" y="520" width="450" height="350" class="layout-bg" />
+    
+    <g data-type="tag-status">
+      <rect x="50" y="535" width="55" height="22" class="tag-good" />
+      <text x="77.5" y="550" class="tag-text">GOOD</text>
+    </g>
+
+    <g data-type="image" data-importance="primary" class="image-container">
+      <rect x="75" y="540" width="165" height="300" class="image-placeholder" />
+      <line x1="75" y1="540" x2="240" y2="840" class="image-cross" />
+      <line x1="240" y1="540" x2="75" y2="840" class="image-cross" />
+      <line x1="75" y1="847" x2="240" y2="847" class="image-border-thick" />
+    </g>
+
+    <g data-type="headline-group">
+      <text x="255" y="555" font-size="14" class="headline">Uvummu vumuy</text>
+      <text x="255" y="573" font-size="14" class="headline">umu ummuv umu</text>
+    </g>
+
+    <g data-type="image" data-importance="secondary" class="image-container">
+      <rect x="320" y="590" width="50" height="90" class="image-placeholder" />
+      <line x1="320" y1="590" x2="370" y2="680" class="image-cross" />
+      <line x1="370" y1="590" x2="320" y2="680" class="image-cross" />
+      <line x1="320" y1="687" x2="370" y2="687" class="image-border-thick" />
+    </g>
+
+    <g data-type="columns">
+      <rect x="255" y="590" width="50" height="250" class="text-column" />
+      <rect x="320" y="700" width="50" height="140" class="text-column" />
+      <rect x="385" y="590" width="50" height="250" class="text-column" />
+    </g>
+
+    <path d="M 330,880 C 330,910 350,915 370,915 L 370,900 L 405,925 L 370,950 L 370,935 C 350,935 330,930 330,880 Z" class="flow-arrow" />
+  </g>
+
+  <g id="layout-9" data-type="layout" data-variant="vertical-options-c">
+    <rect x="50" y="980" width="500" height="600" class="layout-bg" />
+    
+    <g data-type="headline-group">
+      <text x="75" y="1010" font-size="16" class="headline">Uvummmuy umu umu</text>
+    </g>
+
+    <g data-type="tag-status">
+      <rect x="50" y="1025" width="55" height="22" class="tag-good" />
+      <text x="77.5" y="1040" class="tag-text">GOOD</text>
+    </g>
+
+    <g data-type="image" data-importance="secondary" class="image-container">
+      <rect x="150" y="1035" width="50" height="90" class="image-placeholder" />
+      <line x1="150" y1="1035" x2="200" y2="1125" class="image-cross" />
+      <line x1="200" y1="1035" x2="150" y2="1125" class="image-cross" />
+      <line x1="150" y1="1132" x2="200" y2="1132" class="image-border-thick" />
+    </g>
+
+    <g data-type="image" data-importance="primary" class="image-container">
+      <rect x="215" y="1035" width="115" height="300" class="image-placeholder" />
+      <line x1="215" y1="1035" x2="330" y2="1335" class="image-cross" />
+      <line x1="330" y1="1035" x2="215" y2="1335" class="image-cross" />
+      <line x1="215" y1="1342" x2="330" y2="1342" class="image-border-thick" />
+    </g>
+
+    <g data-type="columns">
+      <rect x="75" y="1035" width="60" height="520" class="text-column" />
+      <rect x="150" y="1145" width="50" height="410" class="text-column" />
+      <rect x="215" y="1355" width="50" height="200" class="text-column" />
+      <rect x="280" y="1355" width="50" height="200" class="text-column" />
+      <rect x="345" y="1035" width="60" height="520" class="text-column" />
+    </g>
+  </g>
+
+  <g id="layout-10" data-type="layout" data-variant="vertical-options-stacked-long">
+    <rect x="600" y="980" width="500" height="600" class="layout-bg" />
+    
+    <g data-type="headline-group">
+      <text x="625" y="1010" font-size="16" class="headline">Uvummmuy ummu uvu</text>
+    </g>
+
+    <g data-type="tag-status">
+      <rect x="600" y="1025" width="55" height="22" class="tag-okay" />
+      <text x="627.5" y="1040" class="tag-text">OKAY</text>
+    </g>
+
+    <g data-type="image" data-importance="primary" class="image-container">
+      <rect x="790" y="1035" width="135" height="220" class="image-placeholder" />
+      <line x1="790" y1="1035" x2="925" y2="1255" class="image-cross" />
+      <line x1="925" y1="1035" x2="790" y2="1255" class="image-cross" />
+      <line x1="790" y1="1262" x2="925" y2="1262" class="image-border-thick" />
+    </g>
+
+    <g data-type="image" data-importance="secondary" class="image-container">
+      <rect x="860" y="1280" width="65" height="120" class="image-placeholder" />
+      <line x1="860" y1="1280" x2="925" y2="1400" class="image-cross" />
+      <line x1="925" y1="1280" x2="860" y2="1400" class="image-cross" />
+      <line x1="860" y1="1407" x2="925" y2="1407" class="image-border-thick" />
+    </g>
+
+    <g data-type="columns">
+      <rect x="625" y="1035" width="45" height="520" class="text-column" />
+      <rect x="680" y="1035" width="45" height="520" class="text-column" />
+      <rect x="735" y="1035" width="45" height="520" class="text-column" />
+      <rect x="790" y="1280" width="60" height="275" class="text-column" />
+      <rect x="860" y="1425" width="65" height="130" class="text-column" />
+      <rect x="945" y="1035" width="45" height="520" class="text-column" />
+    </g>
+  </g>
+</svg>

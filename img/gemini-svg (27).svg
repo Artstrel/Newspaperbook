@@ -1,0 +1,155 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1600" width="100%" height="100%">
+  <defs>
+    <style>
+      .layout-bg { fill: #ffffff; stroke: #000000; stroke-width: 2; }
+      .image-placeholder { fill: #ffffff; stroke: #000000; stroke-width: 2; }
+      .image-cross { stroke: #000000; stroke-width: 1.5; }
+      .image-border-thick { stroke: #000000; stroke-width: 4; fill: none; }
+      .headline { fill: #000000; font-family: sans-serif; font-weight: 900; text-anchor: start; }
+      .text-column { fill: #e0e0e0; stroke: none; }
+      .tag-good { fill: #bf1e2e; }
+      .tag-okay { fill: #d97706; }
+      .tag-text { fill: #ffffff; font-family: sans-serif; font-weight: bold; font-size: 11px; text-anchor: middle; }
+      .caption-line { fill: #000000; stroke: none; }
+    </style>
+  </defs>
+
+  <g id="layout-1" data-type="layout"><rect x="0" y="0" width="1" height="1" fill="none" opacity="0"/></g>
+  <g id="layout-2" data-type="layout"><rect x="0" y="0" width="1" height="1" fill="none" opacity="0"/></g>
+  <g id="layout-3" data-type="layout"><rect x="0" y="0" width="1" height="1" fill="none" opacity="0"/></g>
+  <g id="layout-4" data-type="layout"><rect x="0" y="0" width="1" height="1" fill="none" opacity="0"/></g>
+  <g id="layout-5" data-type="layout"><rect x="0" y="0" width="1" height="1" fill="none" opacity="0"/></g>
+  <g id="layout-6" data-type="layout"><rect x="0" y="0" width="1" height="1" fill="none" opacity="0"/></g>
+  <g id="layout-7" data-type="layout"><rect x="0" y="0" width="1" height="1" fill="none" opacity="0"/></g>
+
+  <g id="layout-8" data-type="layout" data-variant="vertical-stacked-shared-cutline">
+    <rect x="50" y="50" width="340" height="420" class="layout-bg" />
+    
+    <g data-type="tag-status">
+      <rect x="50" y="80" width="55" height="22" class="tag-good" />
+      <text x="77.5" y="95" class="tag-text">GOOD</text>
+    </g>
+
+    <g data-type="image" data-importance="primary" class="image-container">
+      <rect x="70" y="70" width="160" height="140" class="image-placeholder" />
+      <line x1="70" y1="70" x2="230" y2="210" class="image-cross" />
+      <line x1="230" y1="70" x2="70" y2="210" class="image-cross" />
+      <line x1="70" y1="217" x2="230" y2="217" class="image-border-thick" />
+    </g>
+
+    <g data-type="captions" data-position="mid-left">
+      <rect x="70" y="230" width="45" height="6" class="caption-line" />
+      <rect x="70" y="240" width="45" height="6" class="caption-line" />
+      <rect x="70" y="250" width="45" height="6" class="caption-line" />
+      <rect x="70" y="260" width="45" height="6" class="caption-line" />
+      <rect x="70" y="270" width="45" height="6" class="caption-line" />
+    </g>
+
+    <g data-type="image" data-importance="secondary" class="image-container">
+      <rect x="125" y="230" width="105" height="105" class="image-placeholder" />
+      <line x1="125" y1="230" x2="230" y2="335" class="image-cross" />
+      <line x1="230" y1="230" x2="125" y2="335" class="image-cross" />
+      <line x1="125" y1="342" x2="230" y2="342" class="image-border-thick" />
+    </g>
+
+    <g data-type="headline-group">
+      <text x="245" y="90" font-size="16" class="headline">Uvuvuv</text>
+      <text x="245" y="110" font-size="16" class="headline">vuy vuvu</text>
+      <text x="245" y="130" font-size="16" class="headline">vuuvy uv</text>
+    </g>
+
+    <g data-type="columns">
+      <rect x="245" y="150" width="60" height="250" class="text-column" />
+      <rect x="315" y="150" width="60" height="250" class="text-column" />
+    </g>
+  </g>
+
+  <g id="layout-9" data-type="layout" data-variant="horizontal-tight-cutline">
+    <rect x="420" y="50" width="360" height="420" class="layout-bg" />
+    
+    <g data-type="tag-status">
+      <rect x="420" y="80" width="55" height="22" class="tag-good" />
+      <text x="447.5" y="95" class="tag-text">GOOD</text>
+    </g>
+
+    <g data-type="image" data-importance="primary" class="image-container">
+      <rect x="440" y="70" width="190" height="140" class="image-placeholder" />
+      <line x1="440" y1="70" x2="630" y2="210" class="image-cross" />
+      <line x1="630" y1="70" x2="440" y2="210" class="image-cross" />
+      <line x1="440" y1="217" x2="630" y2="217" class="image-border-thick" />
+    </g>
+
+    <g data-type="image" data-importance="secondary" class="image-container">
+      <rect x="640" y="70" width="115" height="105" class="image-placeholder" />
+      <line x1="640" y1="70" x2="755" y2="175" class="image-cross" />
+      <line x1="755" y1="70" x2="640" y2="175" class="image-cross" />
+      <line x1="640" y1="182" x2="755" y2="182" class="image-border-thick" />
+    </g>
+
+    <g data-type="captions" data-position="under-right-visual">
+      <rect x="640" y="195" width="115" height="5" class="caption-line" />
+      <rect x="640" y="203" width="115" height="5" class="caption-line" />
+      <rect x="640" y="211" width="115" height="5" class="caption-line" />
+      <rect x="640" y="219" width="115" height="5" class="caption-line" />
+    </g>
+
+    <g data-type="headline-group">
+      <text x="440" y="250" font-size="16" class="headline">Umummmuyumu uyummvuyu</text>
+    </g>
+
+    <g data-type="columns">
+      <rect x="440" y="270" width="50" height="130" class="text-column" />
+      <rect x="502" y="270" width="50" height="130" class="text-column" />
+      <rect x="564" y="270" width="50" height="130" class="text-column" />
+      <rect x="626" y="270" width="50" height="130" class="text-column" />
+      <rect x="688" y="270" width="67" height="130" class="text-column" />
+    </g>
+  </g>
+
+  <g id="layout-10" data-type="layout" data-variant="horizontal-indented-cutline">
+    <rect x="810" y="50" width="340" height="420" class="layout-bg" />
+    
+    <g data-type="tag-status">
+      <rect x="810" y="80" width="55" height="22" class="tag-okay" />
+      <text x="837.5" y="95" class="tag-text">OKAY</text>
+    </g>
+
+    <g data-type="headline-group">
+      <text x="830" y="85" font-size="14" class="headline">Uvuvuvuy uvuv uy Vuvuvuvuvu</text>
+    </g>
+
+    <g data-type="columns" data-section="left-flank">
+      <rect x="830" y="105" width="40" height="295" class="text-column" />
+    </g>
+
+    <g data-type="image" data-importance="primary" class="image-container">
+      <rect x="880" y="105" width="140" height="140" class="image-placeholder" />
+      <line x1="880" y1="105" x2="1020" y2="245" class="image-cross" />
+      <line x1="1020" y1="105" x2="880" y2="245" class="image-cross" />
+      <line x1="880" y1="252" x2="1020" y2="252" class="image-border-thick" />
+    </g>
+
+    <g data-type="image" data-importance="secondary" class="image-container">
+      <rect x="1030" y="105" width="95" height="105" class="image-placeholder" />
+      <line x1="1030" y1="105" x2="1125" y2="210" class="image-cross" />
+      <line x1="1125" y1="105" x2="1030" y2="210" class="image-cross" />
+      <line x1="1030" y1="217" x2="1125" y2="217" class="image-border-thick" />
+    </g>
+
+    <g data-type="captions" data-position="indented-under-right">
+      <rect x="1050" y="230" width="75" height="5" class="caption-line" />
+      <rect x="1050" y="238" width="75" height="5" class="caption-line" />
+      <rect x="1050" y="246" width="75" height="5" class="caption-line" />
+      <rect x="1050" y="254" width="75" height="5" class="caption-line" />
+      <rect x="1050" y="262" width="75" height="5" class="caption-line" />
+    </g>
+
+    <g data-type="columns" data-section="base-grid">
+      <rect x="880" y="275" width="40" height="125" class="text-column" />
+      <rect x="930" y="275" width="40" height="125" class="text-column" />
+      <rect x="980" y="275" width="40" height="125" class="text-column" />
+      <rect x="1030" y="275" width="40" height="125" class="text-column" />
+      <rect x="1080" y="275" width="45" height="125" class="text-column" />
+    </g>
+  </g>
+</svg>

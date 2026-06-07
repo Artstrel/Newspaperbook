@@ -1,0 +1,20 @@
+# Настройки Jekyll для GitHub Pages
+
+collections:
+  chapters:
+    output: false
+  articles:
+    output: false
+
+# Эти параметры понадобятся если вы захотите в будущем генерировать отдельные страницы
+# defaults:
+#   - scope:
+#       path: ""
+#       type: "chapters"
+#     values:
+#       layout: "chapter"
+#   - scope:
+#       path: ""
+#       type: "articles"
+#     values:
+#       layout: "article"

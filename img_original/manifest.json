@@ -1,0 +1,1427 @@
+[
+  {
+    "file": "ch1-001-hazmat-newspaper-reader.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 1,
+    "source_page": 3,
+    "index": 1,
+    "name": "hazmat-newspaper-reader",
+    "box_frac": [
+      0.012398522727272725,
+      0.7290066340782123,
+      0.3515234375,
+      1
+    ],
+    "pixel_size": [
+      616,
+      642
+    ]
+  },
+  {
+    "file": "ch1-002-publick-occurrences.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 2,
+    "source_page": 4,
+    "index": 1,
+    "name": "publick-occurrences",
+    "box_frac": [
+      0.5107625568181817,
+      0.0996833661211699,
+      0.8289204545454546,
+      0.4940018932799443
+    ],
+    "pixel_size": [
+      574,
+      929
+    ]
+  },
+  {
+    "file": "ch1-003-philadelphia-inquirer.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 3,
+    "source_page": 4,
+    "index": 2,
+    "name": "philadelphia-inquirer",
+    "box_frac": [
+      0.5084730113636363,
+      0.541134452472145,
+      0.8674002840909091,
+      0.949210589310585
+    ],
+    "pixel_size": [
+      648,
+      961
+    ]
+  },
+  {
+    "file": "ch1-004-la-times-frontpage.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 4,
+    "source_page": 5,
+    "index": 1,
+    "name": "la-times-frontpage",
+    "box_frac": [
+      0.4921825568181819,
+      0.10287293897774688,
+      0.8825177556818182,
+      0.4986281945410292
+    ],
+    "pixel_size": [
+      707,
+      937
+    ]
+  },
+  {
+    "file": "ch1-005-oregon-journal-sports.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 5,
+    "source_page": 5,
+    "index": 2,
+    "name": "oregon-journal-sports",
+    "box_frac": [
+      0.4880007102272727,
+      0.5355202538247567,
+      0.8461896306818182,
+      0.9475073887343533
+    ],
+    "pixel_size": [
+      648,
+      976
+    ]
+  },
+  {
+    "file": "ch1-006-huntsville-times.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 6,
+    "source_page": 6,
+    "index": 1,
+    "name": "huntsville-times",
+    "box_frac": [
+      0.3895419034090909,
+      0.09838646629603892,
+      0.8982563920454546,
+      0.8443933504169562
+    ],
+    "pixel_size": [
+      920,
+      1764
+    ]
+  },
+  {
+    "file": "ch1-007-concord-monitor.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 7,
+    "source_page": 7,
+    "index": 1,
+    "name": "concord-monitor",
+    "box_frac": [
+      0.037993607954545455,
+      0.09933932000698324,
+      0.31291193181818183,
+      0.4833711592178771
+    ],
+    "pixel_size": [
+      500,
+      910
+    ]
+  },
+  {
+    "file": "ch1-008-virginian-pilot-bin-laden-dead.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 8,
+    "source_page": 7,
+    "index": 2,
+    "name": "virginian-pilot-bin-laden-dead",
+    "box_frac": [
+      0.3565321875,
+      0.09935573673184356,
+      0.6127121875,
+      0.48217909828910616
+    ],
+    "pixel_size": [
+      466,
+      907
+    ]
+  },
+  {
+    "file": "ch1-009-st-petersburg-times-florida.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 9,
+    "source_page": 7,
+    "index": 3,
+    "name": "st-petersburg-times-florida",
+    "box_frac": [
+      0.6504842329545454,
+      0.0998168252444134,
+      0.9342542613636363,
+      0.48224183833798884
+    ],
+    "pixel_size": [
+      516,
+      906
+    ]
+  },
+  {
+    "file": "ch1-010-whimsical-pink-hat.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 10,
+    "source_page": 8,
+    "index": 1,
+    "name": "whimsical-pink-hat",
+    "box_frac": [
+      0.03632991477272726,
+      0.0976,
+      0.32180991477272725,
+      0.4805390841412742
+    ],
+    "pixel_size": [
+      517,
+      910
+    ]
+  },
+  {
+    "file": "ch1-011-eye-catching-life.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 11,
+    "source_page": 8,
+    "index": 2,
+    "name": "eye-catching-life",
+    "box_frac": [
+      0.38487,
+      0.0976,
+      0.6543536931818181,
+      0.4817699316135734
+    ],
+    "pixel_size": [
+      488,
+      913
+    ]
+  },
+  {
+    "file": "ch1-012-medley-living.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 12,
+    "source_page": 8,
+    "index": 3,
+    "name": "medley-living",
+    "box_frac": [
+      0.71507,
+      0.09718,
+      0.9615660511363636,
+      0.48217300034626037
+    ],
+    "pixel_size": [
+      446,
+      915
+    ]
+  },
+  {
+    "file": "ch1-013-conceptual-tabloid.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 13,
+    "source_page": 8,
+    "index": 4,
+    "name": "conceptual-tabloid",
+    "box_frac": [
+      0.03634099431818182,
+      0.5962955548822715,
+      0.2859309943181818,
+      0.8121223926592798
+    ],
+    "pixel_size": [
+      452,
+      513
+    ]
+  },
+  {
+    "file": "ch1-014-choke-and-dagger.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 14,
+    "source_page": 9,
+    "index": 1,
+    "name": "choke-and-dagger",
+    "box_frac": [
+      0.03395241477272727,
+      0.09827,
+      0.28445,
+      0.4836795897079277
+    ],
+    "pixel_size": [
+      454,
+      914
+    ]
+  },
+  {
+    "file": "ch1-015-la-machine-sports.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 15,
+    "source_page": 9,
+    "index": 2,
+    "name": "la-machine-sports",
+    "box_frac": [
+      0.34020607954545456,
+      0.09865406815020862,
+      0.6252201704545455,
+      0.48309555372044505
+    ],
+    "pixel_size": [
+      517,
+      911
+    ]
+  },
+  {
+    "file": "ch1-016-closer-look-mwc.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 16,
+    "source_page": 9,
+    "index": 3,
+    "name": "closer-look-mwc",
+    "box_frac": [
+      0.67641,
+      0.09743,
+      0.9553373579545454,
+      0.48198452712100137
+    ],
+    "pixel_size": [
+      506,
+      912
+    ]
+  },
+  {
+    "file": "ch1-017-forum-huntsville-times.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 17,
+    "source_page": 10,
+    "index": 1,
+    "name": "forum-huntsville-times",
+    "box_frac": [
+      0.04728,
+      0.09706,
+      0.28972,
+      0.47730628908964556
+    ],
+    "pixel_size": [
+      441,
+      905
+    ]
+  },
+  {
+    "file": "ch1-018-opinion-upheaval.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 18,
+    "source_page": 10,
+    "index": 2,
+    "name": "opinion-upheaval",
+    "box_frac": [
+      0.36943,
+      0.09664,
+      0.62177,
+      0.47437185111188324
+    ],
+    "pixel_size": [
+      459,
+      899
+    ]
+  },
+  {
+    "file": "ch1-019-going-back-opinion.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 19,
+    "source_page": 10,
+    "index": 3,
+    "name": "going-back-opinion",
+    "box_frac": [
+      0.70093,
+      0.09622,
+      0.96537,
+      0.47452929551772066
+    ],
+    "pixel_size": [
+      481,
+      900
+    ]
+  },
+  {
+    "file": "ch1-020-homescape-newspaper.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 20,
+    "source_page": 11,
+    "index": 1,
+    "name": "homescape-newspaper",
+    "box_frac": [
+      0.02726673295454545,
+      0.10169433553088132,
+      0.30563565340909093,
+      0.4797964738029146
+    ],
+    "pixel_size": [
+      504,
+      895
+    ]
+  },
+  {
+    "file": "ch1-021-tech-talk-newspaper.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 21,
+    "source_page": 11,
+    "index": 2,
+    "name": "tech-talk-newspaper",
+    "box_frac": [
+      0.34575639204545455,
+      0.1013890093684941,
+      0.62777,
+      0.47931666377515614
+    ],
+    "pixel_size": [
+      510,
+      895
+    ]
+  },
+  {
+    "file": "ch1-022-movies-newspaper.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 22,
+    "source_page": 11,
+    "index": 3,
+    "name": "movies-newspaper",
+    "box_frac": [
+      0.66538,
+      0.10135,
+      0.95022,
+      0.48085639312977096
+    ],
+    "pixel_size": [
+      515,
+      899
+    ]
+  },
+  {
+    "file": "ch1-023-vroom-motor-city-newspaper.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 23,
+    "source_page": 11,
+    "index": 4,
+    "name": "vroom-motor-city-newspaper",
+    "box_frac": [
+      0.68473,
+      0.60008,
+      0.88219,
+      0.8501149375433726
+    ],
+    "pixel_size": [
+      357,
+      592
+    ]
+  },
+  {
+    "file": "ch1-024-the-press-9-11-front-page.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 24,
+    "source_page": 12,
+    "index": 1,
+    "name": "the-press-9-11-front-page",
+    "box_frac": [
+      0.04528,
+      0.09544,
+      0.32523,
+      0.519664355876217
+    ],
+    "pixel_size": [
+      507,
+      1005
+    ]
+  },
+  {
+    "file": "ch1-025-snow-sports-preview-page.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 25,
+    "source_page": 12,
+    "index": 2,
+    "name": "snow-sports-preview-page",
+    "box_frac": [
+      0.33849,
+      0.09544,
+      0.65599,
+      0.5194388908205841
+    ],
+    "pixel_size": [
+      575,
+      1004
+    ]
+  },
+  {
+    "file": "ch1-026-world-series-style-points-page.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 26,
+    "source_page": 12,
+    "index": 3,
+    "name": "world-series-style-points-page",
+    "box_frac": [
+      0.66924,
+      0.09544,
+      0.97018,
+      0.5196969532336578
+    ],
+    "pixel_size": [
+      545,
+      1005
+    ]
+  },
+  {
+    "file": "ch1-027-broadsheet-huntsville-times.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 27,
+    "source_page": 13,
+    "index": 1,
+    "name": "broadsheet-huntsville-times",
+    "box_frac": [
+      0.03518,
+      0.4016927083333333,
+      0.33501420454545455,
+      0.82159
+    ],
+    "pixel_size": [
+      545,
+      996
+    ]
+  },
+  {
+    "file": "ch1-028-berliner-journal-courier.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 28,
+    "source_page": 13,
+    "index": 2,
+    "name": "berliner-journal-courier",
+    "box_frac": [
+      0.3475500852272727,
+      0.4013930657252441,
+      0.6475923295454545,
+      0.77689
+    ],
+    "pixel_size": [
+      546,
+      890
+    ]
+  },
+  {
+    "file": "ch1-029-tabloid-daily-news.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 29,
+    "source_page": 13,
+    "index": 3,
+    "name": "tabloid-daily-news",
+    "box_frac": [
+      0.6575457386363636,
+      0.3992383629707113,
+      0.9566157386363635,
+      0.6394751612622036
+    ],
+    "pixel_size": [
+      544,
+      569
+    ]
+  },
+  {
+    "file": "ch1-030-denver-post-print-front-page.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 30,
+    "source_page": 14,
+    "index": 1,
+    "name": "denver-post-print-front-page",
+    "box_frac": [
+      0.04948,
+      0.37031,
+      0.3474254261363636,
+      0.7621382496513249
+    ],
+    "pixel_size": [
+      542,
+      929
+    ]
+  },
+  {
+    "file": "ch1-031-denverpost-com-website.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 31,
+    "source_page": 14,
+    "index": 2,
+    "name": "denverpost-com-website",
+    "box_frac": [
+      0.3582208806818182,
+      0.36946,
+      0.9669034659090909,
+      0.8001465524755927
+    ],
+    "pixel_size": [
+      1107,
+      1021
+    ]
+  },
+  {
+    "file": "ch1-032-behind-the-veil.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 32,
+    "source_page": 15,
+    "index": 1,
+    "name": "behind-the-veil",
+    "box_frac": [
+      0.03683,
+      0.3741691727684798,
+      0.787549715909091,
+      0.73471
+    ],
+    "pixel_size": [
+      1366,
+      855
+    ]
+  },
+  {
+    "file": "ch1-033-startribune-tablet.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 33,
+    "source_page": 16,
+    "index": 1,
+    "name": "startribune-tablet",
+    "box_frac": [
+      0.042467329545454555,
+      0.09239546328671328,
+      0.6224964488636363,
+      0.6690340909090909
+    ],
+    "pixel_size": [
+      1048,
+      1355
+    ]
+  },
+  {
+    "file": "ch1-034-smartphone-news-app.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 34,
+    "source_page": 16,
+    "index": 2,
+    "name": "smartphone-news-app",
+    "box_frac": [
+      0.3731311363636364,
+      0.7429578234265735,
+      0.6489666193181818,
+      1
+    ],
+    "pixel_size": [
+      498,
+      604
+    ]
+  },
+  {
+    "file": "ch1-035-bugle-beacon-newspaper.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 35,
+    "source_page": 18,
+    "index": 1,
+    "name": "bugle-beacon-newspaper",
+    "box_frac": [
+      0.039888124999999997,
+      0.19745957167832168,
+      0.9673153409090909,
+      0.9378395716783217
+    ],
+    "pixel_size": [
+      1687,
+      1751
+    ]
+  },
+  {
+    "file": "ch1-036-japan-baseball-newspaper-page.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 36,
+    "source_page": 19,
+    "index": 1,
+    "name": "japan-baseball-newspaper-page",
+    "box_frac": [
+      0.023462357954545456,
+      0.19730927025139663,
+      0.9541086647727273,
+      0.9384902016410615
+    ],
+    "pixel_size": [
+      1693,
+      1755
+    ]
+  },
+  {
+    "file": "ch1-037-then-printing.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 37,
+    "source_page": 21,
+    "index": 1,
+    "name": "then-printing",
+    "box_frac": [
+      0.3656,
+      0.1032,
+      0.6521,
+      0.46624502250692523
+    ],
+    "pixel_size": [
+      518,
+      862
+    ]
+  },
+  {
+    "file": "ch1-038-now-printing.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 38,
+    "source_page": 21,
+    "index": 2,
+    "name": "now-printing",
+    "box_frac": [
+      0.66482,
+      0.10362,
+      0.95077,
+      0.4674352925900277
+    ],
+    "pixel_size": [
+      517,
+      864
+    ]
+  },
+  {
+    "file": "ch1-039-ransom-note.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 39,
+    "source_page": 21,
+    "index": 3,
+    "name": "ransom-note",
+    "box_frac": [
+      0.03636352272727278,
+      0.6049750519390581,
+      0.9290021306818181,
+      0.9138190356648199
+    ],
+    "pixel_size": [
+      1614,
+      733
+    ]
+  },
+  {
+    "file": "ch1-040-metal-type-blocks.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 40,
+    "source_page": 22,
+    "index": 1,
+    "name": "metal-type-blocks",
+    "box_frac": [
+      0.04082423295454548,
+      0.315563024948025,
+      0.36359375,
+      0.65266318000693
+    ],
+    "pixel_size": [
+      583,
+      799
+    ]
+  },
+  {
+    "file": "ch1-041-letterpress-leading-blocks.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 41,
+    "source_page": 22,
+    "index": 2,
+    "name": "letterpress-leading-blocks",
+    "box_frac": [
+      0.04148,
+      0.7915204868329868,
+      0.3243252840909091,
+      0.93674
+    ],
+    "pixel_size": [
+      511,
+      344
+    ]
+  },
+  {
+    "file": "ch1-042.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 42,
+    "source_page": 22,
+    "index": 3,
+    "name": "",
+    "box_frac": [
+      0.552294034090909,
+      0.17342613045738045,
+      0.9688068181818181,
+      0.3752057345807346
+    ],
+    "pixel_size": [
+      753,
+      479
+    ]
+  },
+  {
+    "file": "ch1-043.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 43,
+    "source_page": 22,
+    "index": 4,
+    "name": "",
+    "box_frac": [
+      0.3821661931818181,
+      0.4702875952875953,
+      0.9665980113636363,
+      0.734534715003465
+    ],
+    "pixel_size": [
+      1057,
+      627
+    ]
+  },
+  {
+    "file": "ch1-044.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 44,
+    "source_page": 22,
+    "index": 5,
+    "name": "",
+    "box_frac": [
+      0.3845454545454545,
+      0.8309078309078309,
+      0.8090909090909091,
+      0.918918918918919
+    ],
+    "pixel_size": [
+      768,
+      209
+    ]
+  },
+  {
+    "file": "ch1-045-flabbergasted-letter-anatomy.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 45,
+    "source_page": 23,
+    "index": 1,
+    "name": "flabbergasted-letter-anatomy",
+    "box_frac": [
+      0.36549065340909087,
+      0.2217968050699301,
+      0.9687464488636364,
+      0.46027680506993013
+    ],
+    "pixel_size": [
+      1097,
+      564
+    ]
+  },
+  {
+    "file": "ch1-046.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 46,
+    "source_page": 23,
+    "index": 2,
+    "name": "",
+    "box_frac": [
+      0.59,
+      0.47692307692307695,
+      0.9381818181818182,
+      0.7286713286713287
+    ],
+    "pixel_size": [
+      634,
+      595
+    ]
+  },
+  {
+    "file": "ch1-047-virginian-pilot-front-page.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 47,
+    "source_page": 25,
+    "index": 1,
+    "name": "virginian-pilot-front-page",
+    "box_frac": [
+      0.026656534090909106,
+      0.0978014933936022,
+      0.9613955965909091,
+      0.9552414933936022
+    ],
+    "pixel_size": [
+      1690,
+      2027
+    ]
+  },
+  {
+    "file": "ch1-048-algerians-demand-newspaper.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 48,
+    "source_page": 26,
+    "index": 1,
+    "name": "algerians-demand-newspaper",
+    "box_frac": [
+      0.033828125,
+      0.29144,
+      0.9664808238636363,
+      0.94222
+    ],
+    "pixel_size": [
+      1681,
+      1543
+    ]
+  },
+  {
+    "file": "ch1-049-tabloid-wild-west-venus.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 49,
+    "source_page": 27,
+    "index": 1,
+    "name": "tabloid-wild-west-venus",
+    "box_frac": [
+      0.35183238636363634,
+      0.08785793671548117,
+      0.8078053977272728,
+      0.5470820258019525
+    ],
+    "pixel_size": [
+      829,
+      1089
+    ]
+  },
+  {
+    "file": "ch1-050-fort-sumter-newspaper.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 50,
+    "source_page": 28,
+    "index": 1,
+    "name": "fort-sumter-newspaper",
+    "box_frac": [
+      0.39335,
+      0.10217587809917356,
+      0.5788991477272727,
+      0.40643024707300274
+    ],
+    "pixel_size": [
+      335,
+      726
+    ]
+  },
+  {
+    "file": "ch1-051.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 51,
+    "source_page": 28,
+    "index": 2,
+    "name": "",
+    "box_frac": [
+      0.38454545454545447,
+      0.474862258953168,
+      0.6690909090909091,
+      0.5759458935950413
+    ],
+    "pixel_size": [
+      514,
+      240
+    ]
+  },
+  {
+    "file": "ch1-052.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 52,
+    "source_page": 28,
+    "index": 3,
+    "name": "",
+    "box_frac": [
+      0.6816548295454545,
+      0.4735521048553719,
+      0.9688316761363637,
+      0.5744232093663911
+    ],
+    "pixel_size": [
+      519,
+      241
+    ]
+  },
+  {
+    "file": "ch1-053.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 53,
+    "source_page": 28,
+    "index": 4,
+    "name": "",
+    "box_frac": [
+      0.3846732954545454,
+      0.6386099991391184,
+      0.6696306818181819,
+      0.7379530389118457
+    ],
+    "pixel_size": [
+      515,
+      237
+    ]
+  },
+  {
+    "file": "ch1-054.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 54,
+    "source_page": 28,
+    "index": 5,
+    "name": "",
+    "box_frac": [
+      0.6804545454545454,
+      0.6369232093663911,
+      0.9699041193181818,
+      0.7397043948002755
+    ],
+    "pixel_size": [
+      523,
+      245
+    ]
+  },
+  {
+    "file": "ch1-055.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 55,
+    "source_page": 28,
+    "index": 6,
+    "name": "",
+    "box_frac": [
+      0.38237926136363637,
+      0.7909941029614325,
+      0.6666193181818182,
+      0.8917871900826446
+    ],
+    "pixel_size": [
+      513,
+      240
+    ]
+  },
+  {
+    "file": "ch1-056.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 56,
+    "source_page": 28,
+    "index": 7,
+    "name": "",
+    "box_frac": [
+      0.6812997159090909,
+      0.790679343147383,
+      0.9671129261363637,
+      0.8908617424242424
+    ],
+    "pixel_size": [
+      516,
+      239
+    ]
+  },
+  {
+    "file": "ch1-057.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 57,
+    "source_page": 28,
+    "index": 8,
+    "name": "",
+    "box_frac": [
+      0.5886541193181818,
+      0.31201844438705234,
+      0.967333096590909,
+      0.4132796358471074
+    ],
+    "pixel_size": [
+      683,
+      241
+    ]
+  },
+  {
+    "file": "ch1-058-salt-lake-tribune.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 58,
+    "source_page": 29,
+    "index": 1,
+    "name": "salt-lake-tribune",
+    "box_frac": [
+      0.02701,
+      0.10152,
+      0.3267649147727273,
+      0.49539116753472223
+    ],
+    "pixel_size": [
+      544,
+      935
+    ]
+  },
+  {
+    "file": "ch1-059-collegian.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 59,
+    "source_page": 29,
+    "index": 2,
+    "name": "collegian",
+    "box_frac": [
+      0.02587761363636364,
+      0.570036953125,
+      0.3252166193181818,
+      0.9081678602430555
+    ],
+    "pixel_size": [
+      543,
+      803
+    ]
+  },
+  {
+    "file": "ch1-060.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 60,
+    "source_page": 29,
+    "index": 3,
+    "name": "",
+    "box_frac": [
+      0.3587926136363636,
+      0.25129937065972224,
+      0.9693678977272727,
+      0.7539171006944444
+    ],
+    "pixel_size": [
+      1107,
+      1193
+    ]
+  },
+  {
+    "file": "ch1-061.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 61,
+    "source_page": 29,
+    "index": 4,
+    "name": "",
+    "box_frac": [
+      0.3562606534090909,
+      0.7670925564236111,
+      0.9574644886363637,
+      0.9312391493055555
+    ],
+    "pixel_size": [
+      1091,
+      390
+    ]
+  },
+  {
+    "file": "ch1-062-vj-day-kiss.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 62,
+    "source_page": 32,
+    "index": 1,
+    "name": "vj-day-kiss",
+    "box_frac": [
+      0.0365,
+      0.09773,
+      0.33628,
+      0.39551322281855955
+    ],
+    "pixel_size": [
+      542,
+      707
+    ]
+  },
+  {
+    "file": "ch1-063-viet-cong-execution.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 63,
+    "source_page": 32,
+    "index": 2,
+    "name": "viet-cong-execution",
+    "box_frac": [
+      0.0354,
+      0.41812835439750695,
+      0.33518,
+      0.5700906769390581
+    ],
+    "pixel_size": [
+      542,
+      360
+    ]
+  },
+  {
+    "file": "ch1-064-challenger-explosion.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 64,
+    "source_page": 32,
+    "index": 3,
+    "name": "challenger-explosion",
+    "box_frac": [
+      0.03429,
+      0.5915912828947368,
+      0.33407,
+      0.7459206198060941
+    ],
+    "pixel_size": [
+      542,
+      367
+    ]
+  },
+  {
+    "file": "ch1-065-world-trade-center-attack.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 65,
+    "source_page": 32,
+    "index": 4,
+    "name": "world-trade-center-attack",
+    "box_frac": [
+      0.03362636363636363,
+      0.7688928324099723,
+      0.3328463636363636,
+      0.9179471087257618
+    ],
+    "pixel_size": [
+      541,
+      354
+    ]
+  },
+  {
+    "file": "ch1-066-migrant-mother.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 66,
+    "source_page": 32,
+    "index": 5,
+    "name": "migrant-mother",
+    "box_frac": [
+      0.37611,
+      0.09815,
+      0.96239,
+      0.6774395126385041
+    ],
+    "pixel_size": [
+      1060,
+      1375
+    ]
+  },
+  {
+    "file": "ch1-067-horizontal-ocean-swimmers.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 67,
+    "source_page": 33,
+    "index": 1,
+    "name": "horizontal-ocean-swimmers",
+    "box_frac": [
+      0.02830965909090909,
+      0.09526,
+      0.95631,
+      0.500834529401531
+    ],
+    "pixel_size": [
+      1678,
+      958
+    ]
+  },
+  {
+    "file": "ch1-068-vertical-soldiers-embrace.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 68,
+    "source_page": 33,
+    "index": 2,
+    "name": "vertical-soldiers-embrace",
+    "box_frac": [
+      0.36947,
+      0.5644707941892833,
+      0.685859375,
+      0.91914
+    ],
+    "pixel_size": [
+      572,
+      838
+    ]
+  },
+  {
+    "file": "ch1-069-square-woman-portrait.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 69,
+    "source_page": 33,
+    "index": 3,
+    "name": "square-woman-portrait",
+    "box_frac": [
+      0.6953500852272727,
+      0.5667351687543494,
+      0.9542000852272727,
+      0.76461
+    ],
+    "pixel_size": [
+      468,
+      467
+    ]
+  },
+  {
+    "file": "ch1-070.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 70,
+    "source_page": 33,
+    "index": 4,
+    "name": "",
+    "box_frac": [
+      0.029279119318181817,
+      0.601423864822547,
+      0.17192826704545455,
+      0.8012895789839944
+    ],
+    "pixel_size": [
+      258,
+      472
+    ]
+  },
+  {
+    "file": "ch1-071-workers-lifting-sow.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 71,
+    "source_page": 34,
+    "index": 1,
+    "name": "workers-lifting-sow",
+    "box_frac": [
+      0.3835227272727273,
+      0.33630616759195003,
+      0.96482,
+      0.63156
+    ],
+    "pixel_size": [
+      1057,
+      704
+    ]
+  },
+  {
+    "file": "ch1-072-equestrian-sans-condensed.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 72,
+    "source_page": 35,
+    "index": 1,
+    "name": "equestrian-sans-condensed",
+    "box_frac": [
+      0.05090551136363638,
+      0.2208973426573427,
+      0.3101775568181818,
+      0.4006173513986014
+    ],
+    "pixel_size": [
+      471,
+      425
+    ]
+  },
+  {
+    "file": "ch1-073-equestrian-serif-italic.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 73,
+    "source_page": 35,
+    "index": 2,
+    "name": "equestrian-serif-italic",
+    "box_frac": [
+      0.06212,
+      0.4618881118881119,
+      0.30080610795454543,
+      0.6364974868881119
+    ],
+    "pixel_size": [
+      434,
+      413
+    ]
+  },
+  {
+    "file": "ch1-074-equestrian-sans-light-boldface-lead.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 74,
+    "source_page": 35,
+    "index": 3,
+    "name": "equestrian-sans-light-boldface-lead",
+    "box_frac": [
+      0.06157,
+      0.6986696896853147,
+      0.30007457386363634,
+      0.8787095716783216
+    ],
+    "pixel_size": [
+      434,
+      426
+    ]
+  },
+  {
+    "file": "ch1-075-virginian-pilot-gleek.png",
+    "reviewed": true,
+    "chapter": "1",
+    "seq": 75,
+    "source_page": 35,
+    "index": 4,
+    "name": "virginian-pilot-gleek",
+    "box_frac": [
+      0.37108,
+      0.20725524475524476,
+      0.94997,
+      0.7074
+    ],
+    "pixel_size": [
+      1053,
+      1183
+    ]
+  }
+]

@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1600" width="100%" height="100%">
+  <defs>
+    <style>
+      .outer-border { fill: none; stroke: #111111; stroke-width: 2; }
+      .headline { fill: #111111; font-family: sans-serif; font-weight: 900; }
+      .badge-good { fill: #b84335; }
+      .badge-risky { fill: #d35400; }
+      .badge-weak { fill: #c0392b; }
+      .badge-text { fill: #ffffff; font-family: sans-serif; font-weight: bold; text-anchor: middle; }
+      .text-column { fill: #dddddd; }
+      .image-placeholder { fill: none; stroke: #111111; stroke-width: 2; }
+      .image-diagonal { stroke: #111111; stroke-width: 1.5; }
+      .caption-lines { stroke: #111111; stroke-width: 2; }
+    </style>
+  </defs>
+
+  <g id="layout-6" data-type="layout-vertical-alignment">
+    <rect x="50" y="50" width="200" height="1350" class="outer-border" data-type="container" />
+    
+    <g data-type="image-container">
+      <rect x="70" y="75" width="160" height="280" class="image-placeholder" data-type="image" />
+      <line x1="70" y1="75" x2="230" y2="355" class="image-diagonal" />
+      <line x1="70" y1="355" x2="230" y2="75" class="image-diagonal" />
+      <line x1="70" y1="370" x2="230" y2="370" class="caption-lines" />
+      <line x1="70" y1="380" x2="230" y2="380" class="caption-lines" />
+    </g>
+
+    <g data-type="badge" class="badge-group">
+      <rect x="45" y="100" width="80" height="45" class="badge-good" data-type="badge-background" />
+      <text x="85" y="130" font-size="18" class="badge-text" data-type="badge-label">GOOD</text>
+    </g>
+
+    <g data-type="headline-group">
+      <text x="70" y="425" font-size="22" class="headline" data-type="headline">Uvumvmv</text>
+      <text x="70" y="455" font-size="22" class="headline" data-type="headline">vuv umvuy</text>
+      <text x="70" y="485" font-size="22" class="headline" data-type="headline">vumvmvmu</text>
+    </g>
+
+    <rect x="70" y="520" width="160" height="850" class="text-column" data-type="column" data-column-index="1" />
+  </g>
+
+  <g id="layout-7" data-type="layout-interrupted-column">
+    <rect x="420" y="50" width="200" height="1350" class="outer-border" data-type="container" />
+
+    <g data-type="headline-group">
+      <text x="440" y="125" font-size="22" class="headline" data-type="headline">Uvumvmv</text>
+      <text x="440" y="155" font-size="22" class="headline" data-type="headline">vuv umvuy</text>
+      <text x="440" y="185" font-size="22" class="headline" data-type="headline">vumvmvmu</text>
+    </g>
+
+    <rect x="440" y="220" width="160" height="300" class="text-column" data-type="column" data-column-index="1" data-segment="top" />
+
+    <g data-type="image-container">
+      <rect x="440" y="550" width="160" height="260" class="image-placeholder" data-type="image" />
+      <line x1="440" y1="550" x2="600" y2="810" class="image-diagonal" />
+      <line x1="440" y1="810" x2="600" y2="550" class="image-diagonal" />
+      <line x1="440" y1="825" x2="600" y2="825" class="caption-lines" />
+      <line x1="440" y1="835" x2="600" y2="835" class="caption-lines" />
+    </g>
+
+    <g data-type="badge" class="badge-group">
+      <rect x="415" y="570" width="85" height="45" class="badge-risky" data-type="badge-background" />
+      <text x="457" y="600" font-size="18" class="badge-text" data-type="badge-label">RISKY</text>
+    </g>
+
+    <rect x="440" y="860" width="160" height="510" class="text-column" data-type="column" data-column-index="1" data-segment="bottom" />
+  </g>
+
+  <g id="layout-8" data-type="layout-bottom-heavy">
+    <rect x="790" y="50" width="200" height="1350" class="outer-border" data-type="container" />
+
+    <g data-type="headline-group">
+      <text x="810" y="125" font-size="22" class="headline" data-type="headline">Uvumvmv</text>
+      <text x="810" y="155" font-size="22" class="headline" data-type="headline">vuv umvuy</text>
+      <text x="810" y="185" font-size="22" class="headline" data-type="headline">vumvmvmu</text>
+    </g>
+
+    <rect x="810" y="220" width="160" height="710" class="text-column" data-type="column" data-column-index="1" />
+
+    <g data-type="image-container">
+      <rect x="810" y="960" width="160" height="280" class="image-placeholder" data-type="image" />
+      <line x1="810" y1="960" x2="970" y2="1240" class="image-diagonal" />
+      <line x1="810" y1="1240" x2="970" y2="960" class="image-diagonal" />
+      <line x1="810" y1="1255" x2="970" y2="1255" class="caption-lines" />
+      <line x1="810" y1="1265" x2="970" y2="1265" class="caption-lines" />
+    </g>
+
+    <g data-type="badge" class="badge-group">
+      <rect x="785" y="980" width="85" height="45" class="badge-weak" data-type="badge-background" />
+      <text x="827" y="1010" font-size="18" class="badge-text" data-type="badge-label">WEAK</text>
+    </g>
+  </g>
+</svg>

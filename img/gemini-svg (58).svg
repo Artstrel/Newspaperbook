@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1000 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g id="layout-1">
+        <rect x="10" y="20" width="320" height="360" style="fill:white;stroke:rgb(51,51,51);stroke-width:1.5px;"/>
+        <path d="M25,40L315,40M25,50L315,50" style="fill-rule:nonzero;stroke:black;stroke-width:8px;"/>
+        <rect x="25" y="70" width="85" height="295" style="fill:rgb(224,224,224);"/>
+        <rect x="127" y="105" width="85" height="260" style="fill:rgb(224,224,224);"/>
+        <rect x="230" y="70" width="85" height="295" style="fill:rgb(224,224,224);"/>
+        <g>
+            <rect x="127" y="62" width="85" height="35" style="fill:white;stroke:black;stroke-width:1px;"/>
+            <g transform="matrix(1,0,0,1,0,-8)">
+                <circle cx="145" cy="82" r="6" style="fill:rgb(160,160,160);"/>
+            </g>
+            <g transform="matrix(1,0,0,1.777778,0,-70.777778)">
+                <path d="M135,91L155,91L145,82L135,91Z" style="fill:rgb(160,160,160);fill-rule:nonzero;"/>
+            </g>
+            <rect x="160" y="68" width="45" height="4"/>
+            <rect x="160" y="75" width="45" height="4"/>
+            <rect x="160" y="82" width="30" height="4"/>
+        </g>
+    </g>
+    <g id="layout-2">
+        <rect x="375" y="20" width="100" height="360" style="fill:white;stroke:rgb(51,51,51);stroke-width:1.5px;"/>
+        <g>
+            <rect x="385" y="30" width="80" height="35" style="fill:white;stroke:black;stroke-width:1px;"/>
+            <g transform="matrix(1,0,0,1,0,-8)">
+                <circle cx="400" cy="50" r="6" style="fill:rgb(160,160,160);"/>
+            </g>
+            <g transform="matrix(1,0,0,1.888889,0,-52.444444)">
+                <path d="M390,59L410,59L400,50L390,59Z" style="fill:rgb(160,160,160);fill-rule:nonzero;"/>
+            </g>
+            <rect x="415" y="36" width="45" height="4"/>
+            <rect x="415" y="43" width="45" height="4"/>
+            <rect x="415" y="50" width="30" height="4"/>
+        </g>
+        <path d="M385,80L465,80M385,92L465,92" style="fill-rule:nonzero;stroke:black;stroke-width:7px;"/>
+        <path d="M385,110L465,110M385,122L465,122" style="fill-rule:nonzero;stroke:black;stroke-width:7px;"/>
+        <path d="M385,140L465,140M385,152L465,152" style="fill-rule:nonzero;stroke:black;stroke-width:7px;"/>
+        <rect x="385" y="165" width="80" height="200" style="fill:rgb(224,224,224);"/>
+    </g>
+    <g id="layout-3">
+        <rect x="505" y="20" width="110" height="360" style="fill:white;stroke:rgb(51,51,51);stroke-width:1.5px;"/>
+        <path d="M515,40L595,40" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:7px;"/>
+        <path d="M515,60L595,60M515,72L595,72" style="fill-rule:nonzero;stroke:black;stroke-width:7px;"/>
+        <path d="M515,90L595,90" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:7px;"/>
+        <rect x="515" y="105" width="90" height="75" style="fill:rgb(224,224,224);"/>
+        <g>
+            <rect x="560" y="190" width="45" height="75" style="fill:white;stroke:black;stroke-width:1px;"/>
+            <g transform="matrix(1,0,0,1,0,-12)">
+                <circle cx="582" cy="215" r="6" style="fill:rgb(160,160,160);"/>
+            </g>
+            <g transform="matrix(1,0,0,2.333333,0,-300)">
+                <path d="M572,225L592,225L582,216L572,225Z" style="fill:rgb(160,160,160);fill-rule:nonzero;"/>
+            </g>
+            <rect x="568" y="235" width="30" height="4"/>
+            <rect x="568" y="243" width="30" height="4"/>
+            <rect x="568" y="251" width="30" height="4"/>
+        </g>
+        <rect x="515" y="190" width="40" height="175" style="fill:rgb(224,224,224);"/>
+        <rect x="560" y="272" width="45" height="93" style="fill:rgb(224,224,224);"/>
+    </g>
+    <g id="layout-4">
+        <rect x="655" y="20" width="320" height="360" style="fill:white;stroke:rgb(51,51,51);stroke-width:1.5px;"/>
+        <path d="M655,35L975,35" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+        <path d="M655,68L975,68" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+        <g>
+            <g transform="matrix(1,0,0,1.68,0,-34.84)">
+                <rect x="670" y="38" width="25" height="25" style="fill:white;stroke:black;stroke-width:1px;"/>
+            </g>
+            <g transform="matrix(1.615385,0,0,1.615385,-418.692308,-34.461538)">
+                <circle cx="682" cy="47" r="4" style="fill:rgb(160,160,160);"/>
+            </g>
+            <g transform="matrix(1.615385,0,0,4.115385,-418.692308,-163.461538)">
+                <path d="M676,56L688,56L682,50L676,56Z" style="fill:rgb(160,160,160);fill-rule:nonzero;"/>
+            </g>
+            <rect x="702" y="44" width="35" height="3"/>
+            <rect x="742" y="44" width="55" height="3"/>
+        </g>
+        <path d="M670,85L960,85M670,95L960,95" style="fill-rule:nonzero;stroke:black;stroke-width:8px;"/>
+        <rect x="670" y="115" width="85" height="250" style="fill:rgb(224,224,224);"/>
+        <rect x="772" y="115" width="85" height="250" style="fill:rgb(224,224,224);"/>
+        <rect x="875" y="115" width="85" height="250" style="fill:rgb(224,224,224);"/>
+    </g>
+</svg>

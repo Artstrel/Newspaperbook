@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3800 1600" width="100%" height="100%">
+  <defs>
+    <style>
+      .bg-panel { fill: #ffffff; stroke: #000000; stroke-width: 2; }
+      .border-box { fill: none; stroke: #000000; stroke-width: 1.5; }
+      .column-grid { fill: #e3e3e3; }
+      .text-mock { fill: #000000; fill-rule: evenodd; }
+      .badge-good { fill: #d31111; }
+      .badge-weak { fill: #bd1a1a; }
+      .badge-text { fill: #ffffff; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: bold; font-size: 26px; letter-spacing: 2px; }
+      .sidebar-bg { fill: #f0f0f0; stroke: #000000; stroke-width: 1; }
+      .accent-bar { fill: #000000; }
+    </style>
+  </defs>
+
+  <g id="layout-1" data-type="layout-diagram" data-quality="good">
+    <rect x="50" y="50" width="1100" height="1500" class="bg-panel" />
+    
+    <rect x="100" y="100" width="1000" height="340" class="border-box" />
+    <path d="M120,130 C150,125 240,125 300,130 C340,135 500,135 600,130 C700,125 850,125 1000,130 L1000,165 C850,160 700,160 600,165 C500,170 340,170 300,165 C240,160 150,160 120,165 Z" class="text-mock" data-type="headline" />
+    
+    <rect x="120" y="190" width="190" height="220" class="column-grid" data-type="column" />
+    <rect x="340" y="190" width="190" height="220" class="column-grid" data-type="column" />
+    <rect x="560" y="190" width="190" height="220" class="column-grid" data-type="column" />
+    <rect x="780" y="190" width="190" height="220" class="column-grid" data-type="column" />
+
+    <path d="M100,490 C200,485 400,485 600,490 C700,495 800,495 900,490 L900,520 C800,525 700,525 600,520 C400,515 200,515 100,520 Z" class="text-mock" data-type="headline" />
+    
+    <rect x="100" y="550" width="190" height="340" class="column-grid" data-type="column" />
+    <rect x="100" y="960" width="190" height="150" class="column-grid" data-type="column" />
+    <rect x="100" y="1170" width="190" height="280" class="column-grid" data-type="column" />
+
+    <rect x="330" y="550" width="190" height="340" class="column-grid" data-type="column" />
+    <rect x="330" y="960" width="190" height="150" class="column-grid" data-type="column" />
+    <rect x="330" y="1170" width="190" height="280" class="column-grid" data-type="column" />
+
+    <rect x="560" y="550" width="190" height="340" class="column-grid" data-type="column" />
+    <rect x="560" y="960" width="190" height="150" class="column-grid" data-type="column" />
+    <rect x="560" y="1170" width="190" height="280" class="column-grid" data-type="column" />
+
+    <rect x="790" y="550" width="190" height="340" class="column-grid" data-type="column" />
+    <path d="M1000,550 L1050,550 L1050,565 L1000,565 Z M1000,575 L1040,575 L1040,590 L1000,590 Z M1000,600 L1045,600 L1045,615 L1000,615 Z M1000,625 L1035,625 L1035,640 L1000,640 Z" class="text-mock" data-type="sidebar-text" />
+    
+    <rect x="790" y="960" width="190" height="150" class="column-grid" data-type="column" />
+    <rect x="790" y="1170" width="190" height="280" class="column-grid" data-type="column" />
+
+    <path d="M100,920 C300,915 600,915 900,920 L900,945 C600,945 300,940 100,945 Z" class="text-mock" data-type="headline" />
+    <path d="M100,1130 C300,1125 500,1125 700,1130 L700,1155 C500,1155 300,1150 100,1155 Z" class="text-mock" data-type="headline" />
+
+    <rect x="25" y="160" width="150" height="65" class="badge-good" />
+    <text x="42" y="204" class="badge-text">GOOD</text>
+  </g>
+
+  <g id="layout-2" data-type="layout-diagram" data-quality="good">
+    <rect x="1350" y="50" width="1100" height="1500" class="bg-panel" />
+    
+    <path d="M1400,130 C1500,125 1700,125 1950,130 L1950,165 C1700,160 1500,160 1400,165 Z" class="text-mock" data-type="headline" />
+    
+    <rect x="1400" y="190" width="165" height="220" class="column-grid" data-type="column" />
+    <rect x="1590" y="190" width="165" height="220" class="column-grid" data-type="column" />
+    <rect x="1780" y="190" width="165" height="220" class="column-grid" data-type="column" />
+    
+    <path d="M1400,490 C1550,485 1750,485 1950,490 L1950,520 C1750,515 1550,515 1400,520 Z" class="text-mock" data-type="headline" />
+    <rect x="1400" y="550" width="165" height="340" class="column-grid" data-type="column" />
+    <rect x="1590" y="550" width="165" height="340" class="column-grid" data-type="column" />
+    <rect x="1780" y="550" width="165" height="340" class="column-grid" data-type="column" />
+
+    <path d="M1400,920 C1550,915 1750,915 1950,920 L1950,945 C1750,945 1550,940 1400,945 Z" class="text-mock" data-type="headline" />
+    <rect x="1400" y="960" width="165" height="150" class="column-grid" data-type="column" />
+    <rect x="1590" y="960" width="165" height="150" class="column-grid" data-type="column" />
+    <rect x="1780" y="960" width="165" height="150" class="column-grid" data-type="column" />
+
+    <rect x="1400" y="1140" width="545" height="310" class="border-box" />
+    <path d="M1420,1170 C1500,1165 1650,1165 1800,1170 L1800,1195 C1650,1195 1500,1190 1420,1195 Z" class="text-mock" data-type="headline" />
+    <rect x="1420" y="1210" width="150" height="210" class="column-grid" data-type="column" />
+    <rect x="1595" y="1210" width="150" height="210" class="column-grid" data-type="column" />
+    <rect x="1770" y="1210" width="150" height="210" class="column-grid" data-type="column" />
+
+    <rect x="2010" y="100" width="400" height="1350" class="sidebar-bg" data-type="sidebar" />
+    <rect x="2050" y="130" width="80" height="50" class="accent-bar" />
+    <path d="M2150,150 L2350,150" stroke="#000000" stroke-width="8" />
+    <path d="M2050,210 L2350,210 M2050,230 L2300,230 M2050,250 L2320,250 M2050,270 L2280,270" stroke="#000000" stroke-width="4" />
+    <rect x="2050" y="320" width="320" height="1100" class="column-grid" data-type="sidebar-data" />
+
+    <rect x="1325" y="160" width="150" height="65" class="badge-good" />
+    <text x="1342" y="204" class="badge-text">GOOD</text>
+  </g>
+
+  <g id="layout-3" data-type="layout-diagram" data-quality="weak">
+    <rect x="2650" y="50" width="1100" height="1500" class="bg-panel" />
+    
+    <path d="M2700,130 C2850,125 3100,125 3400,130 L3400,165 C3100,160 2850,160 2700,165 Z" class="text-mock" data-type="headline" />
+    <rect x="2700" y="190" width="190" height="220" class="column-grid" data-type="column" />
+    <rect x="2920" y="190" width="190" height="220" class="column-grid" data-type="column" />
+    <rect x="3140" y="190" width="190" height="220" class="column-grid" data-type="column" />
+    <rect x="3360" y="190" width="190" height="220" class="column-grid" data-type="column" />
+
+    <rect x="2700" y="440" width="1000" height="340" class="border-box" />
+    <path d="M2720,470 C2850,465 3100,465 3350,470 L3350,500 C3100,495 2850,495 2720,500 Z" class="text-mock" data-type="headline" />
+    <rect x="2720" y="530" width="190" height="220" class="column-grid" data-type="column" />
+    <rect x="2940" y="530" width="190" height="220" class="column-grid" data-type="column" />
+    <rect x="3160" y="530" width="190" height="220" class="column-grid" data-type="column" />
+    <rect x="3380" y="530" width="190" height="220" class="column-grid" data-type="column" />
+
+    <path d="M2700,820 C2850,815 3100,815 3300,820 L3300,845 C3100,845 2850,840 2700,845 Z" class="text-mock" data-type="headline" />
+    <rect x="2700" y="870" width="190" height="260" class="column-grid" data-type="column" />
+    <rect x="2920" y="870" width="190" height="260" class="column-grid" data-type="column" />
+    <rect x="3140" y="870" width="190" height="260" class="column-grid" data-type="column" />
+    
+    <path d="M3360,870 L3410,870 M3360,885 L3400,885 M3360,900 L3405,900" stroke="#000000" stroke-width="4" />
+
+    <path d="M2700,1170 C2850,1165 3000,1165 3200,1170 L3200,1195 C3000,1195 2850,1190 2700,1195 Z" class="text-mock" data-type="headline" />
+    <rect x="2700" y="1220" width="190" height="230" class="column-grid" data-type="column" />
+    <rect x="2920" y="1220" width="190" height="230" class="column-grid" data-type="column" />
+    <rect x="3140" y="1220" width="190" height="230" class="column-grid" data-type="column" />
+    <rect x="3360" y="1220" width="190" height="230" class="column-grid" data-type="column" />
+
+    <rect x="2625" y="160" width="150" height="65" class="badge-weak" />
+    <text x="2642" y="204" class="badge-text">WEAK</text>
+  </g>
+</svg>

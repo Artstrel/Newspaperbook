@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 600 1600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g id="layout-1" transform="matrix(1,0,0,1,50,50)">
+        <rect x="0" y="0" width="480" height="600" style="fill:white;stroke:rgb(204,204,204);stroke-width:1px;"/>
+        <g>
+            <g transform="matrix(0.841121,0,0,0.249524,2.383178,285.028571)">
+                <rect x="15" y="60" width="95" height="525" style="fill:rgb(229,229,229);fill-opacity:0.4;"/>
+            </g>
+            <g transform="matrix(0.841121,0,0,0.249524,2.383178,285.028571)">
+                <rect x="125" y="60" width="95" height="525" style="fill:rgb(229,229,229);fill-opacity:0.4;"/>
+            </g>
+            <g transform="matrix(0.841121,0,0,0.152381,2.383178,495.857143)">
+                <rect x="235" y="60" width="95" height="525" style="fill:rgb(229,229,229);fill-opacity:0.4;"/>
+            </g>
+            <g transform="matrix(0.841121,0,0,0.152381,2.383178,495.857143)">
+                <rect x="345" y="60" width="95" height="525" style="fill:rgb(229,229,229);fill-opacity:0.4;"/>
+            </g>
+            <g transform="matrix(0.841121,0,0,0.249524,2.383178,285.028571)">
+                <rect x="235" y="60" width="95" height="525" style="fill:rgb(229,229,229);fill-opacity:0.4;"/>
+            </g>
+            <g transform="matrix(0.841121,0,0,0.327619,2.383178,44.342857)">
+                <rect x="15" y="60" width="95" height="525" style="fill:rgb(229,229,229);fill-opacity:0.4;"/>
+            </g>
+            <g transform="matrix(0.841121,0,0,0.327619,2.383178,44.342857)">
+                <rect x="125" y="60" width="95" height="525" style="fill:rgb(229,229,229);fill-opacity:0.4;"/>
+            </g>
+            <g transform="matrix(0.841121,0,0,0.327619,2.383178,44.342857)">
+                <rect x="235" y="60" width="95" height="525" style="fill:rgb(229,229,229);fill-opacity:0.4;"/>
+            </g>
+            <g transform="matrix(0.841121,0,0,0.249524,2.383178,285.028571)">
+                <rect x="345" y="60" width="95" height="525" style="fill:rgb(229,229,229);fill-opacity:0.4;"/>
+            </g>
+            <g transform="matrix(0.841121,0,0,0.228571,94.906542,451.285714)">
+                <rect x="345" y="60" width="95" height="525" style="fill:rgb(229,229,229);fill-opacity:0.4;"/>
+            </g>
+            <g transform="matrix(0.841121,0,0,0.078095,2.383178,188.314286)">
+                <rect x="345" y="60" width="95" height="525" style="fill:rgb(229,229,229);fill-opacity:0.4;"/>
+            </g>
+            <g transform="matrix(0.841121,0,0,0.078095,94.906542,188.314286)">
+                <rect x="345" y="60" width="95" height="525" style="fill:rgb(229,229,229);fill-opacity:0.4;"/>
+            </g>
+        </g>
+        <g transform="matrix(1.485436,0,0,1.485436,11.831844,44.782668)">
+            <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:28px;">Uмммuy umмuv V<tspan x="241.664px 258.768px " y="0px 0px ">uv</tspan>yu</text>
+        </g>
+        <g transform="matrix(1.533333,0,0,1.533333,-40,-8)">
+            <rect x="15" y="15" width="60" height="25" style="fill:rgb(204,0,0);"/>
+            <g transform="matrix(1,0,0,1,22,32)">
+                <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:14px;fill:white;">WEAK</text>
+            </g>
+        </g>
+        <g transform="matrix(0.977143,0,0,0.977143,10.628571,1.485714)">
+            <rect x="290" y="65" width="175" height="110" style="fill:white;stroke:black;stroke-width:2px;"/>
+            <path d="M290,65L465,175" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+            <path d="M465,65L290,175" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+            <rect x="290" y="178" width="175" height="6"/>
+        </g>
+        <g transform="matrix(1.420621,0,0,1.420621,11.497882,276.054642)">
+            <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:20px;">Uvммuy umмuv umмuv</text>
+        </g>
+        <g transform="matrix(0.88785,0,0,0.88785,52.149533,21.280374)">
+            <rect x="375" y="270" width="90" height="130" style="fill:white;stroke:black;stroke-width:2px;"/>
+            <path d="M375,270L465,400" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+            <path d="M465,270L375,400" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+            <rect x="375" y="403" width="90" height="4"/>
+            <g transform="matrix(2.130587,0,0,2.130587,374.240939,428.95085)">
+                <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:11px;">Uvммuy</text>
+            </g>
+            <g transform="matrix(2.130587,0,0,2.130587,374.240939,454.517896)">
+                <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:11px;">umмuv</text>
+            </g>
+            <g transform="matrix(2.130587,0,0,2.130587,374.240939,480.084943)">
+                <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:11px;">umмuv</text>
+            </g>
+        </g>
+        <g transform="matrix(0.984165,0,0,0.984165,-29.287425,21.073449)">
+            <rect x="45" y="435" width="175" height="130" style="fill:white;stroke:black;stroke-width:2px;"/>
+            <path d="M45,435L220,565" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+            <path d="M220,435L45,565" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+            <rect x="45" y="568" width="175" height="5"/>
+            <g transform="matrix(1.838346,0,0,1.838346,230.792733,452.171016)">
+                <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:14px;">Uvммuy umмu</text>
+            </g>
+            <g transform="matrix(1.838346,0,0,1.838346,230.792733,476.697938)">
+                <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:14px;">uy V<tspan x="29.053px 37.604px " y="0px 0px ">uм</tspan>мммuv</text>
+            </g>
+        </g>
+    </g>
+    <g id="layout-transition">
+        <path d="M270,680L310,680L310,720L330,720L290,760L250,720L270,720L270,680Z" style="fill:rgb(0,152,110);fill-rule:nonzero;"/>
+    </g>
+    <g id="layout-2" transform="matrix(1,0,0,1,50,790)">
+        <g transform="matrix(1,0,0,1.001538,0,-1)">
+            <rect x="0" y="0" width="480" height="650" style="fill:white;stroke:rgb(204,204,204);stroke-width:1px;"/>
+        </g>
+        <g>
+            <g transform="matrix(0.841121,0,0,0.234359,2.383178,344.938454)">
+                <rect x="15" y="60" width="95" height="575" style="fill:rgb(229,229,229);fill-opacity:0.4;"/>
+            </g>
+            <g transform="matrix(0.841121,0,0,0.234359,2.383178,344.938454)">
+                <rect x="125" y="60" width="95" height="575" style="fill:rgb(229,229,229);fill-opacity:0.4;"/>
+            </g>
+            <g transform="matrix(0.841121,0,0,0.423468,2.383178,29.591905)">
+                <rect x="15" y="60" width="95" height="575" style="fill:rgb(229,229,229);fill-opacity:0.4;"/>
+            </g>
+            <g transform="matrix(0.841121,0,0,0.423468,2.383178,29.591905)">
+                <rect x="125" y="60" width="95" height="575" style="fill:rgb(229,229,229);fill-opacity:0.4;"/>
+            </g>
+            <g transform="matrix(0.841121,0,0,0.130435,2.383178,552.173913)">
+                <rect x="235" y="60" width="95" height="575" style="fill:rgb(229,229,229);fill-opacity:0.4;"/>
+            </g>
+            <g transform="matrix(0.841121,0,0,0.130254,2.383178,552.289006)">
+                <rect x="345" y="60" width="95" height="575" style="fill:rgb(229,229,229);fill-opacity:0.4;"/>
+            </g>
+            <g transform="matrix(0.841121,0,0,0.231304,2.383178,345.121739)">
+                <rect x="235" y="60" width="95" height="575" style="fill:rgb(229,229,229);fill-opacity:0.4;"/>
+            </g>
+            <g transform="matrix(0.841121,0,0,0.231041,2.383178,345.289008)">
+                <rect x="345" y="60" width="95" height="575" style="fill:rgb(229,229,229);fill-opacity:0.4;"/>
+            </g>
+            <g transform="matrix(0.841121,0,0,0.095652,2.383178,237.755111)">
+                <rect x="235" y="60" width="95" height="575" style="fill:rgb(229,229,229);fill-opacity:0.4;"/>
+            </g>
+            <g transform="matrix(0.841121,0,0,0.095543,2.383178,237.824282)">
+                <rect x="345" y="60" width="95" height="575" style="fill:rgb(229,229,229);fill-opacity:0.4;"/>
+            </g>
+            <g transform="matrix(0.841121,0,0,0.221293,94.906542,494.478903)">
+                <rect x="345" y="60" width="95" height="575" style="fill:rgb(229,229,229);fill-opacity:0.4;"/>
+            </g>
+            <g transform="matrix(0.841121,0,0,0.095652,94.906542,237.755111)">
+                <rect x="345" y="60" width="95" height="575" style="fill:rgb(229,229,229);fill-opacity:0.4;"/>
+            </g>
+        </g>
+        <g transform="matrix(1.53511,0,0,1.53511,11.725899,39.783713)">
+            <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:28px;">Uvuvuvuy uvuvuv yuv</text>
+        </g>
+        <g transform="matrix(1.779427,0,0,1.779427,-43.691406,-17.84375)">
+            <rect x="15" y="15" width="60" height="25" style="fill:rgb(204,0,0);"/>
+            <g transform="matrix(1,0,0,1,24,32)">
+                <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:14px;fill:white;">GOOD</text>
+            </g>
+        </g>
+        <g transform="matrix(0.779274,0,0,0.779274,102.637438,14.139912)">
+            <rect x="125" y="55" width="340" height="215" style="fill:white;stroke:black;stroke-width:2px;"/>
+            <path d="M125,55L465,270" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+            <path d="M465,55L125,270" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+            <rect x="125" y="273" width="340" height="8"/>
+        </g>
+        <g transform="matrix(1.413359,0,0,1.413359,14.802995,336.413565)">
+            <g transform="matrix(24,0,0,24,254.730469,0)">
+            </g>
+            <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:24px;">Uvuvuvuy uvuvuv uvu</text>
+        </g>
+        <g transform="matrix(0.88785,0,0,0.88785,52.149533,23.448598)">
+            <rect x="375" y="325" width="90" height="130" style="fill:white;stroke:black;stroke-width:2px;"/>
+            <path d="M375,325L465,455" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+            <path d="M465,325L375,455" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+            <rect x="375" y="458" width="90" height="4"/>
+            <g transform="matrix(1.984176,0,0,1.984176,374.339237,482.791714)">
+                <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:11px;">Uvuvuvu</text>
+            </g>
+            <g transform="matrix(1.984176,0,0,1.984176,374.339237,506.601827)">
+                <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:11px;">uvuvuvu</text>
+            </g>
+            <g transform="matrix(1.984176,0,0,1.984176,374.339237,530.411939)">
+                <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:11px;">uvuvu-</text>
+            </g>
+        </g>
+        <g transform="matrix(0.988432,0,0,0.988432,-29.479451,21.85051)">
+            <rect x="45" y="490" width="175" height="120" style="fill:white;stroke:black;stroke-width:2px;"/>
+            <path d="M45,490L220,610" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+            <path d="M220,490L45,610" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+            <rect x="45" y="613" width="175" height="5"/>
+            <g transform="matrix(1.131086,0,0,1.131086,229.602742,507.908454)">
+                <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:22.656px;">Uvммuy umмu</text>
+            </g>
+            <g transform="matrix(1.131086,0,0,1.131086,229.876677,531.912486)">
+                <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:22.656px;">uy V<tspan x="47.015px 60.854px " y="0px 0px ">uм</tspan>мммuv</text>
+            </g>
+        </g>
+    </g>
+    <g id="layout-3">
+    </g>
+    <g id="layout-4">
+    </g>
+    <g id="layout-5">
+    </g>
+    <g id="layout-6">
+    </g>
+    <g id="layout-7">
+    </g>
+    <g id="layout-8">
+    </g>
+    <g id="layout-9">
+    </g>
+    <g id="layout-10">
+    </g>
+</svg>

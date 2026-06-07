@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Статья - ДОВІДНИК ДИЗАЙНЕРА ГАЗЕТИ</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Cormorant+Infant:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Inter:wght@400;500;600&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/layout.css">
+  <link rel="stylesheet" href="css/navigation.css">
+  <link rel="stylesheet" href="css/article.css">
+  <link rel="stylesheet" href="css/loader.css">
+  <script src="js/content.js"></script>
+  <script src="js/loader.js"></script>
+  <script src="js/cms-client.js"></script>
+</head>
+
+<body data-cms-page="article">
+  <div class="reading-progress-bar"></div>
+  
+  <div class="article-cover-layout">
+    <div class="article-cover-left">
+      <div class="article-header" data-cms="header">
+        <a href="chapter.html" class="back-btn" data-cms="back-link">< Назад</a>
+        <div class="breadcrumbs">
+          <a href="index.html" class="breadcrumb-link">Оглавление</a>
+          <span class="breadcrumb-separator">/</span>
+          <a href="chapter.html" class="breadcrumb-link" data-cms="breadcrumb-chapter">Глава</a>
+          <span class="breadcrumb-separator">/</span>
+          <span class="breadcrumb-current" data-cms="breadcrumb-current">Текущая статья</span>
+        </div>
+        <h1 class="article-header-title" data-cms="title">Заголовок</h1>
+      </div>
+    </div>
+    
+    <div class="article-cover-right">
+      <div class="article-hero-image-wrapper" data-cms="hero-image-wrapper"></div>
+    </div>
+  </div>
+
+  <div class="article-content-wrapper">
+    <nav class="article-toc" data-cms="toc"></nav>
+    <div class="article-content-column">
+      <div class="article-content" data-cms="content"></div>
+      <div class="article-next-navigation" data-cms="next-nav"></div>
+    </div>
+  </div>
+</body>
+
+</html>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1200 583" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g id="layout-1">
+        <rect x="0" y="0" width="1" height="1" style="fill:none;"/>
+    </g>
+    <g id="layout-2">
+        <rect x="0" y="0" width="1" height="1" style="fill:none;"/>
+    </g>
+    <g id="layout-3">
+        <rect x="0" y="0" width="1" height="1" style="fill:none;"/>
+    </g>
+    <g id="layout-4">
+        <rect x="0" y="0" width="1" height="1" style="fill:none;"/>
+    </g>
+    <g id="layout-5">
+        <rect x="0" y="0" width="1" height="1" style="fill:none;"/>
+    </g>
+    <g id="layout-6">
+        <rect x="0" y="0" width="1" height="1" style="fill:none;"/>
+    </g>
+    <g id="layout-7">
+        <g transform="matrix(1,0,0,0.688571,0,16.071429)">
+            <rect x="20" y="50" width="270" height="700" style="fill:white;stroke:black;stroke-width:2px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,0,0.5)">
+            <rect x="35" y="70" width="240" height="120" style="fill:white;stroke:black;stroke-width:2px;"/>
+            <path d="M35,70L275,190" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1.5px;"/>
+            <path d="M275,70L35,190" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1.5px;"/>
+            <path d="M35,195L275,195" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:4px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,0,0.5)">
+            <rect x="20" y="90" width="50" height="22" style="fill:rgb(191,30,46);"/>
+            <g transform="matrix(1,0,0,1,45,105)">
+                <text x="-16.806px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:11px;fill:white;">GOOD</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,0,0.5)">
+            <g transform="matrix(1,0,0,1,35,225)">
+                <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:15px;">Uvummuy umuv</text>
+            </g>
+            <g transform="matrix(1,0,0,1,35,245)">
+                <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:15px;">vumvuy vuvu</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1.254054,0,-66.824324)">
+            <rect x="35" y="265" width="40" height="185" style="fill:rgb(224,224,224);"/>
+            <rect x="85" y="265" width="40" height="185" style="fill:rgb(224,224,224);"/>
+            <rect x="135" y="265" width="40" height="185" style="fill:rgb(224,224,224);"/>
+        </g>
+        <g transform="matrix(1,0,0,1.175,0,-37.125)">
+            <rect x="185" y="215" width="90" height="235" style="fill:white;stroke:black;stroke-width:2px;"/>
+            <path d="M185,215L275,450" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1.5px;"/>
+            <path d="M275,215L185,450" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1.5px;"/>
+            <path d="M185,455L275,455" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:4px;"/>
+        </g>
+    </g>
+    <g id="layout-8">
+        <g transform="matrix(1,0,0,0.688571,0,16.071429)">
+            <rect x="310" y="50" width="270" height="700" style="fill:white;stroke:black;stroke-width:2px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,0,0.5)">
+            <rect x="325" y="70" width="240" height="120" style="fill:white;stroke:black;stroke-width:2px;"/>
+            <path d="M325,70L565,190" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1.5px;"/>
+            <path d="M565,70L325,190" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1.5px;"/>
+            <path d="M325,195L565,195" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:4px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,0,0.5)">
+            <rect x="310" y="90" width="50" height="22" style="fill:rgb(191,30,46);"/>
+            <g transform="matrix(1,0,0,1,335,105)">
+                <text x="-16.806px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:11px;fill:white;">GOOD</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,0,0.5)">
+            <g transform="matrix(1,0,0,1,325,225)">
+                <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:14px;">Uvummuy ummnvumvuy yu</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,0,0.5)">
+            <g transform="matrix(1,0,0,0.701266,0,73.189873)">
+                <rect x="325" y="245" width="40" height="395" style="fill:rgb(224,224,224);"/>
+            </g>
+            <g transform="matrix(1,0,0,0.701266,0,73.189873)">
+                <rect x="375" y="245" width="40" height="395" style="fill:rgb(224,224,224);"/>
+            </g>
+            <g transform="matrix(1,0,0,0.701266,0,73.189873)">
+                <rect x="425" y="245" width="40" height="395" style="fill:rgb(224,224,224);"/>
+            </g>
+            <g transform="matrix(1,0,0,0.372414,0,283.655172)">
+                <rect x="475" y="495" width="40" height="145" style="fill:rgb(224,224,224);"/>
+            </g>
+            <g transform="matrix(1,0,0,0.372414,0,283.655172)">
+                <rect x="525" y="495" width="40" height="145" style="fill:rgb(224,224,224);"/>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,0,0.5)">
+            <rect x="475" y="245" width="90" height="205" style="fill:white;stroke:black;stroke-width:2px;"/>
+            <path d="M475,245L565,450" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1.5px;"/>
+            <path d="M565,245L475,450" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1.5px;"/>
+            <path d="M475,455L565,455" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:4px;"/>
+        </g>
+    </g>
+    <g id="layout-9">
+        <g transform="matrix(1,0,0,0.687143,0,16.142857)">
+            <rect x="600" y="50" width="270" height="700" style="fill:white;stroke:black;stroke-width:2px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,0,0.5)">
+            <g transform="matrix(1,0,0,1,615,85)">
+                <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:14px;">Uvummuy ummnvumvuyuy</text>
+            </g>
+        </g>
+        <g transform="matrix(1.022222,0,0,1.022222,-16.888889,-1.344444)">
+            <g transform="matrix(1,0,0,0.652174,0,56.26087)">
+                <rect x="665" y="110" width="190" height="200" style="fill:white;stroke:black;stroke-width:2px;"/>
+            </g>
+            <g transform="matrix(1,0,0,0.652174,0,56.26087)">
+                <path d="M665,110L855,310" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1.5px;"/>
+            </g>
+            <g transform="matrix(1,0,0,0.652174,0,56.26087)">
+                <path d="M855,110L665,310" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1.5px;"/>
+            </g>
+            <g transform="matrix(1,0,0,0.652174,0,56.26087)">
+                <path d="M665,317L855,317" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:4px;"/>
+            </g>
+        </g>
+        <g transform="matrix(0.993758,0,0,0.993758,5.337079,-76.887579)">
+            <g transform="matrix(1,0,0,0.801802,0,73.333333)">
+                <rect x="765" y="370" width="90" height="215" style="fill:white;stroke:black;stroke-width:2px;"/>
+            </g>
+            <g transform="matrix(1,0,0,0.801802,0,73.333333)">
+                <path d="M765,370L855,585" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1.5px;"/>
+            </g>
+            <g transform="matrix(1,0,0,0.801802,0,73.333333)">
+                <path d="M855,370L765,585" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1.5px;"/>
+            </g>
+            <g transform="matrix(1,0,0,0.801802,0,73.333333)">
+                <path d="M765,592L855,592" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:4px;"/>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,0.920578,290,102.958484)">
+            <g transform="matrix(1,0,0,1.080774,0,-237.044626)">
+                <rect x="325" y="245" width="40" height="395" style="fill:rgb(224,224,224);"/>
+            </g>
+            <g transform="matrix(1,0,0,0.634432,0,48.614762)">
+                <rect x="375" y="245" width="40" height="395" style="fill:rgb(224,224,224);"/>
+            </g>
+            <g transform="matrix(1,0,0,0.634432,0,48.614762)">
+                <rect x="425" y="245" width="40" height="395" style="fill:rgb(224,224,224);"/>
+            </g>
+            <g transform="matrix(1,0,0,0.321667,0,248.78391)">
+                <rect x="475" y="495" width="40" height="145" style="fill:rgb(224,224,224);"/>
+            </g>
+            <g transform="matrix(1,0,0,0.321667,0,248.78391)">
+                <rect x="525" y="495" width="40" height="145" style="fill:rgb(224,224,224);"/>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,0,0.5)">
+            <rect x="600" y="90" width="50" height="22" style="fill:rgb(191,30,46);"/>
+            <g transform="matrix(1,0,0,1,625,105)">
+                <text x="-15.385px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:11px;fill:white;">OKA<tspan x="8.049px " y="0px ">Y</tspan></text>
+            </g>
+        </g>
+    </g>
+    <g id="layout-10">
+        <g transform="matrix(1,0,0,0.688571,0,16.071429)">
+            <rect x="890" y="50" width="290" height="700" style="fill:white;stroke:black;stroke-width:2px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,0,0.5)">
+            <g transform="matrix(1,0,0,1,905,85)">
+                <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:14px;">Uvummuy ummnvumvuy vuvuvu</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,0,0.5)">
+            <rect x="905" y="110" width="260" height="210" style="fill:white;stroke:black;stroke-width:2px;"/>
+            <path d="M905,110L1165,320" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1.5px;"/>
+            <path d="M1165,110L905,320" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1.5px;"/>
+            <path d="M905,327L1165,327" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:4px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,0,0.5)">
+            <rect x="890" y="90" width="50" height="22" style="fill:rgb(191,30,46);"/>
+            <g transform="matrix(1,0,0,1,915,105)">
+                <text x="-15.385px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:11px;fill:white;">OKA<tspan x="8.049px " y="0px ">Y</tspan></text>
+            </g>
+        </g>
+        <g transform="matrix(1.002355,0,0,0.62212,-2.543779,117.09447)">
+            <rect x="990" y="380" width="90" height="210" style="fill:white;stroke:black;stroke-width:2px;"/>
+            <path d="M990,380L1080,590" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1.5px;"/>
+            <path d="M1080,380L990,590" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1.5px;"/>
+            <path d="M990,597L1080,597" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:4px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,0,0.5)">
+            <g transform="matrix(1,0,0,0.593103,0,142.413793)">
+                <rect x="905" y="350" width="35" height="290" style="fill:rgb(224,224,224);"/>
+            </g>
+            <g transform="matrix(1,0,0,0.593103,0,142.413793)">
+                <rect x="947" y="350" width="35" height="290" style="fill:rgb(224,224,224);"/>
+            </g>
+            <g transform="matrix(1.142857,0,0,1,-141.428571,-118)">
+                <rect x="990" y="615" width="35" height="25" style="fill:rgb(224,224,224);"/>
+            </g>
+            <g transform="matrix(1.142857,0,0,1,-154.285714,-118)">
+                <rect x="1045" y="615" width="35" height="25" style="fill:rgb(224,224,224);"/>
+            </g>
+            <g transform="matrix(1,0,0,0.593103,0,142.413793)">
+                <rect x="1090" y="350" width="35" height="290" style="fill:rgb(224,224,224);"/>
+            </g>
+            <g transform="matrix(1,0,0,0.593103,0,142.413793)">
+                <rect x="1132" y="350" width="35" height="290" style="fill:rgb(224,224,224);"/>
+            </g>
+        </g>
+    </g>
+</svg>

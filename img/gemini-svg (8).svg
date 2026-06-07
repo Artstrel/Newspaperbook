@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1600" width="100%" height="100%">
+  <defs>
+    <style>
+      .outer-border { fill: none; stroke: #111111; stroke-width: 2; }
+      .headline { fill: #111111; font-family: sans-serif; font-weight: 900; }
+      .badge-okay { fill: #c0392b; }
+      .badge-risky { fill: #d35400; }
+      .badge-text { fill: #ffffff; font-family: sans-serif; font-weight: bold; text-anchor: middle; }
+      .text-column { fill: #dddddd; }
+      .image-placeholder { fill: none; stroke: #111111; stroke-width: 2; }
+      .image-diagonal { stroke: #111111; stroke-width: 1.5; }
+      .caption-lines { stroke: #111111; stroke-width: 2; }
+    </style>
+  </defs>
+
+  <g id="layout-10-e" data-type="layout-raw-wrap-and-mug">
+    <rect x="50" y="50" width="500" height="700" class="outer-border" data-type="container" />
+
+    <g data-type="headline-group">
+      <text x="90" y="110" font-size="32" class="headline" data-type="headline">Uvuvumi</text>
+      <text x="90" y="155" font-size="32" class="headline" data-type="headline">uv umuvy</text>
+      <text x="90" y="200" font-size="32" class="headline" data-type="headline">vummyu</text>
+    </g>
+
+    <g data-type="grid-columns">
+      <rect x="90" y="240" width="190" height="450" class="text-column" data-type="column" data-column-index="1" />
+
+      <g data-type="image-container">
+        <rect x="310" y="80" width="190" height="280" class="image-placeholder" data-type="image" />
+        <line x1="310" y1="80" x2="500" y2="360" class="image-diagonal" />
+        <line x1="310" y1="360" x2="500" y2="80" class="image-diagonal" />
+        <line x1="310" y1="375" x2="500" y2="375" class="caption-lines" />
+        <line x1="310" y1="385" x2="500" y2="385" class="caption-lines" />
+        <line x1="310" y1="395" x2="500" y2="395" class="caption-lines" />
+      </g>
+
+      <g data-type="badge" class="badge-group">
+        <rect x="300" y="115" width="110" height="45" class="badge-okay" data-type="badge-background" />
+        <text x="355" y="146" font-size="18" class="badge-text" data-type="badge-label" letter-spacing="1">OKAY</text>
+      </g>
+
+      <rect x="310" y="420" width="190" height="270" class="text-column" data-type="column" data-column-index="2" data-segment="bottom" />
+    </g>
+  </g>
+
+  <g id="layout-10-f" data-type="layout-raw-wrap-variation-and-mug">
+    <rect x="600" y="50" width="500" height="700" class="outer-border" data-type="container" />
+
+    <g data-type="grid-columns">
+      <g data-type="image-container">
+        <rect x="640" y="80" width="190" height="280" class="image-placeholder" data-type="image" />
+        <line x1="640" y1="80" x2="830" y2="360" class="image-diagonal" />
+        <line x1="640" y1="360" x2="830" y2="80" class="image-diagonal" />
+        <line x1="640" y1="375" x2="830" y2="375" class="caption-lines" />
+        <line x1="640" y1="385" x2="830" y2="385" class="caption-lines" />
+        <line x1="640" y1="395" x2="830" y2="395" class="caption-lines" />
+      </g>
+
+      <g data-type="badge" class="badge-group">
+        <rect x="630" y="115" width="110" height="45" class="badge-risky" data-type="badge-background" />
+        <text x="685" y="146" font-size="18" class="badge-text" data-type="badge-label" letter-spacing="1">RISKY</text>
+      </g>
+
+      <g data-type="headline-group">
+        <text x="640" y="440" font-size="32" class="headline" data-type="headline">Uvuvumi</text>
+        <text x="640" y="485" font-size="32" class="headline" data-type="headline">uv umuvy</text>
+        <text x="640" y="530" font-size="32" class="headline" data-type="headline">vummyu</text>
+      </g>
+
+      <rect x="640" y="565" width="190" height="125" class="text-column" data-type="column" data-column-index="1" data-segment="bottom" />
+
+      <rect x="860" y="80" width="190" height="610" class="text-column" data-type="column" data-column-index="2" />
+    </g>
+  </g>
+</svg>

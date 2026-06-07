@@ -1,0 +1,197 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1000" width="100%" height="100%">
+  <defs>
+    <style>
+      .layout-boundary { fill: #ffffff; stroke: #222222; stroke-width: 2; }
+      .text-column { fill: #e5e5e5; }
+      .headline-path { fill: #000000; }
+      .image-box { fill: #ffffff; stroke: #000000; stroke-width: 1.5; }
+      .image-cross { stroke: #000000; stroke-width: 1; fill: none; }
+      .heavy-rule { stroke: #000000; stroke-width: 6; }
+      .thin-line { stroke: #000000; stroke-width: 1; }
+      .badge-rect { fill: #c61a1a; }
+      .badge-txt { fill: #ffffff; font-family: 'Arial Black', Gadget, sans-serif; font-size: 20px; font-weight: 900; }
+      .placeholder-text { fill: #000000; font-family: sans-serif; font-size: 11px; font-weight: bold; }
+      .quote-mark { fill: #000000; font-family: serif; font-size: 40px; font-weight: bold; }
+    </style>
+  </defs>
+
+  <g id="layout-1" data-type="layout-grid">
+    <rect x="40" y="40" width="520" height="420" class="layout-boundary" />
+    
+    <path d="M 55 65 L 500 65 M 55 80 L 460 80" stroke="#000000" stroke-width="11" stroke-linecap="square" class="headline-path" data-type="headline" />
+    
+    <rect x="55" y="165" width="95" height="270" class="text-column" data-type="column" />
+    
+    <g data-type="text-insert">
+      <text x="160" y="145" class="placeholder-text">"Uvummy</text>
+      <text x="160" y="157" class="placeholder-text">ummmvuy</text>
+      <text x="160" y="169" class="placeholder-text">Uvmmvuy</text>
+      <text x="160" y="181" class="placeholder-text">ummi umv</text>
+      <text x="160" y="193" class="placeholder-text">ummmv"</text>
+    </g>
+    
+    <g data-type="image-container">
+      <rect x="160" y="110" width="220" height="235" class="image-box" />
+      <line x1="160" y1="110" x2="380" y2="345" class="image-cross" />
+      <line x1="380" y1="110" x2="160" y2="345" class="image-cross" />
+      <line x1="160" y1="355" x2="380" y2="355" class="heavy-rule" data-type="accent-rule" />
+    </g>
+    
+    <rect x="160" y="370" width="220" height="65" class="text-column" data-type="column" />
+    
+    <g data-type="text-insert">
+      <text x="395" y="145" class="placeholder-text">"Uvummy</text>
+      <text x="395" y="157" class="placeholder-text">ummmvuy</text>
+      <text x="395" y="169" class="placeholder-text">Uvmmvuy</text>
+      <text x="395" y="181" class="placeholder-text">ummi umv</text>
+      <text x="395" y="193" class="placeholder-text">ummmv"</text>
+    </g>
+    <rect x="395" y="210" width="150" height="225" class="text-column" data-type="column" />
+    
+    <g data-type="status-indicator">
+      <rect x="30" y="115" width="85" height="38" class="badge-rect" />
+      <text x="42" y="142" class="badge-txt">GOOD</text>
+    </g>
+  </g>
+
+  <g id="layout-2" data-type="layout-grid">
+    <rect x="640" y="40" width="520" height="420" class="layout-boundary" />
+    
+    <path d="M 655 65 L 1100 65 M 655 80 L 1060 80" stroke="#000000" stroke-width="11" stroke-linecap="square" class="headline-path" data-type="headline" />
+    
+    <g data-type="column-group">
+      <rect x="655" y="110" width="95" height="325" class="text-column" data-type="column" />
+    </g>
+    
+    <g data-type="column-group">
+      <g data-type="image-container">
+        <rect x="765" y="110" width="95" height="150" class="image-box" />
+        <line x1="765" y1="110" x2="860" y2="260" class="image-cross" />
+        <line x1="860" y1="110" x2="765" y2="260" class="image-cross" />
+      </g>
+      <g data-type="caption">
+        <text x="765" y="280" class="placeholder-text">"Uvummy umi</text>
+        <text x="765" y="292" class="placeholder-text">umv vuy Umv</text>
+        <text x="765" y="304" class="placeholder-text">umvuy ummiv</text>
+        <text x="765" y="316" class="placeholder-text">ummmvuy</text>
+        <text x="765" y="328" class="placeholder-text">Uvmmv umv"</text>
+      </g>
+      <rect x="765" y="340" width="95" height="95" class="text-column" data-type="column" />
+    </g>
+
+    <rect x="875" y="110" width="90" height="325" class="text-column" data-type="column" />
+
+    <g data-type="column-group">
+      <g data-type="image-container">
+        <rect x="980" y="110" width="95" height="150" class="image-box" />
+        <line x1="980" y1="110" x2="1075" y2="260" class="image-cross" />
+        <line x1="1075" y1="110" x2="980" y2="260" class="image-cross" />
+      </g>
+      <g data-type="caption">
+        <text x="980" y="280" class="placeholder-text">Uvummy umi</text>
+        <text x="980" y="292" class="placeholder-text">umv vuy Umv</text>
+        <text x="980" y="304" class="placeholder-text">umvuy ummiv</text>
+        <text x="980" y="316" class="placeholder-text">ummmvuy</text>
+        <text x="980" y="328" class="placeholder-text">Uvmm"</text>
+      </g>
+      <rect x="980" y="340" width="95" height="95" class="text-column" data-type="column" />
+    </g>
+    
+    <g data-type="status-indicator">
+      <rect x="630" y="115" width="85" height="38" class="badge-rect" />
+      <text x="642" y="142" class="badge-txt">GOOD</text>
+    </g>
+  </g>
+
+  <g id="layout-3" data-type="layout-grid">
+    <rect x="40" y="520" width="520" height="420" class="layout-boundary" />
+    
+    <path d="M 55 545 L 500 545 M 55 560 L 460 560" stroke="#000000" stroke-width="11" stroke-linecap="square" class="headline-path" data-type="headline" />
+    
+    <rect x="55" y="590" width="105" height="325" class="text-column" data-type="column" />
+    <rect x="175" y="590" width="205" height="325" class="text-column" data-type="column" />
+    
+    <g data-type="list-container">
+      <text x="395" y="605" class="quote-mark">“</text>
+      
+      <g data-type="list-item">
+        <text x="395" y="615" class="placeholder-text">Uvummy umi</text>
+        <text x="395" y="627" class="placeholder-text">umv vuy Umv</text>
+        <text x="395" y="639" class="placeholder-text">vuyummmv uy</text>
+        <text x="395" y="651" class="placeholder-text">Vummmv y u</text>
+        <text x="395" y="663" class="placeholder-text">Uvmi Vummm</text>
+        <rect x="480" y="610" width="40" height="40" class="image-box" />
+        <line x1="480" y1="610" x2="520" y2="650" class="image-cross" />
+        <line x1="520" y1="610" x2="480" y2="650" class="image-cross" />
+        <line x1="395" y1="695" x2="520" y2="695" class="thin-line" />
+      </g>
+
+      <g data-type="list-item">
+        <text x="395" y="720" class="placeholder-text">Uvummy umi</text>
+        <text x="395" y="732" class="placeholder-text">umv vuy Umv</text>
+        <text x="395" y="744" class="placeholder-text">vuyummmv uy</text>
+        <rect x="480" y="715" width="40" height="40" class="image-box" />
+        <line x1="480" y1="715" x2="520" y2="755" class="image-cross" />
+        <line x1="520" y1="715" x2="480" y2="755" class="image-cross" />
+        <line x1="395" y1="800" x2="520" y2="800" class="thin-line" />
+      </g>
+
+      <g data-type="list-item">
+        <text x="395" y="825" class="placeholder-text">Uvummy umi</text>
+        <text x="395" y="837" class="placeholder-text">umv vuy Umv</text>
+        <text x="395" y="849" class="placeholder-text">vuyummmv uy</text>
+        <rect x="480" y="820" width="40" height="40" class="image-box" />
+        <line x1="480" y1="820" x2="520" y2="860" class="image-cross" />
+        <line x1="520" y1="820" x2="480" y2="860" class="image-cross" />
+      </g>
+      
+      <text x="440" y="920" class="quote-mark">”</text>
+    </g>
+
+    <g data-type="status-indicator">
+      <rect x="30" y="595" width="85" height="38" class="badge-rect" />
+      <text x="42" y="622" class="badge-txt">GOOD</text>
+    </g>
+  </g>
+
+  <g id="layout-4" data-type="layout-grid">
+    <rect x="640" y="520" width="520" height="420" class="layout-boundary" />
+    
+    <path d="M 655 545 L 1100 545 M 655 560 L 1060 560" stroke="#000000" stroke-width="11" stroke-linecap="square" class="headline-path" data-type="headline" />
+    
+    <rect x="655" y="590" width="105" height="325" class="text-column" data-type="column" />
+    <rect x="775" y="590" width="155" height="325" class="text-column" data-type="column" />
+    
+    <g data-type="text-list-container">
+      <text x="945" y="605" class="quote-mark">“</text>
+      
+      <g data-type="text-paragraph">
+        <text x="945" y="615" class="placeholder-text">Uvummy umi vuyumv umi</text>
+        <text x="945" y="627" class="placeholder-text">vuy ummmuvuy uy</text>
+        <text x="945" y="639" class="placeholder-text">Vummmv y ummiv</text>
+        <text x="945" y="651" class="placeholder-text">Uvmmvummi</text>
+      </g>
+      
+      <g data-type="text-paragraph">
+        <text x="945" y="715" class="placeholder-text">Uvummy umi vuyumv umi</text>
+        <text x="945" y="732" class="placeholder-text">vuy ummmuvuy uy</text>
+        <text x="945" y="744" class="placeholder-text">Vummmv y ummiv</text>
+        <text x="945" y="756" class="placeholder-text">Uvmmvummi</text>
+      </g>
+      
+      <g data-type="text-paragraph">
+        <text x="945" y="820" class="placeholder-text">Uvummy umi vuyumv umi</text>
+        <text x="945" y="832" class="placeholder-text">vuy ummmuvuy uy</text>
+        <text x="945" y="844" class="placeholder-text">Uvmmvummi</text>
+      </g>
+      
+      <line x1="945" y1="905" x2="1135" y2="905" class="thin-line" />
+      <text x="1115" y="930" class="quote-mark">”</text>
+    </g>
+
+    <g data-type="status-indicator">
+      <rect x="630" y="595" width="85" height="38" class="badge-rect" />
+      <text x="642" y="622" class="badge-txt">GOOD</text>
+    </g>
+  </g>
+</svg>

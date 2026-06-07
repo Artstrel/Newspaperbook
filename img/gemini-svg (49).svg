@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 561 1600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g id="layout-1" transform="matrix(1,0,0,1,40,40)">
+        <rect x="0" y="0" width="460" height="740" style="fill:rgb(248,249,250);stroke:rgb(181,181,181);stroke-width:1px;"/>
+        <g>
+            <g transform="matrix(0.941176,0,0,0.267143,25.176471,519.657143)">
+                <rect x="20" y="20" width="72" height="700" style="fill:rgb(233,236,239);"/>
+            </g>
+            <g transform="matrix(0.941176,0,0,0.267143,25.176471,519.657143)">
+                <rect x="104" y="20" width="72" height="700" style="fill:rgb(233,236,239);"/>
+            </g>
+            <g transform="matrix(0.941176,0,0,0.057857,25.176471,670.342857)">
+                <rect x="188" y="20" width="72" height="700" style="fill:rgb(233,236,239);"/>
+            </g>
+            <g transform="matrix(0.941176,0,0,0.058571,25.176471,669.828571)">
+                <rect x="272" y="20" width="72" height="700" style="fill:rgb(233,236,239);"/>
+            </g>
+            <g transform="matrix(0.941176,0,0,0.058571,25.176471,669.828571)">
+                <rect x="356" y="20" width="72" height="700" style="fill:rgb(233,236,239);"/>
+            </g>
+            <g transform="matrix(0.941176,0,0,0.255714,25.176471,303.885714)">
+                <rect x="20" y="20" width="72" height="700" style="fill:rgb(233,236,239);"/>
+            </g>
+            <g transform="matrix(0.941176,0,0,0.255714,25.176471,303.885714)">
+                <rect x="104" y="20" width="72" height="700" style="fill:rgb(233,236,239);"/>
+            </g>
+            <g transform="matrix(0.941176,0,0,0.255714,25.176471,303.885714)">
+                <rect x="188" y="20" width="72" height="700" style="fill:rgb(233,236,239);"/>
+            </g>
+            <g transform="matrix(0.941176,0,0,0.255714,25.176471,303.885714)">
+                <rect x="272" y="20" width="72" height="700" style="fill:rgb(233,236,239);"/>
+            </g>
+            <g transform="matrix(0.941176,0,0,0.368923,25.176471,222.375554)">
+                <rect x="356" y="20" width="72" height="700" style="fill:rgb(233,236,239);"/>
+            </g>
+        </g>
+        <rect x="20" y="20" width="420" height="700" style="fill:none;stroke:rgb(26,26,26);stroke-width:2px;"/>
+        <g transform="matrix(1.016471,0,0,1.016471,-0.724706,-0.724706)">
+            <rect x="44" y="44" width="300" height="206" style="fill:none;stroke:black;stroke-width:1.5px;"/>
+            <path d="M44,44L344,250" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+            <path d="M344,44L44,250" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+            <rect x="44" y="256" width="300" height="8"/>
+        </g>
+        <g>
+            <rect x="20" y="40" width="72" height="28" style="fill:rgb(230,57,70);"/>
+            <g transform="matrix(1,0,0,1,56,59)">
+                <text x="-21.386px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:14px;fill:white;">WEAK</text>
+            </g>
+        </g>
+        <g transform="matrix(1.129412,0,0,1.129412,-55.388235,-5.694118)">
+            <rect x="368" y="44" width="60" height="106" style="fill:none;stroke:black;stroke-width:1.5px;"/>
+            <path d="M368,44L428,150" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+            <path d="M428,44L368,150" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+            <rect x="368" y="154" width="60" height="6"/>
+            <g transform="matrix(1,0,0,1,368,172)">
+                <text x="0px" y="0px" style="font-family:'Menlo-Bold', 'Menlo', monospace;font-weight:700;font-size:13px;">U<tspan x="7.697px 15.393px 23.09px 30.787px " y="0px 0px 0px 0px ">nMMI</tspan></text>
+            </g>
+            <g transform="matrix(1,0,0,1,368,184)">
+                <text x="0px" y="0px" style="font-family:'Menlo-Bold', 'Menlo', monospace;font-weight:700;font-size:13px;">U<tspan x="7.697px 15.393px 23.09px 30.787px " y="0px 0px 0px 0px ">MMMI</tspan></text>
+            </g>
+            <g transform="matrix(1,0,0,1,368,196)">
+                <text x="0px" y="0px" style="font-family:'Menlo-Bold', 'Menlo', monospace;font-weight:700;font-size:13px;">U<tspan x="7.697px 15.393px 23.09px 30.787px " y="0px 0px 0px 0px ">MMMy</tspan></text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,44,296)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:30px;">UnMMMy umMv yu</text>
+        </g>
+        <g transform="matrix(1,0,0,1,44,512)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:21px;">UnMMMy uMMVUV</text>
+        </g>
+        <g>
+            <g transform="matrix(1.129412,0,0,1.129412,-23.764706,-66.811765)">
+                <g transform="matrix(1,0,0,1.025696,0,-13.464851)">
+                    <rect x="200" y="524" width="60" height="106" style="fill:none;stroke:black;stroke-width:1.5px;"/>
+                </g>
+                <path d="M200,524L260,630" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+                <path d="M260,524L200,630" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+                <g transform="matrix(1,0,0,1,0,104.326742)">
+                    <rect x="200" y="534" width="60" height="6"/>
+                </g>
+            </g>
+            <g transform="matrix(1.129412,0,0,1,-39.576471,-26)">
+                <rect x="284" y="524" width="60" height="106" style="fill:none;stroke:black;stroke-width:1.5px;"/>
+                <path d="M284,524L344,630" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+                <path d="M344,524L284,630" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+                <g transform="matrix(1,0,0,1,0,100)">
+                    <rect x="284" y="534" width="60" height="6"/>
+                </g>
+            </g>
+            <g transform="matrix(1.123674,0,0,1,-52.932499,-26)">
+                <rect x="368" y="524" width="60" height="106" style="fill:none;stroke:black;stroke-width:1.5px;"/>
+                <path d="M368,524L428,630" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+                <path d="M428,524L368,630" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+                <g transform="matrix(1,0,0,1,0,100)">
+                    <rect x="368" y="534" width="60" height="6"/>
+                </g>
+            </g>
+            <g transform="matrix(1.809805,0,0,1.809805,279.865069,655.652831)">
+                <text x="0px" y="0px" style="font-family:'Menlo-Bold', 'Menlo', monospace;font-weight:700;font-size:14px;">U<tspan x="8.289px 16.577px 24.866px 33.155px 41.444px 49.732px 58.021px 66.31px 74.598px " y="0px 0px 0px 0px 0px 0px 0px 0px 0px ">nMMMyuMMI</tspan></text>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(0,1.718182,-0.425532,0,631.744681,346.145455)">
+        <g id="layout-connector">
+            <path d="M256,852.45L256,819.55L299.36,819.55L299.36,789L311,836L299.36,883L299.36,852.45L256,852.45Z" style="fill:rgb(0,152,110);"/>
+        </g>
+    </g>
+    <g id="layout-2" transform="matrix(1,0,0,1,40,890)">
+        <rect x="0" y="0" width="460" height="670" style="fill:rgb(248,249,250);stroke:rgb(181,181,181);stroke-width:1px;"/>
+        <g>
+            <g transform="matrix(0.965686,0,0,0.055556,14.686275,605.888889)">
+                <rect x="20" y="20" width="72" height="630" style="fill:rgb(233,236,239);"/>
+            </g>
+            <g transform="matrix(0.965686,0,0,0.055556,14.686275,605.888889)">
+                <rect x="104" y="20" width="72" height="630" style="fill:rgb(233,236,239);"/>
+            </g>
+            <g transform="matrix(0.965686,0,0,0.206349,14.686275,507.873016)">
+                <rect x="188" y="20" width="72" height="630" style="fill:rgb(233,236,239);"/>
+            </g>
+            <g transform="matrix(0.965686,0,0,0.206349,14.686275,507.873016)">
+                <rect x="272" y="20" width="72" height="630" style="fill:rgb(233,236,239);"/>
+            </g>
+            <g transform="matrix(0.965686,0,0,0.034921,14.686275,619.301587)">
+                <rect x="356" y="20" width="72" height="630" style="fill:rgb(233,236,239);"/>
+            </g>
+            <g transform="matrix(0.965686,0,0,0.408371,14.686275,199.558729)">
+                <rect x="20" y="20" width="72" height="630" style="fill:rgb(233,236,239);"/>
+            </g>
+            <g transform="matrix(0.965686,0,0,0.095238,14.686275,403.095238)">
+                <rect x="104" y="20" width="72" height="630" style="fill:rgb(233,236,239);"/>
+            </g>
+            <g transform="matrix(0.965686,0,0,0.095238,14.686275,403.095238)">
+                <rect x="188" y="20" width="72" height="630" style="fill:rgb(233,236,239);"/>
+            </g>
+            <g transform="matrix(0.965686,0,0,0.095238,14.686275,403.095238)">
+                <rect x="272" y="20" width="72" height="630" style="fill:rgb(233,236,239);"/>
+            </g>
+            <g transform="matrix(0.965686,0,0,0.095238,14.686275,403.095238)">
+                <rect x="356" y="20" width="72" height="630" style="fill:rgb(233,236,239);"/>
+            </g>
+            <g transform="matrix(0.965686,0,0,0.149206,14.686275,68.015873)">
+                <rect x="104" y="20" width="72" height="630" style="fill:rgb(233,236,239);"/>
+            </g>
+            <g transform="matrix(0.965686,0,0,0.149206,14.686275,68.015873)">
+                <rect x="188" y="20" width="72" height="630" style="fill:rgb(233,236,239);"/>
+            </g>
+            <g transform="matrix(0.965686,0,0,0.149206,14.686275,68.015873)">
+                <rect x="272" y="20" width="72" height="630" style="fill:rgb(233,236,239);"/>
+            </g>
+            <g transform="matrix(0.965686,0,0,0.149206,14.686275,68.015873)">
+                <rect x="356" y="20" width="72" height="630" style="fill:rgb(233,236,239);"/>
+            </g>
+        </g>
+        <rect x="20" y="20" width="420" height="630" style="fill:none;stroke:rgb(26,26,26);stroke-width:2px;"/>
+        <g transform="matrix(1.158824,0,0,1.158824,-26.258824,-18.988235)">
+            <rect x="52" y="44" width="60" height="106" style="fill:none;stroke:black;stroke-width:1.5px;"/>
+            <path d="M52,44L112,150" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+            <path d="M112,44L52,150" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+            <rect x="52" y="154" width="60" height="6"/>
+        </g>
+        <g transform="matrix(1.510715,0,0,1.510715,113.866586,54.308256)">
+            <text x="0px" y="0px" style="font-family:'Menlo-Bold', 'Menlo', monospace;font-weight:700;font-size:16px;">U<tspan x="9.473px 18.946px 28.418px 37.891px 47.364px 56.837px 66.31px 75.783px 85.255px 94.728px 104.201px 113.674px 123.147px 132.619px 142.092px 151.565px 161.038px 170.511px 179.983px 189.456px 198.929px " y="0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px ">nMMMy uMMuIy VuMMvuyv</tspan></text>
+        </g>
+        <g>
+            <rect x="20" y="40" width="64" height="28" style="fill:rgb(230,57,70);"/>
+            <g transform="matrix(1,0,0,1,52,59)">
+                <text x="-21.39px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:14px;fill:white;">GOOD</text>
+            </g>
+        </g>
+        <g transform="matrix(1.080782,0,0,1.080782,31.717586,196.873199)">
+            <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:25px;">UvUMMMy umMvN Vumvuvy</text>
+        </g>
+        <g transform="matrix(1.057035,0,0,0.843399,-24.41097,27.23885)">
+            <rect x="132" y="214" width="296" height="206" style="fill:none;stroke:black;stroke-width:1.5px;"/>
+            <path d="M132,214L428,420" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+            <path d="M428,214L132,420" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+            <rect x="132" y="426" width="296" height="8"/>
+        </g>
+        <g transform="matrix(1.07605,0,0,1.07605,-21.954622,-101.773812)">
+            <rect x="52" y="540" width="60" height="80" style="fill:none;stroke:black;stroke-width:1.5px;"/>
+            <path d="M52,540L112,620" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+            <path d="M112,540L52,620" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+            <rect x="52" y="624" width="60" height="5"/>
+            <rect x="132" y="540" width="60" height="80" style="fill:none;stroke:black;stroke-width:1.5px;"/>
+            <path d="M132,540L192,620" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+            <path d="M192,540L132,620" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+            <rect x="132" y="624" width="60" height="5"/>
+            <g transform="matrix(1,0,0,1,52,642)">
+                <text x="0px" y="0px" style="font-family:'Menlo-Bold', 'Menlo', monospace;font-weight:700;font-size:12px;">U<tspan x="7.105px 14.209px 21.314px 28.418px 35.523px 42.628px 49.732px 56.837px 63.941px 71.046px 78.151px 85.255px 92.36px " y="0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px ">nMMMy umMı yu</tspan></text>
+            </g>
+            <g transform="matrix(1,0,0,1,52,652)">
+                <text x="0px" y="0px" style="font-family:'Menlo-Bold', 'Menlo', monospace;font-weight:700;font-size:12px;">u<tspan x="7.105px 14.209px 21.314px 28.418px 35.523px 42.628px 49.732px 56.837px 63.941px 71.046px 78.151px " y="0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px ">y VuMMMMMyu</tspan></text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,0,10)">
+            <g transform="matrix(1.738624,0,0,1.738624,198.752249,488.305369)">
+                <text x="0px" y="0px" style="font-family:'Menlo-Bold', 'Menlo', monospace;font-weight:700;font-size:15px;">U<tspan x="8.881px 17.762px 26.642px 35.523px 44.404px 53.285px 62.165px 71.046px 79.927px 88.808px 97.688px 106.569px 115.45px 124.331px " y="0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px 0px ">vMMMy ummyu vu</tspan></text>
+            </g>
+            <g transform="matrix(1.158824,0,0,1.333333,-67.976471,-243.666667)">
+                <rect x="368" y="560" width="60" height="60" style="fill:none;stroke:black;stroke-width:1.5px;"/>
+            </g>
+            <g transform="matrix(1.158824,0,0,1.333333,-67.976471,-243.666667)">
+                <path d="M368,560L428,620" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+            </g>
+            <g transform="matrix(1.158824,0,0,1.333333,-67.976471,-243.666667)">
+                <path d="M428,560L368,620" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:1px;"/>
+            </g>
+            <g transform="matrix(1.158824,0,0,1.333333,-67.976471,-243.666667)">
+                <rect x="368" y="624" width="60" height="5"/>
+            </g>
+        </g>
+    </g>
+</svg>

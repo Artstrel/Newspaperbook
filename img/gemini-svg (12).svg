@@ -1,0 +1,164 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1600" width="100%" height="100%">
+  <defs>
+    <style>
+      .layout-bg { fill: #ffffff; stroke: #000000; stroke-width: 2; }
+      .image-placeholder { fill: #ffffff; stroke: #000000; stroke-width: 2; }
+      .image-cross { stroke: #000000; stroke-width: 1.5; }
+      .image-border-thick { stroke: #000000; stroke-width: 4; fill: none; }
+      .headline { fill: #000000; font-family: sans-serif; font-weight: 900; text-anchor: start; }
+      .text-column { fill: #e0e0e0; stroke: none; }
+      .tag-good { fill: #bf1e2e; }
+      .tag-okay { fill: #d97706; }
+      .tag-weak { fill: #7f1d1d; }
+      .tag-text { fill: #ffffff; font-family: sans-serif; font-weight: bold; font-size: 12px; text-anchor: middle; }
+    </style>
+  </defs>
+
+  <g id="layout-1" data-type="layout" data-variant="balanced-u-shape">
+    <rect x="50" y="50" width="220" height="300" fill="none" opacity="0" />
+  </g>
+
+  <g id="layout-2" data-type="layout" data-variant="balanced-wrap">
+    <rect x="320" y="50" width="220" height="300" fill="none" opacity="0" />
+  </g>
+
+  <g id="layout-3" data-type="layout" data-variant="sidesaddle-left">
+    <rect x="50" y="400" width="220" height="300" fill="none" opacity="0" />
+  </g>
+
+  <g id="layout-4" data-type="layout" data-variant="sidesaddle-stack">
+    <rect x="320" y="400" width="220" height="300" fill="none" opacity="0" />
+  </g>
+
+  <g id="layout-5" data-type="layout" data-variant="l-shape">
+    <rect x="50" y="50" width="500" height="650" class="layout-bg" />
+    
+    <g data-type="headline-group">
+      <text x="75" y="105" font-size="24" class="headline">UVUMUVUVUY UMUVUYVUMUV UMUV</text>
+    </g>
+
+    <g data-type="tag-status">
+      <rect x="50" y="125" width="65" height="25" class="tag-good" />
+      <text x="82.5" y="142" class="tag-text">GOOD</text>
+    </g>
+
+    <g data-type="image" class="image-container">
+      <rect x="315" y="130" width="210" height="180" class="image-placeholder" />
+      <line x1="315" y1="130" x2="525" y2="310" class="image-cross" />
+      <line x1="525" y1="130" x2="315" y2="310" class="image-cross" />
+      <line x1="315" y1="317" x2="525" y2="317" class="image-border-thick" />
+    </g>
+
+    <g data-type="columns">
+      <rect x="75" y="165" width="100" height="500" class="text-column" />
+      <rect x="195" y="165" width="100" height="500" class="text-column" />
+      <rect x="315" y="340" width="100" height="325" class="text-column" />
+      <rect x="435" y="340" width="100" height="325" class="text-column" />
+    </g>
+  </g>
+
+  <g id="layout-6" data-type="layout" data-variant="u-shape">
+    <rect x="650" y="50" width="500" height="650" class="layout-bg" />
+    
+    <g data-type="headline-group">
+      <text x="675" y="105" font-size="24" class="headline">UVUMUVUVUY UMUVUYVUMUV UMUV</text>
+    </g>
+
+    <g data-type="tag-status">
+      <rect x="650" y="125" width="65" height="25" class="tag-good" />
+      <text x="682.5" y="142" class="tag-text">GOOD</text>
+    </g>
+
+    <g data-type="image" class="image-container">
+      <rect x="795" y="130" width="210" height="180" class="image-placeholder" />
+      <line x1="795" y1="130" x2="1005" y2="310" class="image-cross" />
+      <line x1="1005" y1="130" x2="795" y2="310" class="image-cross" />
+      <line x1="795" y1="317" x2="1005" y2="317" class="image-border-thick" />
+    </g>
+
+    <g data-type="columns">
+      <rect x="675" y="165" width="100" height="500" class="text-column" />
+      <rect x="795" y="340" width="100" height="325" class="text-column" />
+      <rect x="915" y="340" width="100" height="325" class="text-column" />
+      <rect x="1035" y="165" width="100" height="500" class="text-column" />
+    </g>
+  </g>
+
+  <g id="layout-7" data-type="layout" data-variant="raw-wrap">
+    <rect x="50" y="750" width="500" height="650" class="layout-bg" />
+    
+    <g data-type="headline-group">
+      <text x="75" y="805" font-size="24" class="headline">UVUMUVUVUYY</text>
+      <text x="75" y="835" font-size="24" class="headline">UVUVUYVUMUV</text>
+    </g>
+
+    <g data-type="tag-status">
+      <rect x="50" y="860" width="65" height="25" class="tag-okay" />
+      <text x="82.5" y="877" class="tag-text">OKAY</text>
+    </g>
+
+    <g data-type="image" class="image-container">
+      <rect x="315" y="775" width="210" height="180" class="image-placeholder" />
+      <line x1="315" y1="775" x2="525" y2="955" class="image-cross" />
+      <line x1="525" y1="775" x2="315" y2="955" class="image-cross" />
+      <line x1="315" y1="962" x2="525" y2="962" class="image-border-thick" />
+    </g>
+
+    <g data-type="columns">
+      <rect x="75" y="900" width="100" height="465" class="text-column" />
+      <rect x="195" y="900" width="100" height="465" class="text-column" />
+      <rect x="315" y="985" width="100" height="380" class="text-column" />
+      <rect x="435" y="985" width="100" height="380" class="text-column" />
+    </g>
+  </g>
+
+  <g id="layout-8" data-type="layout" data-variant="text-wrap-weak">
+    <rect x="650" y="750" width="500" height="650" class="layout-bg" />
+    
+    <g data-type="headline-group">
+      <text x="675" y="785" font-size="20" class="headline">UVUMUVUVUY UMUVUYVUMUV UMUV</text>
+    </g>
+
+    <g data-type="tag-status">
+      <rect x="650" y="805" width="65" height="25" class="tag-weak" />
+      <text x="682.5" y="822" class="tag-text">WEAK</text>
+    </g>
+
+    <g data-type="image" class="image-container">
+      <rect x="675" y="845" width="210" height="130" class="image-placeholder" />
+      <line x1="675" y1="845" x2="885" y2="975" class="image-cross" />
+      <line x1="885" y1="845" x2="675" y2="975" class="image-cross" />
+      <line x1="675" y1="982" x2="885" y2="982" class="image-border-thick" />
+    </g>
+
+    <g data-type="headline-group">
+      <text x="675" y="1015" font-size="18" class="headline">UVUMUVUVUY UMUVUYVUMUV UVUMUVUVU</text>
+    </g>
+
+    <g data-type="image" class="image-container">
+      <rect x="795" y="1110" width="210" height="130" class="image-placeholder" />
+      <line x1="795" y1="1110" x2="1005" y2="1240" class="image-cross" />
+      <line x1="1005" y1="1110" x2="795" y2="1240" class="image-cross" />
+      <line x1="795" y1="1247" x2="1005" y2="1247" class="image-border-thick" />
+    </g>
+
+    <g data-type="columns">
+      <rect x="915" y="810" width="100" height="165" class="text-column" />
+      <rect x="1035" y="810" width="100" height="165" class="text-column" />
+      
+      <rect x="675" y="1040" width="100" height="320" class="text-column" />
+      <rect x="795" y="1040" width="100" height="55" class="text-column" />
+      <rect x="915" y="1040" width="100" height="55" class="text-column" />
+      <rect x="1035" y="1040" width="100" height="320" class="text-column" />
+      
+      <rect x="795" y="1260" width="100" height="100" class="text-column" />
+      <rect x="915" y="1260" width="100" height="100" class="text-column" />
+    </g>
+  </g>
+
+  <g id="layout-9" data-type="layout" data-status="empty">
+    </g>
+
+  <g id="layout-10" data-type="layout" data-status="empty">
+    </g>
+</svg>

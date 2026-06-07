@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1200 800" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g id="layout-10-a" transform="matrix(1,0,0,1,100,-10)">
+        <g transform="matrix(1,0,0,0.867647,0,5.294118)">
+            <rect x="20" y="40" width="460" height="340" style="fill:none;stroke:rgb(17,17,17);stroke-width:1.5px;"/>
+        </g>
+        <g>
+            <rect x="40" y="60" width="100" height="200" style="fill:none;stroke:rgb(17,17,17);stroke-width:1.5px;"/>
+            <path d="M40,60L140,260" style="fill:none;fill-rule:nonzero;stroke:rgb(17,17,17);stroke-width:1px;"/>
+            <path d="M40,260L140,60" style="fill:none;fill-rule:nonzero;stroke:rgb(17,17,17);stroke-width:1px;"/>
+            <path d="M40,275L140,275" style="fill:none;fill-rule:nonzero;stroke:rgb(17,17,17);stroke-width:2px;"/>
+            <path d="M40,285L140,285" style="fill:none;fill-rule:nonzero;stroke:rgb(17,17,17);stroke-width:2px;"/>
+            <path d="M40,295L140,295" style="fill:none;fill-rule:nonzero;stroke:rgb(17,17,17);stroke-width:2px;"/>
+            <path d="M40,305L140,305" style="fill:none;fill-rule:nonzero;stroke:rgb(17,17,17);stroke-width:2px;"/>
+        </g>
+        <g>
+            <rect x="30" y="80" width="65" height="35" style="fill:rgb(184,67,53);"/>
+            <g transform="matrix(1,0,0,1,62,103)">
+                <text x="-21.39px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:14px;fill:white;">GOOD</text>
+            </g>
+        </g>
+        <g transform="matrix(1,0,0,1,160,90)">
+            <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:18px;fill:rgb(17,17,17);">Uvumuv uvvuv umvyvummu yuv</text>
+        </g>
+        <g>
+            <g transform="matrix(1,0,0,0.817021,0,21.042553)">
+                <rect x="160" y="115" width="90" height="235" style="fill:rgb(221,221,221);"/>
+            </g>
+            <g transform="matrix(1,0,0,1,205,219.223633)">
+                <text x="-11.333px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:22px;fill:rgb(179,143,77);">3&quot;</text>
+            </g>
+            <g transform="matrix(1,0,0,0.817021,0,21.042553)">
+                <rect x="265" y="115" width="90" height="235" style="fill:rgb(221,221,221);"/>
+            </g>
+            <g transform="matrix(1,0,0,1,310.526367,219.223633)">
+                <text x="-11.333px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:22px;fill:rgb(179,143,77);">3&quot;</text>
+            </g>
+            <g transform="matrix(1,0,0,0.817021,0,21.042553)">
+                <rect x="370" y="115" width="90" height="235" style="fill:rgb(221,221,221);"/>
+            </g>
+            <g transform="matrix(1,0,0,1,415,219.223633)">
+                <text x="-11.333px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:22px;fill:rgb(179,143,77);">3&quot;</text>
+            </g>
+        </g>
+    </g>
+    <g id="layout-10-b" transform="matrix(1,0,0,1,100,-10)">
+        <g transform="matrix(1,0,0,0.867647,0,5.294118)">
+            <rect x="520" y="40" width="460" height="340" style="fill:none;stroke:rgb(17,17,17);stroke-width:1.5px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,540,90)">
+            <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:18px;fill:rgb(17,17,17);">Uvumuv uvvuv umvyvummu yuv</text>
+        </g>
+        <g transform="matrix(1,0,0,0.821277,0,20.553191)">
+            <rect x="540" y="115" width="90" height="235" style="fill:rgb(221,221,221);"/>
+            <g transform="matrix(1,0,0,1,585,240)">
+                <text x="-11.333px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:22px;fill:rgb(179,143,77);">3&quot;</text>
+            </g>
+            <rect x="645" y="115" width="90" height="235" style="fill:rgb(221,221,221);"/>
+            <g transform="matrix(1,0,0,1,690,240)">
+                <text x="-11.333px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:22px;fill:rgb(179,143,77);">3&quot;</text>
+            </g>
+            <rect x="750" y="115" width="90" height="235" style="fill:rgb(221,221,221);"/>
+            <g transform="matrix(1,0,0,1,795,240)">
+                <text x="-11.333px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:22px;fill:rgb(179,143,77);">3&quot;</text>
+            </g>
+        </g>
+        <g>
+            <rect x="860" y="60" width="100" height="200" style="fill:none;stroke:rgb(17,17,17);stroke-width:1.5px;"/>
+            <path d="M860,60L960,260" style="fill:none;fill-rule:nonzero;stroke:rgb(17,17,17);stroke-width:1px;"/>
+            <path d="M860,260L960,60" style="fill:none;fill-rule:nonzero;stroke:rgb(17,17,17);stroke-width:1px;"/>
+            <path d="M860,275L960,275" style="fill:none;fill-rule:nonzero;stroke:rgb(17,17,17);stroke-width:2px;"/>
+            <path d="M860,285L960,285" style="fill:none;fill-rule:nonzero;stroke:rgb(17,17,17);stroke-width:2px;"/>
+            <path d="M860,295L960,295" style="fill:none;fill-rule:nonzero;stroke:rgb(17,17,17);stroke-width:2px;"/>
+            <path d="M860,305L960,305" style="fill:none;fill-rule:nonzero;stroke:rgb(17,17,17);stroke-width:2px;"/>
+        </g>
+        <g>
+            <rect x="850" y="80" width="65" height="35" style="fill:rgb(184,67,53);"/>
+            <g transform="matrix(1,0,0,1,882,103)">
+                <text x="-21.39px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:14px;fill:white;">GOOD</text>
+            </g>
+        </g>
+    </g>
+    <g id="layout-10-c" transform="matrix(1,0,0,1,100,-10)">
+        <rect x="20" y="420" width="460" height="360" style="fill:none;stroke:rgb(17,17,17);stroke-width:1.5px;"/>
+        <g transform="matrix(1,0,0,1,40,465)">
+            <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:18px;fill:rgb(17,17,17);">Uvumuv uvvuv umvyvummu yuv uvvuv yuv</text>
+        </g>
+        <g>
+            <rect x="40" y="490" width="90" height="260" style="fill:rgb(221,221,221);"/>
+            <rect x="145" y="490" width="90" height="260" style="fill:rgb(221,221,221);"/>
+            <rect x="250" y="490" width="90" height="260" style="fill:rgb(221,221,221);"/>
+            <g>
+                <rect x="355" y="680" width="100" height="70" style="fill:rgb(221,221,221);"/>
+                <g transform="matrix(1,0,0,1,405,707.520996)">
+                    <text x="-22.569px" y="0px" style="font-family:'Helvetica';font-size:14px;fill:rgb(17,17,17);">at least</text>
+                </g>
+                <g transform="matrix(1,0,0,1,405,732.520996)">
+                    <text x="-10.303px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:20px;fill:rgb(179,143,77);">1&quot;</text>
+                </g>
+            </g>
+        </g>
+        <g>
+            <g transform="matrix(1,0,0,1.6,0,-390)">
+                <rect x="355" y="550" width="100" height="100" style="fill:none;stroke:rgb(17,17,17);stroke-width:1.5px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1.6,0,-390)">
+                <path d="M355,550L455,650" style="fill:none;fill-rule:nonzero;stroke:rgb(17,17,17);stroke-width:1px;"/>
+            </g>
+            <g transform="matrix(1,0,0,1.6,0,-390)">
+                <path d="M355,650L455,550" style="fill:none;fill-rule:nonzero;stroke:rgb(17,17,17);stroke-width:1px;"/>
+            </g>
+            <path d="M355,660L455,660" style="fill:none;fill-rule:nonzero;stroke:rgb(17,17,17);stroke-width:2px;"/>
+            <path d="M355,670L455,670" style="fill:none;fill-rule:nonzero;stroke:rgb(17,17,17);stroke-width:2px;"/>
+        </g>
+        <g>
+            <rect x="345" y="560" width="55" height="30" style="fill:rgb(184,67,53);"/>
+            <g transform="matrix(1,0,0,1,372,580)">
+                <text x="-18.334px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:12px;fill:white;">GOOD</text>
+            </g>
+        </g>
+    </g>
+    <g id="layout-10-d" transform="matrix(1,0,0,1,100,-10)">
+        <rect x="520" y="420" width="460" height="360" style="fill:none;stroke:rgb(17,17,17);stroke-width:1.5px;"/>
+        <g transform="matrix(1,0,0,1,540,465)">
+            <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:18px;fill:rgb(17,17,17);">Uvumuv uvvuv umvyvummu yuv uvvuv yuv</text>
+        </g>
+        <g>
+            <rect x="540" y="490" width="90" height="260" style="fill:rgb(221,221,221);"/>
+            <g>
+                <g transform="matrix(1,0,0,1.475,0,-232.75)">
+                    <rect x="645" y="490" width="90" height="100" style="fill:none;stroke:rgb(17,17,17);stroke-width:1.5px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1.475,0,-232.75)">
+                    <path d="M645,490L735,590" style="fill:none;fill-rule:nonzero;stroke:rgb(17,17,17);stroke-width:1px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1.475,0,-232.75)">
+                    <path d="M645,590L735,490" style="fill:none;fill-rule:nonzero;stroke:rgb(17,17,17);stroke-width:1px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1.475,0,-232.75)">
+                    <path d="M645,600L735,600" style="fill:none;fill-rule:nonzero;stroke:rgb(17,17,17);stroke-width:2px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1.475,0,-232.75)">
+                    <path d="M645,610L735,610" style="fill:none;fill-rule:nonzero;stroke:rgb(17,17,17);stroke-width:2px;"/>
+                </g>
+                <rect x="645" y="680" width="90" height="70" style="fill:rgb(221,221,221);"/>
+                <g transform="matrix(1,0,0,1,690,707.520996)">
+                    <text x="-22.569px" y="0px" style="font-family:'Helvetica';font-size:14px;fill:rgb(17,17,17);">at least</text>
+                </g>
+                <g transform="matrix(1,0,0,1,690,732.520996)">
+                    <text x="-10.303px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:20px;fill:rgb(179,143,77);">1&quot;</text>
+                </g>
+                <g>
+                    <rect x="635" y="500" width="55" height="30" style="fill:rgb(184,67,53);"/>
+                    <g transform="matrix(1,0,0,1,662,520)">
+                        <text x="-18.334px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:12px;fill:white;">GOOD</text>
+                    </g>
+                </g>
+            </g>
+            <g>
+                <g transform="matrix(1,0,0,1.466667,0,-228.666667)">
+                    <rect x="750" y="490" width="90" height="100" style="fill:none;stroke:rgb(17,17,17);stroke-width:1.5px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1.466667,0,-228.666667)">
+                    <path d="M750,490L840,590" style="fill:none;fill-rule:nonzero;stroke:rgb(17,17,17);stroke-width:1px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1.466667,0,-228.666667)">
+                    <path d="M750,590L840,490" style="fill:none;fill-rule:nonzero;stroke:rgb(17,17,17);stroke-width:1px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1.466667,0,-228.666667)">
+                    <path d="M750,600L840,600" style="fill:none;fill-rule:nonzero;stroke:rgb(17,17,17);stroke-width:2px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1.466667,0,-228.666667)">
+                    <path d="M750,610L840,610" style="fill:none;fill-rule:nonzero;stroke:rgb(17,17,17);stroke-width:2px;"/>
+                </g>
+                <rect x="750" y="680" width="90" height="70" style="fill:rgb(221,221,221);"/>
+                <g transform="matrix(1,0,0,1,795,707.520996)">
+                    <text x="-22.569px" y="0px" style="font-family:'Helvetica';font-size:14px;fill:rgb(17,17,17);">at least</text>
+                </g>
+                <g transform="matrix(1,0,0,1,795,732.520996)">
+                    <text x="-10.303px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:20px;fill:rgb(179,143,77);">1&quot;</text>
+                </g>
+            </g>
+            <g>
+                <g transform="matrix(1,0,0,1.466667,0,-228.666667)">
+                    <rect x="855" y="490" width="90" height="100" style="fill:none;stroke:rgb(17,17,17);stroke-width:1.5px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1.466667,0,-228.666667)">
+                    <path d="M855,490L945,590" style="fill:none;fill-rule:nonzero;stroke:rgb(17,17,17);stroke-width:1px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1.466667,0,-228.666667)">
+                    <path d="M855,590L945,490" style="fill:none;fill-rule:nonzero;stroke:rgb(17,17,17);stroke-width:1px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1.466667,0,-228.666667)">
+                    <path d="M855,600L945,600" style="fill:none;fill-rule:nonzero;stroke:rgb(17,17,17);stroke-width:2px;"/>
+                </g>
+                <g transform="matrix(1,0,0,1.466667,0,-228.666667)">
+                    <path d="M855,610L945,610" style="fill:none;fill-rule:nonzero;stroke:rgb(17,17,17);stroke-width:2px;"/>
+                </g>
+                <rect x="855" y="680" width="90" height="70" style="fill:rgb(221,221,221);"/>
+                <g transform="matrix(1,0,0,1,900,707.520996)">
+                    <text x="-22.569px" y="0px" style="font-family:'Helvetica';font-size:14px;fill:rgb(17,17,17);">at least</text>
+                </g>
+                <g transform="matrix(1,0,0,1,900,732.520996)">
+                    <text x="-10.303px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:20px;fill:rgb(179,143,77);">1&quot;</text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
