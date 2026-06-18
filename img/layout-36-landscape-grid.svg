@@ -44,46 +44,24 @@
         </g>
         <rect x="40" y="90" width="70" height="24" style="fill:rgb(217,26,26);"/>
         <g transform="matrix(1,0,0,1,74.94,107)">
-            <g>
-                <g transform="matrix(1,0,0,1,-10.454,0)">
-                    <text x="0px" y="0px" style="font-family:'Impact', sans-serif;font-stretch:condensed;font-size:12px;fill:white;">F</text>
-                </g>
-                <g transform="matrix(1,0,0,1,-5.799,0)">
-                    <text x="0px" y="0px" style="font-family:'Impact', sans-serif;font-stretch:condensed;font-size:12px;fill:white;">A<tspan x="6.213px 9.791px " y="0px 0px ">IR</tspan></text>
-                </g>
-            </g>
+            <text x="-10.454px" y="0px" style="font-family:'Impact', sans-serif;font-stretch:condensed;font-size:12px;fill:white;">F<tspan x="-5.799px 0.414px 3.992px " y="0px 0px 0px ">AIR</tspan></text>
         </g>
         <g transform="matrix(1,0,0,1,55,85)">
             <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:18px;">Uvuvuvuvuy uvuvuv yuv</text>
         </g>
         <g transform="matrix(1,0,0,1,55,195)">
-            <g>
-                <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:15px;">Uvuvuvuvuy uvuvuv uvuy V</text>
-                <g transform="matrix(1,0,0,1,198.677,0)">
-                    <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:15px;">uvu</text>
-                </g>
-            </g>
+            <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:15px;">Uvuvuvuvuy uvuvuv uvuy V<tspan x="198.677px 207.839px " y="0px 0px ">uv</tspan>u</text>
         </g>
         <g transform="matrix(1,0,0,1,55,325)">
-            <g>
-                <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:15px;">Uvuvuvuvuy V</text>
-                <g transform="matrix(1,0,0,1,102.817,0)">
-                    <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:15px;">uvuvuvuy uvu</text>
-                </g>
-            </g>
+            <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:15px;">Uvuvuvuvuy V<tspan x="102.817px 111.98px " y="0px 0px ">uv</tspan>uvuvuy uvu</text>
         </g>
         <g transform="matrix(0.899917,0,0,0.899917,55.114353,454.62139)">
-            <g>
-                <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:15px;">Uvuvuvuvuy uvuvuv uy V</text>
-                <g transform="matrix(1,0,0,1,181.172,0)">
-                    <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:15px;">uvuvuvuy</text>
-                </g>
-            </g>
+            <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:15px;">Uvuvuvuvuy uvuvuv uy V<tspan x="181.172px 190.334px " y="0px 0px ">uv</tspan>uvuvuy</text>
         </g>
     </g>
     <g id="layout-2">
         <rect x="420" y="50" width="340" height="500" style="fill:white;stroke:rgb(35,31,32);stroke-width:2px;"/>
-        <g transform="matrix(1,0,0,0.789362,0,112.691489)">
+        <g transform="matrix(1,0,0,0.870213,0,69.43617)">
             <rect x="675" y="65" width="65" height="470" style="fill:rgb(230,230,230);fill-opacity:0.4;"/>
         </g>
         <g transform="matrix(1,0,0,0.155319,383,90.904255)">
@@ -124,19 +102,12 @@
         </g>
         <rect x="420" y="90" width="70" height="24" style="fill:rgb(217,26,26);"/>
         <g transform="matrix(1,0,0,1,454.94,107)">
-            <g>
-                <g transform="matrix(1,0,0,1,-13.361,0)">
-                    <text x="0px" y="0px" style="font-family:'Impact', sans-serif;font-stretch:condensed;font-size:12px;fill:white;">G</text>
-                </g>
-                <g transform="matrix(1,0,0,1,-6.625,0)">
-                    <text x="0px" y="0px" style="font-family:'Impact', sans-serif;font-stretch:condensed;font-size:12px;fill:white;">O<tspan x="6.676px 13.353px " y="0px 0px ">OD</tspan></text>
-                </g>
-            </g>
+            <text x="-13.361px" y="0px" style="font-family:'Impact', sans-serif;font-stretch:condensed;font-size:12px;fill:white;">G<tspan x="-6.625px 0.051px 6.728px " y="0px 0px 0px ">OOD</tspan></text>
         </g>
         <g transform="matrix(1,0,0,1,435,85)">
             <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:20px;">Uvuvuvuvuy uvuvu</text>
         </g>
-        <g transform="matrix(1.982567,0,0,1.982567,-663.370225,-65.913578)">
+        <g>
             <g transform="matrix(1,0,0,1,675,75)">
                 <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:11px;">Uvuvu</text>
             </g>
@@ -163,7 +134,7 @@
     <g id="layout-3">
         <rect x="800" y="50" width="340" height="500" style="fill:white;stroke:rgb(35,31,32);stroke-width:2px;"/>
         <g>
-            <g transform="matrix(1,0,0,0.319149,0,256.25532)">
+            <g transform="matrix(1,0,0,0.410638,0,207.308511)">
                 <rect x="1055" y="65" width="65" height="470" style="fill:rgb(230,230,230);fill-opacity:0.4;"/>
             </g>
             <g transform="matrix(1,0,0,0.155319,760,90.904255)">
@@ -208,14 +179,7 @@
         </g>
         <rect x="800" y="90" width="70" height="24" style="fill:rgb(217,26,26);"/>
         <g transform="matrix(1,0,0,1,834.94,107)">
-            <g>
-                <g transform="matrix(1,0,0,1,-13.361,0)">
-                    <text x="0px" y="0px" style="font-family:'Impact', sans-serif;font-stretch:condensed;font-size:12px;fill:white;">G</text>
-                </g>
-                <g transform="matrix(1,0,0,1,-6.625,0)">
-                    <text x="0px" y="0px" style="font-family:'Impact', sans-serif;font-stretch:condensed;font-size:12px;fill:white;">O<tspan x="6.676px 13.353px " y="0px 0px ">OD</tspan></text>
-                </g>
-            </g>
+            <text x="-13.361px" y="0px" style="font-family:'Impact', sans-serif;font-stretch:condensed;font-size:12px;fill:white;">G<tspan x="-6.625px 0.051px 6.728px " y="0px 0px 0px ">OOD</tspan></text>
         </g>
         <g transform="matrix(1,0,0,1,815,85)">
             <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:18px;">Uvuvuvuvuy uvuvuv yuv</text>
@@ -223,7 +187,7 @@
         <g transform="matrix(1,0,0,1,815,195)">
             <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:15px;">Uvuvuvuvuy uvuvuv</text>
         </g>
-        <g transform="matrix(1.685064,0,0,1.685064,-722.97825,-112.167587)">
+        <g>
             <g transform="matrix(1,0,0,1,1055,185)">
                 <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:11px;">Uvyvu</text>
             </g>

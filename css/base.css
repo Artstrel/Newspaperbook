@@ -1,8 +1,8 @@
 :root {
-  --bg-primary: #FAF3E1;
+  --bg-primary: #faebdc;
   --bg-dark: #272A28;
   --text-dark: #1F2120;
-  --text-light: #FAF3E1;
+  --text-light: #faebdc;
   --text-muted: rgba(31, 33, 32, 0.6);
   --border-color: rgba(31, 33, 32, 0.1);
 

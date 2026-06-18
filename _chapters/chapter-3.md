@@ -7,5 +7,4 @@ articles:
   - story-portraits
   - story-dominant-photo
   - story-photo-combo
-  - story-layouts-exercises
 ---

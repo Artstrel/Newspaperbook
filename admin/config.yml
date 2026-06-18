@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: your-username/your-repo-name # TODO: Укажите ваш репозиторий, например username/newspaper-site
+  repo: Artstrel/Newspaperbook # Репозиторий проекта на GitHub
   branch: main # Ветка по умолчанию
   # Используйте netlify-identity если настроен, или PKCE
   # open_authoring: true 

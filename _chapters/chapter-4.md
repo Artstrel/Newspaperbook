@@ -8,5 +8,4 @@ articles:
   - modular-design
   - front-page-design
   - inside-pages
-  - page-layouts-exercises
 ---

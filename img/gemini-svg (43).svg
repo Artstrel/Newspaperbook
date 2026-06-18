@@ -1,126 +1,205 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="100%" height="100%">
-  <defs>
-    <style>
-      .bg { fill: #FFFFFF; }
-      .layout-bg { fill: #F4F4F4; stroke: #A0A0A0; stroke-width: 1.5; }
-      .text-column { fill: #E1E1E1; opacity: 0.85; }
-      .border-box { fill: none; stroke: #1A1A1A; stroke-width: 2; }
-      
-      .label-good { fill: #D32F2F; }
-      .label-text { fill: #FFFFFF; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: bold; font-size: 15px; letter-spacing: 0.5px; }
-      
-      .headline { fill: #000000; font-family: 'Times New Roman', Times, serif; font-weight: 900; }
-      .subhead { fill: #222222; font-family: 'Times New Roman', Times, serif; font-weight: bold; font-style: italic; }
-      .text-mock { fill: #555555; font-family: 'Times New Roman', Times, serif; font-weight: bold; }
-      
-      .liftout-quote-box { fill: #FFFFFF; stroke: #A0A0A0; stroke-width: 1; stroke-dasharray: 2,2; }
-      .quote-text { fill: #1A1A1A; font-family: 'Times New Roman', Times, serif; font-style: italic; font-weight: bold; text-anchor: middle; }
-    </style>
-  </defs>
-
-  <rect width="1200" height="900" class="bg" />
-
-  <g id="layout-6" data-type="layout-scheme" data-status="good">
-    <rect x="50" y="40" width="450" height="630" class="layout-bg" />
-    <g data-type="grid-system" data-columns="5">
-      <rect x="70" y="60" width="66" height="590" class="text-column" />
-      <rect x="152" y="60" width="66" height="590" class="text-column" />
-      <rect x="234" y="60" width="66" height="590" class="text-column" />
-      <rect x="316" y="60" width="66" height="590" class="text-column" />
-      <rect x="398" y="60" width="66" height="590" class="text-column" />
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1200 736" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <rect x="0" y="0" width="1200" height="900" style="fill:white;"/>
+    <g id="layout-6">
+        <rect x="50" y="40" width="450" height="630" style="fill:rgb(244,244,244);stroke:rgb(160,160,160);stroke-width:1.5px;"/>
+        <g transform="matrix(1,0,0,0.261017,-648,259.338983)">
+            <rect x="720" y="60" width="66" height="590" style="fill:rgb(225,225,225);fill-opacity:0.85;"/>
+        </g>
+        <g transform="matrix(1,0,0,0.261017,-648,259.338983)">
+            <rect x="802" y="60" width="66" height="590" style="fill:rgb(225,225,225);fill-opacity:0.85;"/>
+        </g>
+        <g transform="matrix(1,0,0,0.261017,-648,259.338983)">
+            <rect x="884" y="60" width="66" height="590" style="fill:rgb(225,225,225);fill-opacity:0.85;"/>
+        </g>
+        <g transform="matrix(1,0,0,0.261017,-648,259.338983)">
+            <rect x="966" y="60" width="66" height="590" style="fill:rgb(225,225,225);fill-opacity:0.85;"/>
+        </g>
+        <g transform="matrix(1,0,0,0.2,-648,299)">
+            <rect x="1048" y="60" width="66" height="590" style="fill:rgb(225,225,225);fill-opacity:0.85;"/>
+        </g>
+        <g>
+            <g transform="matrix(1,0,0,0.240678,0,493.559322)">
+                <rect x="70" y="60" width="66" height="590" style="fill:rgb(225,225,225);fill-opacity:0.85;"/>
+            </g>
+            <g transform="matrix(1,0,0,0.240678,0,493.559322)">
+                <rect x="152" y="60" width="66" height="590" style="fill:rgb(225,225,225);fill-opacity:0.85;"/>
+            </g>
+            <g transform="matrix(1,0,0,0.240678,0,493.559322)">
+                <rect x="234" y="60" width="66" height="590" style="fill:rgb(225,225,225);fill-opacity:0.85;"/>
+            </g>
+            <g transform="matrix(1,0,0,0.240678,0,493.559322)">
+                <rect x="316" y="60" width="66" height="590" style="fill:rgb(225,225,225);fill-opacity:0.85;"/>
+            </g>
+            <g transform="matrix(1,0,0,0.240678,0,493.559322)">
+                <rect x="398" y="60" width="66" height="590" style="fill:rgb(225,225,225);fill-opacity:0.85;"/>
+            </g>
+        </g>
+        <g>
+            <rect x="62" y="52" width="426" height="178" style="fill:white;"/>
+            <rect x="62" y="52" width="426" height="178" style="fill:none;stroke:rgb(26,26,26);stroke-width:2px;"/>
+            <g transform="matrix(1,0,0,1,75,82)">
+                <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:20px;">UnMMMMuy uMMMN</text>
+            </g>
+            <g transform="matrix(1,0,0,1,75,102)">
+                <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:20px;">uy uMMMMuIUMI</text>
+            </g>
+            <g opacity="0.15">
+                <rect x="234" y="115" width="66" height="100"/>
+                <g transform="matrix(1,0,0,1.5,0,-107.5)">
+                    <rect x="316" y="115" width="66" height="100"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-160,0)">
+                    <rect x="234" y="115" width="66" height="100"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-160,0)">
+                    <rect x="316" y="115" width="66" height="100"/>
+                </g>
+                <g transform="matrix(1,0,0,1.5,0,-107.5)">
+                    <rect x="398" y="115" width="66" height="100"/>
+                </g>
+            </g>
+        </g>
+        <g>
+            <rect x="50" y="65" width="85" height="32" style="fill:rgb(211,47,47);"/>
+            <g transform="matrix(1,0,0,1,62,87)">
+                <text x="0px" y="0px" style="font-family:'Helvetica';font-size:15px;fill:white;">GO<tspan x="23.485px " y="0px ">O</tspan>D</text>
+            </g>
+        </g>
+        <g>
+            <g transform="matrix(0.919991,0,0,0.919991,70.108138,259.074893)">
+                <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:16px;">UnMMMMuy uMMMN uy VUMMMMI vUMy</text>
+            </g>
+            <g>
+                <g transform="matrix(1,0,0,1,398,260)">
+                    <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(85,85,85);">UnMMMN</text>
+                </g>
+                <g transform="matrix(1,0,0,1,398,274)">
+                    <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(85,85,85);">uMMMI</text>
+                </g>
+                <g transform="matrix(1,0,0,1,398,288)">
+                    <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(85,85,85);">uMMMMuy</text>
+                </g>
+                <g transform="matrix(1,0,0,1,398,302)">
+                    <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(85,85,85);">uMMMMuN</text>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(0.900555,0,0,0.900555,6.990278,46.479449)">
+            <g transform="matrix(1,0,0,1,70,465)">
+                <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:24px;">VUMMUIuVUMMuuMMMMIyUvy</text>
+            </g>
+            <g transform="matrix(1,0,0,1,70,485)">
+                <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:11px;fill:rgb(34,34,34);">UnMMMMuy uMMMNuy VMMMMu uMMMMMMMN uy UMNv Vuu IuMMMMMyN</text>
+            </g>
+        </g>
     </g>
-
-    <g data-type="status-label">
-      <rect x="50" y="65" width="85" height="32" class="label-good" />
-      <text x="62" y="87" class="label-text">GOOD</text>
+    <g id="layout-7">
+        <rect x="700" y="40" width="450" height="630" style="fill:rgb(244,244,244);stroke:rgb(160,160,160);stroke-width:1.5px;"/>
+        <g>
+            <g transform="matrix(1,0,0,0.254237,0,484.745763)">
+                <rect x="720" y="60" width="66" height="590" style="fill:rgb(225,225,225);fill-opacity:0.85;"/>
+            </g>
+            <g transform="matrix(1,0,0,0.147458,0,554.152542)">
+                <rect x="802" y="60" width="66" height="590" style="fill:rgb(225,225,225);fill-opacity:0.85;"/>
+            </g>
+            <g transform="matrix(1,0,0,0.147458,0,554.152542)">
+                <rect x="884" y="60" width="66" height="590" style="fill:rgb(225,225,225);fill-opacity:0.85;"/>
+            </g>
+            <g transform="matrix(1,0,0,0.255932,0,483.644068)">
+                <rect x="966" y="60" width="66" height="590" style="fill:rgb(225,225,225);fill-opacity:0.85;"/>
+            </g>
+            <g transform="matrix(1,0,0,0.255932,0,483.644068)">
+                <rect x="1048" y="60" width="66" height="590" style="fill:rgb(225,225,225);fill-opacity:0.85;"/>
+            </g>
+            <g transform="matrix(1,0,0,0.261017,0,259.338983)">
+                <rect x="720" y="60" width="66" height="590" style="fill:rgb(225,225,225);fill-opacity:0.85;"/>
+            </g>
+            <g transform="matrix(1,0,0,0.261017,0,259.338983)">
+                <rect x="802" y="60" width="66" height="590" style="fill:rgb(225,225,225);fill-opacity:0.85;"/>
+            </g>
+            <g transform="matrix(1,0,0,0.261017,0,259.338983)">
+                <rect x="884" y="60" width="66" height="590" style="fill:rgb(225,225,225);fill-opacity:0.85;"/>
+            </g>
+            <g transform="matrix(1,0,0,0.261017,0,259.338983)">
+                <rect x="966" y="60" width="66" height="590" style="fill:rgb(225,225,225);fill-opacity:0.85;"/>
+            </g>
+            <g transform="matrix(1,0,0,0.2,0,299)">
+                <rect x="1048" y="60" width="66" height="590" style="fill:rgb(225,225,225);fill-opacity:0.85;"/>
+            </g>
+        </g>
+        <g>
+            <rect x="712" y="52" width="426" height="178" style="fill:white;"/>
+            <rect x="712" y="52" width="426" height="178" style="fill:none;stroke:rgb(26,26,26);stroke-width:2px;"/>
+            <g transform="matrix(0.761607,0,0,0.761607,171.197135,17.016873)">
+                <g transform="matrix(1,0,0,1,725,76)">
+                    <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:18px;">uMMMuN</text>
+                </g>
+                <g transform="matrix(1,0,0,1,725,96)">
+                    <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:18px;">uy</text>
+                </g>
+                <g transform="matrix(1,0,0,1,725,116)">
+                    <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:18px;">UMMUV</text>
+                </g>
+                <g transform="matrix(1,0,0,1,725,136)">
+                    <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:18px;">UMMuY</text>
+                </g>
+                <g transform="matrix(1,0,0,1,725,156)">
+                    <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:18px;">uv vuy</text>
+                </g>
+            </g>
+            <g opacity="0.15">
+                <rect x="802" y="65" width="66" height="150"/>
+                <g transform="matrix(1,0,0,0.446667,-77,118.966667)">
+                    <rect x="802" y="65" width="66" height="150"/>
+                </g>
+                <rect x="884" y="65" width="66" height="150"/>
+                <rect x="966" y="65" width="66" height="150"/>
+                <rect x="1048" y="65" width="66" height="150"/>
+            </g>
+        </g>
+        <g>
+            <g transform="matrix(0.942412,0,0,0.942412,720.077834,259.334138)">
+                <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:16px;">UnMMMMuy uMMMN uy VUMMMN vUMy</text>
+            </g>
+            <g>
+                <g transform="matrix(1,0,0,1,1048,260)">
+                    <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(85,85,85);">UnMMMN</text>
+                </g>
+                <g transform="matrix(1,0,0,1,1048,274)">
+                    <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(85,85,85);">uMMMI</text>
+                </g>
+                <g transform="matrix(1,0,0,1,1048,288)">
+                    <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(85,85,85);">uMMMMuy</text>
+                </g>
+                <g transform="matrix(1,0,0,1,1048,302)">
+                    <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:12px;fill:rgb(85,85,85);">uMMMMuN</text>
+                </g>
+            </g>
+        </g>
+        <g>
+            <rect x="700" y="65" width="85" height="32" style="fill:rgb(211,47,47);"/>
+            <g transform="matrix(1,0,0,1,712,87)">
+                <text x="0px" y="0px" style="font-family:'Helvetica';font-size:15px;fill:white;">GO<tspan x="23.485px " y="0px ">O</tspan>D</text>
+            </g>
+        </g>
+        <g>
+            <g transform="matrix(1.336994,0,0,1.336994,719.544531,468.896498)">
+                <text x="0px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:16px;">UnMMMMuy uMMN uy VUMMMI yUv</text>
+            </g>
+            <g>
+                <rect x="792" y="500" width="168" height="52" style="fill:white;stroke:rgb(160,160,160);stroke-width:1px;stroke-dasharray:2,2;"/>
+                <g transform="matrix(1,0,0,1,876,516)">
+                    <text x="-63.129px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:11px;fill:rgb(26,26,26);">“ UnuMMu uy uy Uuuu</text>
+                </g>
+                <g transform="matrix(1,0,0,1,876,530)">
+                    <text x="-48.41px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:11px;fill:rgb(26,26,26);">uuu y uy Uuuuuu</text>
+                </g>
+                <g transform="matrix(1,0,0,1,876,542)">
+                    <text x="-47.546px" y="0px" style="font-family:'LucidaGrande-Bold', 'Lucida Grande', sans-serif;font-weight:600;font-size:10px;fill:rgb(26,26,26);">uy Uuuuuu uy uy ”</text>
+                </g>
+            </g>
+        </g>
     </g>
-
-    <g data-type="boxed-raw-wrap-story">
-      <rect x="62" y="52" width="426" height="178" class="bg" />
-      <rect x="62" y="52" width="426" height="178" class="border-box" />
-      
-      <text x="75" y="82" font-size="20" class="headline" data-type="headline">UnMMMMuy uMMMN</text>
-      <text x="75" y="102" font-size="20" class="headline" data-type="headline">uy uMMMMuIUMI</text>
-      
-      <g opacity="0.15">
-        <rect x="234" y="115" width="66" height="100" fill="#000000" />
-        <rect x="316" y="115" width="66" height="100" fill="#000000" />
-        <rect x="398" y="115" width="66" height="100" fill="#000000" />
-      </g>
-    </g>
-
-    <g data-type="mid-story">
-      <text x="70" y="260" font-size="16" class="headline" data-type="headline">UnMMMMuy uMMMN uy VUMMMMI vUMy</text>
-      
-      <g data-type="sidebar-stray">
-        <text x="398" y="260" font-size="12" class="text-mock">UnMMMN</text>
-        <text x="398" y="274" font-size="12" class="text-mock">uMMMI</text>
-        <text x="398" y="288" font-size="12" class="text-mock">uMMMMuy</text>
-        <text x="398" y="302" font-size="12" class="text-mock">uMMMMuN</text>
-      </g>
-    </g>
-
-    <g data-type="hammer-head-story">
-      <text x="70" y="465" font-size="24" class="headline" data-type="headline">VUMMUIuVUMMuuMMMMIyUvy</text>
-      <text x="70" y="485" font-size="11" class="subhead" data-type="subhead">UnMMMMuy uMMMNuy VMMMMu uMMMMMMMN uy UMNv Vuu IuMMMMMyN</text>
-    </g>
-  </g>
-
-  <g id="layout-7" data-type="layout-scheme" data-status="good-variation">
-    <rect x="700" y="40" width="450" height="630" class="layout-bg" />
-    <g data-type="grid-system" data-columns="5">
-      <rect x="720" y="60" width="66" height="590" class="text-column" />
-      <rect x="802" y="60" width="66" height="590" class="text-column" />
-      <rect x="884" y="60" width="66" height="590" class="text-column" />
-      <rect x="966" y="60" width="66" height="590" class="text-column" />
-      <rect x="1048" y="60" width="66" height="590" class="text-column" />
-    </g>
-
-    <g data-type="status-label">
-      <rect x="700" y="65" width="85" height="32" class="label-good" />
-      <text x="712" y="87" class="label-text">GOOD</text>
-    </g>
-
-    <g data-type="boxed-sidesaddle-story">
-      <rect x="712" y="52" width="426" height="178" class="bg" />
-      <rect x="712" y="52" width="426" height="178" class="border-box" />
-      
-      <g data-type="sidesaddle-headline">
-        <text x="725" y="76" font-size="18" class="headline">uMMMuN</text>
-        <text x="725" y="96" font-size="18" class="headline">uy</text>
-        <text x="725" y="116" font-size="18" class="headline">UMMUV</text>
-        <text x="725" y="136" font-size="18" class="headline">UMMuY</text>
-        <text x="725" y="156" font-size="18" class="headline">uv vuy</text>
-      </g>
-
-      <g opacity="0.15">
-        <rect x="802" y="65" width="66" height="150" fill="#000000" />
-        <rect x="884" y="65" width="66" height="150" fill="#000000" />
-        <rect x="966" y="65" width="66" height="150" fill="#000000" />
-        <rect x="1048" y="65" width="66" height="150" fill="#000000" />
-      </g>
-    </g>
-
-    <g data-type="mid-story">
-      <text x="720" y="260" font-size="16" class="headline" data-type="headline">UnMMMMuy uMMMN uy VUMMMN vUMy</text>
-      
-      <g data-type="sidebar-stray">
-        <text x="1048" y="260" font-size="12" class="text-mock">UnMMMN</text>
-        <text x="1048" y="274" font-size="12" class="text-mock">uMMMI</text>
-        <text x="1048" y="288" font-size="12" class="text-mock">uMMMMuy</text>
-        <text x="1048" y="302" font-size="12" class="text-mock">uMMMMuN</text>
-      </g>
-    </g>
-
-    <g data-type="bottom-story-with-liftout">
-      <text x="720" y="465" font-size="16" class="headline" data-type="headline">UnMMMMuy uMMN uy VUMMMI yUv</text>
-      
-      <g data-type="liftout-quote">
-        <rect x="792" y="500" width="168" height="52" class="liftout-quote-box" />
-        <text x="876" y="520" font-size="11" class="quote-text">“ UnuMMu uy uy Uuuu</text>
-        <text x="876" y="534" font-size="11" class="quote-text">uuu y uy Uuuuuu</text>
-        <text x="876" y="546" font-size="10" class="quote-text">uy Uuuuuu uy uy ”</text>
-      </g>
-    </g>
-  </g>
 </svg>

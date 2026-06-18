@@ -1,0 +1,1041 @@
+{
+  "layouts": [
+    {
+      "id": 1,
+      "name": "layout-01-portrait-1photo-4col.svg",
+      "file": "img/layout-01-portrait-1photo-4col.svg",
+      "old": "gemini-svg.svg",
+      "orientation": "portrait",
+      "columns": 4,
+      "images": 1,
+      "dominant": false,
+      "grid": false,
+      "sidebar": false,
+      "label": null,
+      "viewBox": [
+        1200,
+        1600
+      ]
+    },
+    {
+      "id": 2,
+      "name": "layout-02-landscape-text-only-7col.svg",
+      "file": "img/layout-02-landscape-text-only-7col.svg",
+      "old": "gemini-svg (1).svg",
+      "orientation": "landscape",
+      "columns": 7,
+      "images": 0,
+      "dominant": false,
+      "grid": false,
+      "sidebar": false,
+      "label": null,
+      "viewBox": [
+        1200,
+        800
+      ]
+    },
+    {
+      "id": 3,
+      "name": "layout-03-portrait-text-only-1col-sidebar-good.svg",
+      "file": "img/layout-03-portrait-text-only-1col-sidebar-good.svg",
+      "old": "gemini-svg (2).svg",
+      "orientation": "portrait",
+      "columns": 1,
+      "images": 0,
+      "dominant": false,
+      "grid": false,
+      "sidebar": true,
+      "label": "good",
+      "viewBox": [
+        1200,
+        1600
+      ]
+    },
+    {
+      "id": 4,
+      "name": "layout-04-portrait-3photos-4col-good.svg",
+      "file": "img/layout-04-portrait-3photos-4col-good.svg",
+      "old": "gemini-svg (3).svg",
+      "orientation": "portrait",
+      "columns": 4,
+      "images": 3,
+      "dominant": false,
+      "grid": false,
+      "sidebar": false,
+      "label": "good",
+      "viewBox": [
+        1200,
+        1600
+      ]
+    },
+    {
+      "id": 5,
+      "name": "layout-05-square-1photo.svg",
+      "file": "img/layout-05-square-1photo.svg",
+      "old": "gemini-svg (4).svg",
+      "orientation": "square",
+      "columns": 0,
+      "images": 1,
+      "dominant": false,
+      "grid": false,
+      "sidebar": false,
+      "label": null,
+      "viewBox": [
+        1200,
+        1081
+      ]
+    },
+    {
+      "id": 6,
+      "name": "layout-06-landscape-6photos-10col-good.svg",
+      "file": "img/layout-06-landscape-6photos-10col-good.svg",
+      "old": "gemini-svg (5).svg",
+      "orientation": "landscape",
+      "columns": 10,
+      "images": 6,
+      "dominant": false,
+      "grid": false,
+      "sidebar": false,
+      "label": "good",
+      "viewBox": [
+        1200,
+        800
+      ]
+    },
+    {
+      "id": 7,
+      "name": "layout-07-portrait-dominant-photo-3col-sidebar-good.svg",
+      "file": "img/layout-07-portrait-dominant-photo-3col-sidebar-good.svg",
+      "old": "gemini-svg (6).svg",
+      "orientation": "portrait",
+      "columns": 3,
+      "images": 1,
+      "dominant": true,
+      "grid": false,
+      "sidebar": true,
+      "label": "good",
+      "viewBox": [
+        1200,
+        1600
+      ]
+    },
+    {
+      "id": 8,
+      "name": "layout-08-portrait-1photo-1col.svg",
+      "file": "img/layout-08-portrait-1photo-1col.svg",
+      "old": "gemini-svg (7).svg",
+      "orientation": "portrait",
+      "columns": 1,
+      "images": 1,
+      "dominant": false,
+      "grid": false,
+      "sidebar": false,
+      "label": null,
+      "viewBox": [
+        1200,
+        1600
+      ]
+    },
+    {
+      "id": 9,
+      "name": "layout-09-portrait-2photos-4col.svg",
+      "file": "img/layout-09-portrait-2photos-4col.svg",
+      "old": "gemini-svg (8).svg",
+      "orientation": "portrait",
+      "columns": 4,
+      "images": 2,
+      "dominant": false,
+      "grid": false,
+      "sidebar": false,
+      "label": null,
+      "viewBox": [
+        1200,
+        1600
+      ]
+    },
+    {
+      "id": 10,
+      "name": "layout-10-portrait-dominant-photo-9col.svg",
+      "file": "img/layout-10-portrait-dominant-photo-9col.svg",
+      "old": "gemini-svg (9).svg",
+      "orientation": "portrait",
+      "columns": 9,
+      "images": 1,
+      "dominant": true,
+      "grid": false,
+      "sidebar": false,
+      "label": null,
+      "viewBox": [
+        398,
+        847
+      ]
+    },
+    {
+      "id": 11,
+      "name": "layout-11-landscape-text-only-6col.svg",
+      "file": "img/layout-11-landscape-text-only-6col.svg",
+      "old": "gemini-svg (10).svg",
+      "orientation": "landscape",
+      "columns": 6,
+      "images": 0,
+      "dominant": false,
+      "grid": false,
+      "sidebar": false,
+      "label": null,
+      "viewBox": [
+        1200,
+        976
+      ]
+    },
+    {
+      "id": 12,
+      "name": "layout-12-portrait-4photos.svg",
+      "file": "img/layout-12-portrait-4photos.svg",
+      "old": "gemini-svg (11).svg",
+      "orientation": "portrait",
+      "columns": 0,
+      "images": 4,
+      "dominant": false,
+      "grid": false,
+      "sidebar": false,
+      "label": null,
+      "viewBox": [
+        1200,
+        1600
+      ]
+    },
+    {
+      "id": 13,
+      "name": "layout-13-portrait-5photos-good.svg",
+      "file": "img/layout-13-portrait-5photos-good.svg",
+      "old": "gemini-svg (12).svg",
+      "orientation": "portrait",
+      "columns": 0,
+      "images": 5,
+      "dominant": false,
+      "grid": false,
+      "sidebar": false,
+      "label": "good",
+      "viewBox": [
+        1200,
+        1600
+      ]
+    },
+    {
+      "id": 14,
+      "name": "layout-14-portrait-3photos.svg",
+      "file": "img/layout-14-portrait-3photos.svg",
+      "old": "gemini-svg (13).svg",
+      "orientation": "portrait",
+      "columns": 0,
+      "images": 3,
+      "dominant": false,
+      "grid": false,
+      "sidebar": false,
+      "label": null,
+      "viewBox": [
+        1200,
+        1600
+      ]
+    },
+    {
+      "id": 15,
+      "name": "layout-15-landscape-dominant-photo-4col-good.svg",
+      "file": "img/layout-15-landscape-dominant-photo-4col-good.svg",
+      "old": "gemini-svg (14).svg",
+      "orientation": "landscape",
+      "columns": 4,
+      "images": 2,
+      "dominant": true,
+      "grid": false,
+      "sidebar": false,
+      "label": "good",
+      "viewBox": [
+        1200,
+        644
+      ]
+    },
+    {
+      "id": 16,
+      "name": "layout-16-portrait-dominant-photo-good.svg",
+      "file": "img/layout-16-portrait-dominant-photo-good.svg",
+      "old": "gemini-svg (15).svg",
+      "orientation": "portrait",
+      "columns": 0,
+      "images": 1,
+      "dominant": true,
+      "grid": false,
+      "sidebar": false,
+      "label": "good",
+      "viewBox": [
+        1200,
+        1600
+      ]
+    },
+    {
+      "id": 17,
+      "name": "layout-17-portrait-4photos-good.svg",
+      "file": "img/layout-17-portrait-4photos-good.svg",
+      "old": "gemini-svg (16).svg",
+      "orientation": "portrait",
+      "columns": 0,
+      "images": 4,
+      "dominant": false,
+      "grid": false,
+      "sidebar": false,
+      "label": "good",
+      "viewBox": [
+        1200,
+        1600
+      ]
+    },
+    {
+      "id": 18,
+      "name": "layout-18-portrait-4photos.svg",
+      "file": "img/layout-18-portrait-4photos.svg",
+      "old": "gemini-svg (17).svg",
+      "orientation": "portrait",
+      "columns": 0,
+      "images": 4,
+      "dominant": false,
+      "grid": false,
+      "sidebar": false,
+      "label": null,
+      "viewBox": [
+        1200,
+        1600
+      ]
+    },
+    {
+      "id": 19,
+      "name": "layout-19-portrait-8photos-good.svg",
+      "file": "img/layout-19-portrait-8photos-good.svg",
+      "old": "gemini-svg (18).svg",
+      "orientation": "portrait",
+      "columns": 0,
+      "images": 8,
+      "dominant": false,
+      "grid": false,
+      "sidebar": false,
+      "label": "good",
+      "viewBox": [
+        1200,
+        1600
+      ]
+    },
+    {
+      "id": 20,
+      "name": "layout-20-portrait-8photos-good.svg",
+      "file": "img/layout-20-portrait-8photos-good.svg",
+      "old": "gemini-svg (19).svg",
+      "orientation": "portrait",
+      "columns": 0,
+      "images": 8,
+      "dominant": false,
+      "grid": false,
+      "sidebar": false,
+      "label": "good",
+      "viewBox": [
+        1200,
+        1600
+      ]
+    },
+    {
+      "id": 21,
+      "name": "layout-21-landscape-grid-good.svg",
+      "file": "img/layout-21-landscape-grid-good.svg",
+      "old": "gemini-svg (20).svg",
+      "orientation": "landscape",
+      "columns": 21,
+      "images": 8,
+      "dominant": true,
+      "grid": true,
+      "sidebar": false,
+      "label": "good",
+      "viewBox": [
+        1200,
+        583
+      ]
+    },
+    {
+      "id": 22,
+      "name": "layout-22-portrait-4photos.svg",
+      "file": "img/layout-22-portrait-4photos.svg",
+      "old": "gemini-svg (21).svg",
+      "orientation": "portrait",
+      "columns": 0,
+      "images": 4,
+      "dominant": false,
+      "grid": false,
+      "sidebar": false,
+      "label": null,
+      "viewBox": [
+        1200,
+        1600
+      ]
+    },
+    {
+      "id": 23,
+      "name": "layout-23-portrait-8photos.svg",
+      "file": "img/layout-23-portrait-8photos.svg",
+      "old": "gemini-svg (22).svg",
+      "orientation": "portrait",
+      "columns": 0,
+      "images": 8,
+      "dominant": false,
+      "grid": false,
+      "sidebar": false,
+      "label": null,
+      "viewBox": [
+        1200,
+        1600
+      ]
+    },
+    {
+      "id": 24,
+      "name": "layout-24-portrait-8photos-good.svg",
+      "file": "img/layout-24-portrait-8photos-good.svg",
+      "old": "gemini-svg (23).svg",
+      "orientation": "portrait",
+      "columns": 0,
+      "images": 8,
+      "dominant": false,
+      "grid": false,
+      "sidebar": false,
+      "label": "good",
+      "viewBox": [
+        1200,
+        1600
+      ]
+    },
+    {
+      "id": 25,
+      "name": "layout-25-portrait-7photos.svg",
+      "file": "img/layout-25-portrait-7photos.svg",
+      "old": "gemini-svg (24).svg",
+      "orientation": "portrait",
+      "columns": 0,
+      "images": 7,
+      "dominant": false,
+      "grid": false,
+      "sidebar": false,
+      "label": null,
+      "viewBox": [
+        1200,
+        1600
+      ]
+    },
+    {
+      "id": 26,
+      "name": "layout-26-portrait-8photos.svg",
+      "file": "img/layout-26-portrait-8photos.svg",
+      "old": "gemini-svg (25).svg",
+      "orientation": "portrait",
+      "columns": 0,
+      "images": 8,
+      "dominant": false,
+      "grid": false,
+      "sidebar": false,
+      "label": null,
+      "viewBox": [
+        1200,
+        1600
+      ]
+    },
+    {
+      "id": 27,
+      "name": "layout-27-portrait-dominant-photo.svg",
+      "file": "img/layout-27-portrait-dominant-photo.svg",
+      "old": "gemini-svg (26).svg",
+      "orientation": "portrait",
+      "columns": 0,
+      "images": 2,
+      "dominant": true,
+      "grid": false,
+      "sidebar": false,
+      "label": null,
+      "viewBox": [
+        1200,
+        1600
+      ]
+    },
+    {
+      "id": 28,
+      "name": "layout-28-portrait-6photos-good.svg",
+      "file": "img/layout-28-portrait-6photos-good.svg",
+      "old": "gemini-svg (27).svg",
+      "orientation": "portrait",
+      "columns": 0,
+      "images": 6,
+      "dominant": false,
+      "grid": false,
+      "sidebar": false,
+      "label": "good",
+      "viewBox": [
+        1200,
+        1600
+      ]
+    },
+    {
+      "id": 29,
+      "name": "layout-29-portrait-8photos-sidebar-good.svg",
+      "file": "img/layout-29-portrait-8photos-sidebar-good.svg",
+      "old": "gemini-svg (28).svg",
+      "orientation": "portrait",
+      "columns": 0,
+      "images": 8,
+      "dominant": false,
+      "grid": false,
+      "sidebar": true,
+      "label": "good",
+      "viewBox": [
+        1200,
+        1600
+      ]
+    },
+    {
+      "id": 30,
+      "name": "layout-30-tall-6photos-sidebar.svg",
+      "file": "img/layout-30-tall-6photos-sidebar.svg",
+      "old": "gemini-svg (29).svg",
+      "orientation": "tall",
+      "columns": 0,
+      "images": 6,
+      "dominant": false,
+      "grid": false,
+      "sidebar": true,
+      "label": null,
+      "viewBox": [
+        1200,
+        4000
+      ]
+    },
+    {
+      "id": 31,
+      "name": "layout-31-tall-6photos-sidebar.svg",
+      "file": "img/layout-31-tall-6photos-sidebar.svg",
+      "old": "gemini-svg (30).svg",
+      "orientation": "tall",
+      "columns": 0,
+      "images": 6,
+      "dominant": false,
+      "grid": false,
+      "sidebar": true,
+      "label": null,
+      "viewBox": [
+        1200,
+        4000
+      ]
+    },
+    {
+      "id": 32,
+      "name": "layout-32-tall-dominant-photo.svg",
+      "file": "img/layout-32-tall-dominant-photo.svg",
+      "old": "gemini-svg (31).svg",
+      "orientation": "tall",
+      "columns": 0,
+      "images": 6,
+      "dominant": true,
+      "grid": false,
+      "sidebar": false,
+      "label": null,
+      "viewBox": [
+        1200,
+        3763
+      ]
+    },
+    {
+      "id": 33,
+      "name": "layout-33-tall-3photos-5col.svg",
+      "file": "img/layout-33-tall-3photos-5col.svg",
+      "old": "gemini-svg (32).svg",
+      "orientation": "tall",
+      "columns": 5,
+      "images": 3,
+      "dominant": false,
+      "grid": false,
+      "sidebar": false,
+      "label": null,
+      "viewBox": [
+        1200,
+        4000
+      ]
+    },
+    {
+      "id": 34,
+      "name": "layout-34-portrait-grid-sidebar.svg",
+      "file": "img/layout-34-portrait-grid-sidebar.svg",
+      "old": "gemini-svg (33).svg",
+      "orientation": "portrait",
+      "columns": 38,
+      "images": 15,
+      "dominant": false,
+      "grid": true,
+      "sidebar": true,
+      "label": null,
+      "viewBox": [
+        1200,
+        1600
+      ]
+    },
+    {
+      "id": 35,
+      "name": "layout-35-landscape-text-only.svg",
+      "file": "img/layout-35-landscape-text-only.svg",
+      "old": "gemini-svg (34).svg",
+      "orientation": "landscape",
+      "columns": 0,
+      "images": 0,
+      "dominant": false,
+      "grid": false,
+      "sidebar": false,
+      "label": null,
+      "viewBox": [
+        1200,
+        405
+      ]
+    },
+    {
+      "id": 36,
+      "name": "layout-36-landscape-grid.svg",
+      "file": "img/layout-36-landscape-grid.svg",
+      "old": "gemini-svg (35).svg",
+      "orientation": "landscape",
+      "columns": 40,
+      "images": 0,
+      "dominant": false,
+      "grid": true,
+      "sidebar": false,
+      "label": null,
+      "viewBox": [
+        1200,
+        587
+      ]
+    },
+    {
+      "id": 37,
+      "name": "layout-37-portrait-2photos-sidebar.svg",
+      "file": "img/layout-37-portrait-2photos-sidebar.svg",
+      "old": "gemini-svg (36).svg",
+      "orientation": "portrait",
+      "columns": 0,
+      "images": 2,
+      "dominant": false,
+      "grid": false,
+      "sidebar": true,
+      "label": null,
+      "viewBox": [
+        1200,
+        1600
+      ]
+    },
+    {
+      "id": 38,
+      "name": "layout-38-landscape-grid.svg",
+      "file": "img/layout-38-landscape-grid.svg",
+      "old": "gemini-svg (37).svg",
+      "orientation": "landscape",
+      "columns": 60,
+      "images": 0,
+      "dominant": false,
+      "grid": true,
+      "sidebar": false,
+      "label": null,
+      "viewBox": [
+        1200,
+        605
+      ]
+    },
+    {
+      "id": 39,
+      "name": "layout-39-landscape-grid.svg",
+      "file": "img/layout-39-landscape-grid.svg",
+      "old": "gemini-svg (38).svg",
+      "orientation": "landscape",
+      "columns": 20,
+      "images": 0,
+      "dominant": false,
+      "grid": true,
+      "sidebar": false,
+      "label": null,
+      "viewBox": [
+        1200,
+        670
+      ]
+    },
+    {
+      "id": 40,
+      "name": "layout-40-landscape-grid-sidebar-good.svg",
+      "file": "img/layout-40-landscape-grid-sidebar-good.svg",
+      "old": "gemini-svg (39).svg",
+      "orientation": "landscape",
+      "columns": 43,
+      "images": 0,
+      "dominant": false,
+      "grid": true,
+      "sidebar": true,
+      "label": "good",
+      "viewBox": [
+        3800,
+        1600
+      ]
+    },
+    {
+      "id": 41,
+      "name": "layout-41-landscape-grid-sidebar-good.svg",
+      "file": "img/layout-41-landscape-grid-sidebar-good.svg",
+      "old": "gemini-svg (40).svg",
+      "orientation": "landscape",
+      "columns": 44,
+      "images": 0,
+      "dominant": false,
+      "grid": true,
+      "sidebar": true,
+      "label": "good",
+      "viewBox": [
+        3800,
+        1600
+      ]
+    },
+    {
+      "id": 42,
+      "name": "layout-42-landscape-grid.svg",
+      "file": "img/layout-42-landscape-grid.svg",
+      "old": "gemini-svg (41).svg",
+      "orientation": "landscape",
+      "columns": 42,
+      "images": 0,
+      "dominant": false,
+      "grid": true,
+      "sidebar": false,
+      "label": null,
+      "viewBox": [
+        1135,
+        499
+      ]
+    },
+    {
+      "id": 43,
+      "name": "layout-43-landscape-grid.svg",
+      "file": "img/layout-43-landscape-grid.svg",
+      "old": "gemini-svg (42).svg",
+      "orientation": "landscape",
+      "columns": 29,
+      "images": 0,
+      "dominant": false,
+      "grid": true,
+      "sidebar": false,
+      "label": null,
+      "viewBox": [
+        1200,
+        900
+      ]
+    },
+    {
+      "id": 44,
+      "name": "layout-44-landscape-text-only-sidebar-good.svg",
+      "file": "img/layout-44-landscape-text-only-sidebar-good.svg",
+      "old": "gemini-svg (43).svg",
+      "orientation": "landscape",
+      "columns": 0,
+      "images": 0,
+      "dominant": false,
+      "grid": false,
+      "sidebar": true,
+      "label": "good",
+      "viewBox": [
+        1200,
+        900
+      ]
+    },
+    {
+      "id": 45,
+      "name": "layout-45-landscape-grid.svg",
+      "file": "img/layout-45-landscape-grid.svg",
+      "old": "gemini-svg (44).svg",
+      "orientation": "landscape",
+      "columns": 23,
+      "images": 0,
+      "dominant": false,
+      "grid": true,
+      "sidebar": false,
+      "label": null,
+      "viewBox": [
+        1200,
+        747
+      ]
+    },
+    {
+      "id": 46,
+      "name": "layout-46-landscape-grid.svg",
+      "file": "img/layout-46-landscape-grid.svg",
+      "old": "gemini-svg (45).svg",
+      "orientation": "landscape",
+      "columns": 14,
+      "images": 14,
+      "dominant": true,
+      "grid": true,
+      "sidebar": false,
+      "label": null,
+      "viewBox": [
+        1200,
+        800
+      ]
+    },
+    {
+      "id": 47,
+      "name": "layout-47-landscape-grid.svg",
+      "file": "img/layout-47-landscape-grid.svg",
+      "old": "gemini-svg (46).svg",
+      "orientation": "landscape",
+      "columns": 37,
+      "images": 4,
+      "dominant": true,
+      "grid": true,
+      "sidebar": false,
+      "label": null,
+      "viewBox": [
+        2600,
+        1600
+      ]
+    },
+    {
+      "id": 48,
+      "name": "layout-48-landscape-text-only-9col.svg",
+      "file": "img/layout-48-landscape-text-only-9col.svg",
+      "old": "gemini-svg (47).svg",
+      "orientation": "landscape",
+      "columns": 9,
+      "images": 0,
+      "dominant": false,
+      "grid": false,
+      "sidebar": false,
+      "label": null,
+      "viewBox": [
+        1200,
+        800
+      ]
+    },
+    {
+      "id": 49,
+      "name": "layout-49-tall-grid-good.svg",
+      "file": "img/layout-49-tall-grid-good.svg",
+      "old": "gemini-svg (48).svg",
+      "orientation": "tall",
+      "columns": 24,
+      "images": 6,
+      "dominant": true,
+      "grid": true,
+      "sidebar": false,
+      "label": "good",
+      "viewBox": [
+        600,
+        1600
+      ]
+    },
+    {
+      "id": 50,
+      "name": "layout-50-tall-grid-good.svg",
+      "file": "img/layout-50-tall-grid-good.svg",
+      "old": "gemini-svg (49).svg",
+      "orientation": "tall",
+      "columns": 24,
+      "images": 10,
+      "dominant": true,
+      "grid": true,
+      "sidebar": false,
+      "label": "good",
+      "viewBox": [
+        561,
+        1600
+      ]
+    },
+    {
+      "id": 51,
+      "name": "layout-51-tall-grid-good.svg",
+      "file": "img/layout-51-tall-grid-good.svg",
+      "old": "gemini-svg (50).svg",
+      "orientation": "tall",
+      "columns": 14,
+      "images": 4,
+      "dominant": true,
+      "grid": true,
+      "sidebar": false,
+      "label": "good",
+      "viewBox": [
+        554,
+        1610
+      ]
+    },
+    {
+      "id": 52,
+      "name": "layout-52-portrait-3photos-3col.svg",
+      "file": "img/layout-52-portrait-3photos-3col.svg",
+      "old": "gemini-svg (51).svg",
+      "orientation": "portrait",
+      "columns": 3,
+      "images": 3,
+      "dominant": false,
+      "grid": false,
+      "sidebar": false,
+      "label": null,
+      "viewBox": [
+        1200,
+        1600
+      ]
+    },
+    {
+      "id": 53,
+      "name": "layout-53-tall-6photos-7col.svg",
+      "file": "img/layout-53-tall-6photos-7col.svg",
+      "old": "gemini-svg (52).svg",
+      "orientation": "tall",
+      "columns": 7,
+      "images": 6,
+      "dominant": false,
+      "grid": false,
+      "sidebar": false,
+      "label": null,
+      "viewBox": [
+        579,
+        1536
+      ]
+    },
+    {
+      "id": 54,
+      "name": "layout-54-portrait-8photos-good.svg",
+      "file": "img/layout-54-portrait-8photos-good.svg",
+      "old": "gemini-svg (53).svg",
+      "orientation": "portrait",
+      "columns": 0,
+      "images": 8,
+      "dominant": false,
+      "grid": false,
+      "sidebar": false,
+      "label": "good",
+      "viewBox": [
+        1200,
+        1600
+      ]
+    },
+    {
+      "id": 55,
+      "name": "layout-55-landscape-dominant-photo-2col.svg",
+      "file": "img/layout-55-landscape-dominant-photo-2col.svg",
+      "old": "gemini-svg (54).svg",
+      "orientation": "landscape",
+      "columns": 2,
+      "images": 2,
+      "dominant": true,
+      "grid": false,
+      "sidebar": false,
+      "label": null,
+      "viewBox": [
+        1200,
+        600
+      ]
+    },
+    {
+      "id": 56,
+      "name": "layout-56-landscape-grid-sidebar-good.svg",
+      "file": "img/layout-56-landscape-grid-sidebar-good.svg",
+      "old": "gemini-svg (55).svg",
+      "orientation": "landscape",
+      "columns": 6,
+      "images": 14,
+      "dominant": false,
+      "grid": true,
+      "sidebar": true,
+      "label": "good",
+      "viewBox": [
+        1200,
+        600
+      ]
+    },
+    {
+      "id": 57,
+      "name": "layout-57-portrait-6photos-3col-sidebar-good.svg",
+      "file": "img/layout-57-portrait-6photos-3col-sidebar-good.svg",
+      "old": "gemini-svg (56).svg",
+      "orientation": "portrait",
+      "columns": 3,
+      "images": 6,
+      "dominant": false,
+      "grid": false,
+      "sidebar": true,
+      "label": "good",
+      "viewBox": [
+        1200,
+        1600
+      ]
+    },
+    {
+      "id": 58,
+      "name": "layout-58-landscape-text-only-9col-good.svg",
+      "file": "img/layout-58-landscape-text-only-9col-good.svg",
+      "old": "gemini-svg (57).svg",
+      "orientation": "landscape",
+      "columns": 9,
+      "images": 0,
+      "dominant": false,
+      "grid": false,
+      "sidebar": false,
+      "label": "good",
+      "viewBox": [
+        1200,
+        400
+      ]
+    },
+    {
+      "id": 59,
+      "name": "layout-59-landscape-text-only-10col.svg",
+      "file": "img/layout-59-landscape-text-only-10col.svg",
+      "old": "gemini-svg (58).svg",
+      "orientation": "landscape",
+      "columns": 10,
+      "images": 0,
+      "dominant": false,
+      "grid": false,
+      "sidebar": false,
+      "label": null,
+      "viewBox": [
+        1000,
+        400
+      ]
+    },
+    {
+      "id": 60,
+      "name": "layout-60-landscape-6photos-11col-good.svg",
+      "file": "img/layout-60-landscape-6photos-11col-good.svg",
+      "old": "gemini-svg (59).svg",
+      "orientation": "landscape",
+      "columns": 11,
+      "images": 6,
+      "dominant": false,
+      "grid": false,
+      "sidebar": false,
+      "label": "good",
+      "viewBox": [
+        1200,
+        1000
+      ]
+    },
+    {
+      "id": 61,
+      "name": "layout-61-portrait-text-only-8col-good.svg",
+      "file": "img/layout-61-portrait-text-only-8col-good.svg",
+      "old": "gemini-svg (60).svg",
+      "orientation": "portrait",
+      "columns": 8,
+      "images": 0,
+      "dominant": false,
+      "grid": false,
+      "sidebar": false,
+      "label": "good",
+      "viewBox": [
+        1200,
+        1600
+      ]
+    }
+  ]
+}

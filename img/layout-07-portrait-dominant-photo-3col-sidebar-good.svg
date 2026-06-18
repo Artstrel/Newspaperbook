@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1200 1278" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g id="layout-10">
+        <rect x="50" y="50" width="1100" height="1150" style="fill:none;stroke:rgb(17,17,17);stroke-width:2px;"/>
+        <g>
+            <g transform="matrix(1,0,0,1,100,150)">
+                <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:44px;fill:rgb(17,17,17);">Uvmmmvvnv ummyvmmmu vuv ummvy</text>
+            </g>
+            <g transform="matrix(1,0,0,1,100,230)">
+                <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:44px;fill:rgb(17,17,17);">vmmmvn uumyvmmmuiuymmu</text>
+            </g>
+        </g>
+        <rect x="100" y="310" width="280" height="800" style="fill:rgb(221,221,221);"/>
+        <g>
+            <rect x="420" y="310" width="680" height="425" style="fill:none;stroke:rgb(17,17,17);stroke-width:2px;"/>
+            <g>
+                <rect x="450" y="375" width="160" height="270" style="fill:none;stroke:rgb(17,17,17);stroke-width:2px;"/>
+                <path d="M450,375L610,645" style="fill:none;fill-rule:nonzero;stroke:rgb(17,17,17);stroke-width:1.5px;"/>
+                <path d="M450,645L610,375" style="fill:none;fill-rule:nonzero;stroke:rgb(17,17,17);stroke-width:1.5px;"/>
+            </g>
+            <g>
+                <g transform="matrix(1,0,0,1,-35,-45.640625)">
+                    <rect x="435" y="410" width="130" height="65" style="fill:rgb(184,67,53);"/>
+                </g>
+                <g transform="matrix(1,0,0,1,464.95166,404.797852)">
+                    <text x="-33.942px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:22px;fill:white;">G<tspan x="-16.61px 0.722px 18.055px " y="0px 0px 0px ">OOD</tspan></text>
+                </g>
+            </g>
+            <g>
+                <g transform="matrix(1,0,0,1,650,415)">
+                    <text x="0px" y="0px" style="font-family:'Georgia', serif;font-size:24px;fill:rgb(17,17,17);">&quot;Vlumvuy Umvmv umu</text>
+                </g>
+                <g transform="matrix(1,0,0,1,650,455)">
+                    <text x="0px" y="0px" style="font-family:'Georgia', serif;font-size:24px;fill:rgb(17,17,17);">vumuy umu uvyumvmu</text>
+                </g>
+                <g transform="matrix(1,0,0,1,650,495)">
+                    <text x="0px" y="0px" style="font-family:'Georgia', serif;font-size:24px;fill:rgb(17,17,17);">vy Uvumvv ummmuy</text>
+                </g>
+                <g transform="matrix(1,0,0,1,650,535)">
+                    <text x="0px" y="0px" style="font-family:'Georgia', serif;font-size:24px;fill:rgb(17,17,17);">umu umvumvnv ummu</text>
+                </g>
+                <g transform="matrix(1,0,0,1,650,575)">
+                    <text x="0px" y="0px" style="font-family:'Georgia', serif;font-size:24px;fill:rgb(17,17,17);">umvmvmuv.&quot;</text>
+                </g>
+                <g transform="matrix(1,0,0,1,1060,635)">
+                    <text x="-175.625px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:20px;fill:rgb(17,17,17);">— Uvmmv Umvmv</text>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(1.107143,0,0,1,-45,0)">
+            <rect x="420" y="775" width="280" height="335" style="fill:rgb(221,221,221);"/>
+        </g>
+        <g transform="matrix(1.153571,0,0,1,-168.928571,0)">
+            <rect x="820" y="775" width="280" height="335" style="fill:rgb(221,221,221);"/>
+        </g>
+    </g>
+</svg>

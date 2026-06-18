@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="uk">
 
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Статья - ДОВІДНИК ДИЗАЙНЕРА ГАЗЕТИ</title>
+  <title>Стаття - ДОВІДНИК ДИЗАЙНЕРА ГАЗЕТИ</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link
@@ -14,6 +14,7 @@
   <link rel="stylesheet" href="css/layout.css">
   <link rel="stylesheet" href="css/navigation.css">
   <link rel="stylesheet" href="css/article.css">
+  <link rel="stylesheet" href="css/qa.css">
   <link rel="stylesheet" href="css/loader.css">
   <script src="js/content.js"></script>
   <script src="js/loader.js"></script>
@@ -22,22 +23,48 @@
 
 <body data-cms-page="article">
   <div class="reading-progress-bar"></div>
-  
+
+
+  <header class="article-topbar">
+    <div class="article-topbar-inner">
+      <a class="topbar-back" href="index.html" aria-label="Назад">
+        <svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true">
+          <path d="M10 3L5 8l5 5" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"
+            stroke-linejoin="round" />
+        </svg>
+      </a>
+      <div class="topbar-titles">
+        <nav class="topbar-breadcrumbs" aria-label="Хлібні крихти"></nav>
+        <span class="topbar-title"></span>
+      </div>
+      <button class="topbar-toc-toggle" type="button" aria-expanded="false" aria-controls="articleTocPanel">
+        <span class="topbar-toc-label">Зміст</span>
+        <svg class="topbar-toc-chevron" viewBox="0 0 16 16" width="14" height="14" aria-hidden="true">
+          <path d="M4 6l4 4 4-4" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"
+            stroke-linejoin="round" />
+        </svg>
+      </button>
+    </div>
+    <nav class="topbar-toc-panel" id="articleTocPanel" aria-label="Зміст статті"></nav>
+  </header>
+  <div class="topbar-backdrop"></div>
+
   <div class="article-cover-layout">
     <div class="article-cover-left">
       <div class="article-header" data-cms="header">
-        <a href="chapter.html" class="back-btn" data-cms="back-link">< Назад</a>
-        <div class="breadcrumbs">
-          <a href="index.html" class="breadcrumb-link">Оглавление</a>
-          <span class="breadcrumb-separator">/</span>
-          <a href="chapter.html" class="breadcrumb-link" data-cms="breadcrumb-chapter">Глава</a>
-          <span class="breadcrumb-separator">/</span>
-          <span class="breadcrumb-current" data-cms="breadcrumb-current">Текущая статья</span>
-        </div>
-        <h1 class="article-header-title" data-cms="title">Заголовок</h1>
+        <a href="chapter.html" class="back-btn" data-cms="back-link">
+          < Назад</a>
+            <div class="breadcrumbs">
+              <a href="index.html" class="breadcrumb-link">Зміст</a>
+              <span class="breadcrumb-separator">/</span>
+              <a href="chapter.html" class="breadcrumb-link" data-cms="breadcrumb-chapter">Розділ</a>
+              <span class="breadcrumb-separator">/</span>
+              <span class="breadcrumb-current" data-cms="breadcrumb-current">Нинішня статья</span>
+            </div>
+            <h1 class="article-header-title" data-cms="title">Заголовок</h1>
       </div>
     </div>
-    
+
     <div class="article-cover-right">
       <div class="article-hero-image-wrapper" data-cms="hero-image-wrapper"></div>
     </div>
@@ -47,7 +74,10 @@
     <nav class="article-toc" data-cms="toc"></nav>
     <div class="article-content-column">
       <div class="article-content" data-cms="content"></div>
-      <div class="article-next-navigation" data-cms="next-nav"></div>
+      <div class="article-next-navigation">
+        <div class="nav-slot nav-slot-prev" data-cms="prev-nav"></div>
+        <div class="nav-slot nav-slot-next" data-cms="next-nav"></div>
+      </div>
     </div>
   </div>
 </body>

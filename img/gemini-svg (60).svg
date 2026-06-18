@@ -1,54 +1,59 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1600" width="100%" height="100%">
-  <defs>
-    <style>
-      .layout-bg { fill: #ffffff; stroke: #000000; stroke-width: 2; }
-      .grid-column { fill: #e5e5e5; }
-      .badge-bg { fill: #cc0000; }
-      .badge-text { fill: #ffffff; font-family: 'Arial Black', sans-serif; font-size: 24px; font-weight: bold; }
-      .headline { fill: #000000; }
-      .text-block { fill: #000000; }
-      .pull-quote-bg { fill: #ffffff; stroke: #e5e5e5; stroke-width: 1; }
-    </style>
-  </defs>
-
-  <g id="layout-1" data-type="layout-diagram">
-    <rect x="50" y="50" width="500" height="380" class="layout-bg" />
-    
-    <rect x="70" y="170" width="100" height="240" class="grid-column" data-type="column" />
-    <rect x="185" y="170" width="100" height="240" class="grid-column" data-type="column" />
-    <rect x="300" y="170" width="100" height="240" class="grid-column" data-type="column" />
-    <rect x="415" y="170" width="100" height="240" class="grid-column" data-type="column" />
-    
-    <rect x="40" y="75" width="90" height="35" class="badge-bg" />
-    <text x="52" y="101" class="badge-text">GOOD</text>
-    
-    <path d="M 140,75 L 155,75 L 155,90 L 140,90 Z 
-             M 160,75 L 175,75 L 175,90 L 160,90 Z
-             M 180,75 L 210,75 L 210,90 L 180,90 Z" class="headline" data-type="headline" />
-    <rect x="140" y="75" width="390" height="20" class="headline" data-type="headline" />
-    
-    <rect x="185" y="110" width="215" height="8" class="text-block" data-type="subhead" />
-    <rect x="230" y="122" width="125" height="6" class="text-block" data-type="subhead" />
-  </g>
-
-  <g id="layout-2" data-type="layout-diagram">
-    <rect x="650" y="50" width="500" height="380" class="layout-bg" />
-    
-    <rect x="670" y="170" width="100" height="240" class="grid-column" data-type="column" />
-    <rect x="785" y="170" width="100" height="240" class="grid-column" data-type="column" />
-    <rect x="900" y="170" width="100" height="240" class="grid-column" data-type="column" />
-    <rect x="1015" y="170" width="100" height="240" class="grid-column" data-type="column" />
-    
-    <rect x="640" y="75" width="90" height="35" class="badge-bg" />
-    <text x="652" y="101" class="badge-text">GOOD</text>
-    
-    <rect x="740" y="75" width="390" height="20" class="headline" data-type="headline" />
-    
-    <rect x="825" y="210" width="135" height="110" class="pull-quote-bg" data-type="pull-quote-container" />
-    <rect x="850" y="230" width="85" height="6" class="text-block" data-type="caption" />
-    <rect x="837" y="242" width="111" height="6" class="text-block" data-type="caption" />
-    <rect x="860" y="254" width="65" height="6" class="text-block" data-type="caption" />
-    <rect x="842" y="266" width="101" height="6" class="text-block" data-type="caption" />
-    <rect x="870" y="278" width="45" height="6" class="text-block" data-type="caption" />
-  </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1200 469" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g id="layout-1">
+        <rect x="50" y="50" width="500" height="380" style="fill:white;stroke:black;stroke-width:2px;"/>
+        <g transform="matrix(1,0,0,1.25,0,-102.5)">
+            <rect x="70" y="170" width="100" height="240" style="fill:rgb(229,229,229);"/>
+        </g>
+        <rect x="185" y="170" width="100" height="240" style="fill:rgb(229,229,229);"/>
+        <rect x="300" y="170" width="100" height="240" style="fill:rgb(229,229,229);"/>
+        <g transform="matrix(1,0,0,1.25,0,-102.5)">
+            <rect x="415" y="170" width="100" height="240" style="fill:rgb(229,229,229);"/>
+        </g>
+        <rect x="40" y="75" width="90" height="35" style="fill:rgb(204,0,0);"/>
+        <g transform="matrix(1,0,0,1,48,101)">
+            <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:24px;fill:white;">GOOD</text>
+        </g>
+        <path d="M140,75L155,75L155,90L140,90L140,75ZM160,75L175,75L175,90L160,90L160,75ZM180,75L210,75L210,90L180,90L180,75Z" style="fill-rule:nonzero;"/>
+        <rect x="140" y="75" width="390" height="20"/>
+        <rect x="185" y="110" width="215" height="8"/>
+        <g transform="matrix(1.552,0,0,1,-158.96,1)">
+            <rect x="230" y="122" width="125" height="6"/>
+        </g>
+        <g transform="matrix(1.552,0,0,1,-158.96,12)">
+            <rect x="230" y="122" width="125" height="6"/>
+        </g>
+        <g transform="matrix(1.552,0,0,1,-158.96,24)">
+            <rect x="230" y="122" width="125" height="6"/>
+        </g>
+    </g>
+    <g id="layout-2">
+        <rect x="650" y="50" width="500" height="380" style="fill:white;stroke:black;stroke-width:2px;"/>
+        <g transform="matrix(1,0,0,1.25,0,-102.5)">
+            <rect x="670" y="170" width="100" height="240" style="fill:rgb(229,229,229);"/>
+        </g>
+        <g transform="matrix(1,0,0,1.25,0,-102.5)">
+            <rect x="785" y="170" width="100" height="240" style="fill:rgb(229,229,229);"/>
+        </g>
+        <g transform="matrix(1,0,0,1.25,0,-102.5)">
+            <rect x="900" y="170" width="100" height="240" style="fill:rgb(229,229,229);"/>
+        </g>
+        <g transform="matrix(1,0,0,1.25,0,-102.5)">
+            <rect x="1015" y="170" width="100" height="240" style="fill:rgb(229,229,229);"/>
+        </g>
+        <rect x="640" y="75" width="90" height="35" style="fill:rgb(204,0,0);"/>
+        <g transform="matrix(1,0,0,1,648.279297,101)">
+            <text x="0px" y="0px" style="font-family:'Helvetica-Bold', 'Helvetica';font-weight:700;font-size:24px;fill:white;">GOOD</text>
+        </g>
+        <rect x="740" y="75" width="390" height="20"/>
+        <g transform="matrix(1,0,0,1,0,-7)">
+            <rect x="825" y="210" width="135" height="110" style="fill:white;stroke:rgb(229,229,229);stroke-width:1px;"/>
+        </g>
+        <rect x="850" y="230" width="85" height="6"/>
+        <rect x="837" y="242" width="111" height="6"/>
+        <rect x="860" y="254" width="65" height="6"/>
+        <rect x="842" y="266" width="101" height="6"/>
+        <rect x="870" y="278" width="45" height="6"/>
+    </g>
 </svg>
