@@ -88,8 +88,8 @@ def markdown_to_html(md_text):
             cite_html = ""
             for line in current_block_lines:
                 line_str = line.strip()
-                if line_str.startswith('—') or line_str.startswith('--') or line_str.startswith('cite:'):
-                    author = re.sub(r'^(—|--|cite:)\s*', '', line_str).strip()
+                if line_str.startswith('—') or line_str.startswith('–') or line_str.startswith('--') or line_str.startswith('cite:'):
+                    author = re.sub(r'^(—|–|--|cite:)\s*', '', line_str).strip()
                     cite_html = f'\n  <cite class="quote-author">{author}</cite>'
                 else:
                     bq_lines.append(line)
@@ -99,13 +99,25 @@ def markdown_to_html(md_text):
             list_items = []
             for line in current_block_lines:
                 item_text = re.sub(r'^\s*[-*]\s+', '', line).strip()
-                list_items.append(f'  <li>{replace_inline(item_text)}</li>')
+                replaced = replace_inline(item_text)
+                m = re.match(r'^((?:<strong>|<b>|<em>|<i>).*?<\/(?:strong|b|em|i)>)(.*)$', replaced, re.DOTALL)
+                if m:
+                    header, rest = m.group(1), m.group(2)
+                    if rest.strip():
+                        replaced = f'{header}<span class="list-item-text">{rest}</span>'
+                list_items.append(f'  <li>{replaced}</li>')
             html_blocks.append("<ul>\n" + "\n".join(list_items) + "\n</ul>")
         elif current_block_type == 'ol':
             list_items = []
             for line in current_block_lines:
                 item_text = re.sub(r'^\s*\d+\.\s+', '', line).strip()
-                list_items.append(f'  <li>{replace_inline(item_text)}</li>')
+                replaced = replace_inline(item_text)
+                m = re.match(r'^((?:<strong>|<b>|<em>|<i>).*?<\/(?:strong|b|em|i)>)(.*)$', replaced, re.DOTALL)
+                if m:
+                    header, rest = m.group(1), m.group(2)
+                    if rest.strip():
+                        replaced = f'{header}<span class="list-item-text">{rest}</span>'
+                list_items.append(f'  <li>{replaced}</li>')
             html_blocks.append("<ol>\n" + "\n".join(list_items) + "\n</ol>")
         elif current_block_type == 'html':
             html_blocks.append(content)

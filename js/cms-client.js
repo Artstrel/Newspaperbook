@@ -1213,13 +1213,9 @@ class CMSClient {
           const textCol = document.createElement('div');
           textCol.className = 'list-text-col';
           textCol.appendChild(listEl);
-          if (grid.classList.contains('layout-reverse')) {
-            grid.appendChild(textCol);
-            grid.appendChild(imgCol);
-          } else {
-            grid.appendChild(imgCol);
-            grid.appendChild(textCol);
-          }
+          // Always append the floated imgCol first so that text content in textCol can flow and wrap around it correctly.
+          grid.appendChild(imgCol);
+          grid.appendChild(textCol);
         };
 
         const run = () => {
@@ -1248,12 +1244,13 @@ class CMSClient {
             const imgMaxH = dispW / ratio;
             return imgMaxH >= listH * 0.85;
           };
-          if (!photoCanFillList()) buildStacked();
+          // Disable buildStacked layout fallback to allow wrapping lists around images
+          // if (!photoCanFillList()) buildStacked();
 
 
           const cc = window.cmsClient;
           cc._listFitGrids = cc._listFitGrids || [];
-          cc._listFitGrids.push(() => { if (!photoCanFillList()) buildStacked(); });
+          cc._listFitGrids.push(() => { /* if (!photoCanFillList()) buildStacked(); */ });
           if (!cc._listFitResizeBound) {
             cc._listFitResizeBound = true;
             let t;

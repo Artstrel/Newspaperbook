@@ -158,7 +158,7 @@
   padding-left: 0.8rem;
 }
 
-.img-layout-float-right {
+.article-figure.img-layout-float-right {
   float: right;
   width: 45%;
   margin: 0.35rem 0 1.5rem 2rem;
@@ -185,7 +185,7 @@
   object-fit: contain;
 }
 
-.img-layout-offset-left {
+.article-figure.img-layout-offset-left {
   float: left;
   width: 45%;
   margin: 0.35rem 2rem 1.5rem 0;
@@ -196,8 +196,8 @@
 }
 
 
-.img-layout-wide.img-layout-float-right,
-.img-layout-wide.img-layout-offset-left {
+.article-figure.img-layout-wide.img-layout-float-right,
+.article-figure.img-layout-wide.img-layout-offset-left {
   width: 60%;
 }
 
@@ -518,10 +518,10 @@
     margin-bottom: 2rem;
   }
 
-  .img-layout-float-right,
-  .img-layout-offset-left,
-  .img-layout-wide.img-layout-float-right,
-  .img-layout-wide.img-layout-offset-left {
+  .article-figure.img-layout-float-right,
+  .article-figure.img-layout-offset-left,
+  .article-figure.img-layout-wide.img-layout-float-right,
+  .article-figure.img-layout-wide.img-layout-offset-left {
     float: none;
     width: 100%;
     margin: 1.5rem 0;
@@ -738,11 +738,20 @@
   display: block !important;
   text-align: justify !important;
   text-align-last: left !important;
-  text-wrap: pretty;
+  text-wrap: wrap;
   hyphens: auto;
   -webkit-hyphens: auto;
   -moz-hyphens: auto;
   overflow-wrap: break-word;
+}
+
+
+.article-content ul li .list-item-text,
+.article-content ol li .list-item-text {
+  display: block !important;
+  text-align: justify !important;
+  text-align-last: left !important;
+  text-wrap: wrap !important;
 }
 
 
@@ -812,8 +821,7 @@
 .article-content ol li>h6,
 .article-content ul li>.list-title,
 .article-content ol li>.list-title {
-  display: inline-block !important;
-  width: 100% !important;
+  display: block !important;
   font-family: var(--font-serif) !important;
   font-size: 1.35rem !important;
   font-weight: 600 !important;
@@ -1034,21 +1042,29 @@
 
 
 .layout-illustrated-list {
-  display: grid;
-  grid-template-columns: 1.1fr 1fr;
-  gap: 3rem;
+  display: block;
   margin: 3.5rem 0;
-  align-items: start;
   width: 100%;
   clear: both;
 }
 
-.layout-illustrated-list.layout-reverse {
-  grid-template-columns: 1fr 1.1fr;
+.layout-illustrated-list::after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
 .layout-illustrated-list .list-img-col {
-  width: 100%;
+  float: left;
+  width: 48%;
+  margin-right: 3rem;
+  margin-bottom: 1.5rem;
+}
+
+.layout-illustrated-list.layout-reverse .list-img-col {
+  float: right;
+  margin-right: 0;
+  margin-left: 3rem;
 }
 
 .layout-illustrated-list .list-img-col img,
@@ -1063,30 +1079,32 @@
 }
 
 .layout-illustrated-list .list-text-col {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  width: 100%;
-  padding-left: 2.5rem;
-}
-
-.layout-illustrated-list.layout-reverse .list-text-col {
-  padding-left: 0;
-  padding-right: 2.5rem;
+  display: block;
+  width: auto;
+  padding: 0;
 }
 
 .layout-illustrated-list .list-text-col ul,
 .layout-illustrated-list .list-text-col ol {
+  display: block;
   margin: 0 !important;
+  padding: 0;
+  clear: none;
 }
 
-
 .layout-illustrated-list .list-img-col > figure.article-figure {
+  margin: 0 !important;
   justify-content: center;
 }
 
+.layout-illustrated-list .list-text-col li {
+  display: flow-root !important;
+  margin-bottom: 1.6rem !important;
+  text-align: left !important;
+  text-align-last: left !important;
+  clear: none;
+}
 
-.layout-illustrated-list .list-text-col li,
 .layout-grid .grid-col li {
   text-align: left !important;
   text-align-last: left !important;
@@ -1293,11 +1311,25 @@
   }
 
   .layout-illustrated-list {
-    grid-template-columns: 1fr !important;
-    gap: 1.5rem !important;
+    display: block !important;
+    clear: both !important;
+  }
+
+  .layout-illustrated-list .list-img-col {
+    float: none !important;
+    width: 100% !important;
+    margin: 0 auto 2rem auto !important;
+  }
+
+  .layout-illustrated-list.layout-reverse .list-img-col {
+    float: none !important;
+    width: 100% !important;
+    margin: 0 auto 2rem auto !important;
   }
 
   .layout-illustrated-list .list-text-col {
+    display: block !important;
+    width: 100% !important;
     border-left: none !important;
     border-right: none !important;
     padding-left: 0 !important;
@@ -2246,13 +2278,11 @@ figure.img-portrait:has(.photo-frame) {
 }
 
 
-.layout-inset-panel,
-.layout-illustrated-list {
+.layout-inset-panel {
   align-items: stretch;
 }
 
 .layout-inset-panel .panel-img-col,
-.layout-illustrated-list .list-img-col,
 .layout-staggered-triptych .triptych-col-2 {
   position: relative;
   min-height: 0;
@@ -2261,13 +2291,11 @@ figure.img-portrait:has(.photo-frame) {
 
 
 .layout-inset-panel .panel-img-col:has(figcaption),
-.layout-illustrated-list .list-img-col:has(figcaption),
 .layout-staggered-triptych .triptych-col-2:has(figcaption) {
   min-height: 220px;
 }
 
 .layout-inset-panel .panel-img-col>figure.article-figure,
-.layout-illustrated-list .list-img-col>figure.article-figure,
 .layout-staggered-triptych .triptych-col-2>figure.article-figure {
   position: absolute;
   inset: 0;
@@ -2282,7 +2310,6 @@ figure.img-portrait:has(.photo-frame) {
 }
 
 .layout-inset-panel .panel-img-col .photo-frame,
-.layout-illustrated-list .list-img-col .photo-frame,
 .layout-staggered-triptych .triptych-col-2 .photo-frame {
 
   display: block;
@@ -2297,7 +2324,6 @@ figure.img-portrait:has(.photo-frame) {
 }
 
 .layout-inset-panel .panel-img-col .photo-frame>img,
-.layout-illustrated-list .list-img-col .photo-frame>img,
 .layout-staggered-triptych .triptych-col-2 .photo-frame>img {
   width: 100% !important;
   height: 100% !important;
@@ -2307,7 +2333,6 @@ figure.img-portrait:has(.photo-frame) {
 
 
 .layout-inset-panel .panel-img-col>figure.article-figure:has(figcaption) .photo-frame,
-.layout-illustrated-list .list-img-col>figure.article-figure:has(figcaption) .photo-frame,
 .layout-staggered-triptych .triptych-col-2>figure.article-figure:has(figcaption) .photo-frame {
   aspect-ratio: auto;
   flex: 1 1 auto;
@@ -2319,13 +2344,11 @@ figure.img-portrait:has(.photo-frame) {
 }
 
 .layout-inset-panel .panel-img-col>figure.article-figure:has(figcaption) .photo-frame>img,
-.layout-illustrated-list .list-img-col>figure.article-figure:has(figcaption) .photo-frame>img,
 .layout-staggered-triptych .triptych-col-2>figure.article-figure:has(figcaption) .photo-frame>img {
   object-fit: cover !important;
 }
 
 .layout-inset-panel .panel-img-col figcaption.article-figcaption,
-.layout-illustrated-list .list-img-col figcaption.article-figcaption,
 .layout-staggered-triptych .triptych-col-2 figcaption.article-figcaption {
   flex: 0 0 auto;
   margin-top: 0;
